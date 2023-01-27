@@ -1,0 +1,1549 @@
+
+<!DOCTYPE html>
+<html data-markdown-preview-plus-context="html-export">
+  <head>
+    <meta charset="utf-8" />
+    <title>shell_instructions</title>
+    <style>.emoji {
+  max-width: 1em !important;
+}
+del {
+  text-decoration: none;
+  position: relative;
+}
+del::after {
+  border-bottom: 1px solid black;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+ul.contains-task-list li.task-list-item {
+  position: relative;
+  list-style-type: none;
+}
+ul.contains-task-list li.task-list-item input.task-list-item-checkbox {
+  position: absolute;
+  transform: translateX(-100%);
+  width: 30px;
+}
+span.critic.comment {
+  position: relative;
+}
+span.critic.comment::before {
+  content: '\1f4ac';
+  position: initial;
+}
+span.critic.comment > span {
+  display: none;
+}
+span.critic.comment:hover > span {
+  display: initial;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: 1px solid;
+  border-radius: 5px;
+  max-height: 4em;
+  overflow: auto;
+}
+span.critic.comment:focus > span {
+  display: initial;
+  text-decoration: underline;
+  position: initial;
+  top: auto;
+  left: auto;
+  border: initial;
+  border-radius: initial;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: transparent;
+}
+
+body {
+  overflow: initial !important;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  line-height: 1.6;
+  word-wrap: break-word;
+  padding: 30px;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+}
+body > *:first-child {
+  margin-top: 0 !important;
+}
+body > *:last-child {
+  margin-bottom: 0 !important;
+}
+body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+body .absent {
+  color: #c00;
+}
+body .anchor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  padding-right: 6px;
+  padding-left: 30px;
+  margin-left: -30px;
+}
+body .anchor:focus {
+  outline: none;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+body h1 .octicon-link,
+body h2 .octicon-link,
+body h3 .octicon-link,
+body h4 .octicon-link,
+body h5 .octicon-link,
+body h6 .octicon-link {
+  display: none;
+  color: #000;
+  vertical-align: middle;
+}
+body h1:hover .anchor,
+body h2:hover .anchor,
+body h3:hover .anchor,
+body h4:hover .anchor,
+body h5:hover .anchor,
+body h6:hover .anchor {
+  padding-left: 8px;
+  margin-left: -30px;
+  text-decoration: none;
+}
+body h1:hover .anchor .octicon-link,
+body h2:hover .anchor .octicon-link,
+body h3:hover .anchor .octicon-link,
+body h4:hover .anchor .octicon-link,
+body h5:hover .anchor .octicon-link,
+body h6:hover .anchor .octicon-link {
+  display: inline-block;
+}
+body h1 tt,
+body h2 tt,
+body h3 tt,
+body h4 tt,
+body h5 tt,
+body h6 tt,
+body h1 code,
+body h2 code,
+body h3 code,
+body h4 code,
+body h5 code,
+body h6 code {
+  font-size: inherit;
+}
+body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+body h1 .anchor {
+  line-height: 1;
+}
+body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+body h2 .anchor {
+  line-height: 1;
+}
+body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+body h3 .anchor {
+  line-height: 1.2;
+}
+body h4 {
+  font-size: 1.25em;
+}
+body h4 .anchor {
+  line-height: 1.2;
+}
+body h5 {
+  font-size: 1em;
+}
+body h5 .anchor {
+  line-height: 1.1;
+}
+body h6 {
+  font-size: 1em;
+  color: #777;
+}
+body h6 .anchor {
+  line-height: 1.1;
+}
+body p,
+body blockquote,
+body ul,
+body ol,
+body dl,
+body table,
+body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+body ul,
+body ol {
+  padding-left: 2em;
+}
+body ul.no-list,
+body ol.no-list {
+  padding: 0;
+  list-style-type: none;
+}
+body ul ul,
+body ul ol,
+body ol ol,
+body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+body li > p {
+  margin-top: 16px;
+}
+body dl {
+  padding: 0;
+}
+body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+body blockquote > :first-child {
+  margin-top: 0;
+}
+body blockquote > :last-child {
+  margin-bottom: 0;
+}
+body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+body table th {
+  font-weight: bold;
+}
+body table th,
+body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body .emoji {
+  max-width: none;
+}
+body span.frame {
+  display: block;
+  overflow: hidden;
+}
+body span.frame > span {
+  display: block;
+  float: left;
+  width: auto;
+  padding: 7px;
+  margin: 13px 0 0;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
+body span.frame span img {
+  display: block;
+  float: left;
+}
+body span.frame span span {
+  display: block;
+  padding: 5px 0 0;
+  clear: both;
+  color: #333;
+}
+body span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+body span.align-center > span {
+  display: block;
+  margin: 13px auto 0;
+  overflow: hidden;
+  text-align: center;
+}
+body span.align-center span img {
+  margin: 0 auto;
+  text-align: center;
+}
+body span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both;
+}
+body span.align-right > span {
+  display: block;
+  margin: 13px 0 0;
+  overflow: hidden;
+  text-align: right;
+}
+body span.align-right span img {
+  margin: 0;
+  text-align: right;
+}
+body span.float-left {
+  display: block;
+  float: left;
+  margin-right: 13px;
+  overflow: hidden;
+}
+body span.float-left span {
+  margin: 13px 0 0;
+}
+body span.float-right {
+  display: block;
+  float: right;
+  margin-left: 13px;
+  overflow: hidden;
+}
+body span.float-right > span {
+  display: block;
+  margin: 13px auto 0;
+  overflow: hidden;
+  text-align: right;
+}
+body code,
+body tt {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 3px;
+}
+body code:before,
+body tt:before,
+body code:after,
+body tt:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+body code br,
+body tt br {
+  display: none;
+}
+body del code {
+  text-decoration: inherit;
+}
+body pre > code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+body .highlight {
+  margin-bottom: 16px;
+}
+body .highlight pre,
+body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+body pre {
+  word-wrap: normal;
+}
+body pre code,
+body pre tt {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+body pre code:before,
+body pre tt:before,
+body pre code:after,
+body pre tt:after {
+  content: normal;
+}
+body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+span.critic.comment > span {
+  background-color: #fff;
+}
+a {
+  color: #337ab7;
+}
+
+.bracket-matcher .region {
+  border-bottom: 1px dotted lime;
+  position: absolute;
+}
+.line-number.bracket-matcher.bracket-matcher {
+  color: #abb2bf;
+  background-color: #3a3f4b;
+}
+
+.spell-check-misspelling .region {
+  border-bottom: 2px dotted rgba(255, 51, 51, 0.75);
+}
+.spell-check-corrections {
+  width: 25em !important;
+}
+
+pre.editor-colors {
+  background-color: #282c34;
+  color: #abb2bf;
+}
+pre.editor-colors .line.cursor-line {
+  background-color: rgba(153, 187, 255, 0.04);
+}
+pre.editor-colors .invisible {
+  color: #abb2bf;
+}
+pre.editor-colors .cursor {
+  border-left: 2px solid #528bff;
+}
+pre.editor-colors .selection .region {
+  background-color: #3e4451;
+}
+pre.editor-colors .bracket-matcher .region {
+  border-bottom: 1px solid #528bff;
+  box-sizing: border-box;
+}
+pre.editor-colors .invisible-character {
+  color: rgba(171, 178, 191, 0.15);
+}
+pre.editor-colors .indent-guide {
+  color: rgba(171, 178, 191, 0.15);
+}
+pre.editor-colors .wrap-guide {
+  background-color: rgba(171, 178, 191, 0.15);
+}
+pre.editor-colors .find-result .region.region.region,
+pre.editor-colors .current-result .region.region.region {
+  border-radius: 2px;
+  background-color: rgba(82, 139, 255, 0.24);
+  transition: border-color 0.4s;
+}
+pre.editor-colors .find-result .region.region.region {
+  border: 2px solid transparent;
+}
+pre.editor-colors .current-result .region.region.region {
+  border: 2px solid #528bff;
+  transition-duration: .1s;
+}
+pre.editor-colors .gutter .line-number {
+  color: #636d83;
+  -webkit-font-smoothing: antialiased;
+}
+pre.editor-colors .gutter .line-number.cursor-line {
+  color: #abb2bf;
+  background-color: #3a3f4b;
+}
+pre.editor-colors .gutter .line-number.cursor-line-no-selection {
+  background-color: transparent;
+}
+pre.editor-colors .gutter .line-number .icon-right {
+  color: #abb2bf;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed.git-line-removed::before {
+  bottom: -3px;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed::after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 25px;
+  border-bottom: 1px dotted rgba(224, 82, 82, 0.5);
+  pointer-events: none;
+}
+pre.editor-colors .gutter .line-number.folded,
+pre.editor-colors .gutter .line-number:after,
+pre.editor-colors .fold-marker:after {
+  color: #abb2bf;
+}
+.syntax--comment {
+  color: #5c6370;
+  font-style: italic;
+}
+.syntax--comment .syntax--markup.syntax--link {
+  color: #5c6370;
+}
+.syntax--entity.syntax--name.syntax--type {
+  color: #e5c07b;
+}
+.syntax--entity.syntax--other.syntax--inherited-class {
+  color: #e5c07b;
+}
+.syntax--keyword {
+  color: #c678dd;
+}
+.syntax--keyword.syntax--control {
+  color: #c678dd;
+}
+.syntax--keyword.syntax--operator {
+  color: #c678dd;
+}
+.syntax--keyword.syntax--other.syntax--special-method {
+  color: #61afef;
+}
+.syntax--keyword.syntax--other.syntax--unit {
+  color: #d19a66;
+}
+.syntax--storage {
+  color: #c678dd;
+}
+.syntax--storage.syntax--type.syntax--annotation,
+.syntax--storage.syntax--type.syntax--primitive {
+  color: #c678dd;
+}
+.syntax--storage.syntax--modifier.syntax--package,
+.syntax--storage.syntax--modifier.syntax--import {
+  color: #abb2bf;
+}
+.syntax--constant {
+  color: #d19a66;
+}
+.syntax--constant.syntax--variable {
+  color: #d19a66;
+}
+.syntax--constant.syntax--character.syntax--escape {
+  color: #56b6c2;
+}
+.syntax--constant.syntax--numeric {
+  color: #d19a66;
+}
+.syntax--constant.syntax--other.syntax--color {
+  color: #56b6c2;
+}
+.syntax--constant.syntax--other.syntax--symbol {
+  color: #56b6c2;
+}
+.syntax--variable {
+  color: #e06c75;
+}
+.syntax--variable.syntax--interpolation {
+  color: #be5046;
+}
+.syntax--variable.syntax--parameter {
+  color: #abb2bf;
+}
+.syntax--string {
+  color: #98c379;
+}
+.syntax--string > .syntax--source,
+.syntax--string .syntax--embedded {
+  color: #abb2bf;
+}
+.syntax--string.syntax--regexp {
+  color: #56b6c2;
+}
+.syntax--string.syntax--regexp .syntax--source.syntax--ruby.syntax--embedded {
+  color: #e5c07b;
+}
+.syntax--string.syntax--other.syntax--link {
+  color: #e06c75;
+}
+.syntax--punctuation.syntax--definition.syntax--comment {
+  color: #5c6370;
+}
+.syntax--punctuation.syntax--definition.syntax--method-parameters,
+.syntax--punctuation.syntax--definition.syntax--function-parameters,
+.syntax--punctuation.syntax--definition.syntax--parameters,
+.syntax--punctuation.syntax--definition.syntax--separator,
+.syntax--punctuation.syntax--definition.syntax--seperator,
+.syntax--punctuation.syntax--definition.syntax--array {
+  color: #abb2bf;
+}
+.syntax--punctuation.syntax--definition.syntax--heading,
+.syntax--punctuation.syntax--definition.syntax--identity {
+  color: #61afef;
+}
+.syntax--punctuation.syntax--definition.syntax--bold {
+  color: #e5c07b;
+  font-weight: bold;
+}
+.syntax--punctuation.syntax--definition.syntax--italic {
+  color: #c678dd;
+  font-style: italic;
+}
+.syntax--punctuation.syntax--section.syntax--embedded {
+  color: #be5046;
+}
+.syntax--punctuation.syntax--section.syntax--method,
+.syntax--punctuation.syntax--section.syntax--class,
+.syntax--punctuation.syntax--section.syntax--inner-class {
+  color: #abb2bf;
+}
+.syntax--support.syntax--class {
+  color: #e5c07b;
+}
+.syntax--support.syntax--type {
+  color: #56b6c2;
+}
+.syntax--support.syntax--function {
+  color: #56b6c2;
+}
+.syntax--support.syntax--function.syntax--any-method {
+  color: #61afef;
+}
+.syntax--entity.syntax--name.syntax--function {
+  color: #61afef;
+}
+.syntax--entity.syntax--name.syntax--class,
+.syntax--entity.syntax--name.syntax--type.syntax--class {
+  color: #e5c07b;
+}
+.syntax--entity.syntax--name.syntax--section {
+  color: #61afef;
+}
+.syntax--entity.syntax--name.syntax--tag {
+  color: #e06c75;
+}
+.syntax--entity.syntax--other.syntax--attribute-name {
+  color: #d19a66;
+}
+.syntax--entity.syntax--other.syntax--attribute-name.syntax--id {
+  color: #61afef;
+}
+.syntax--meta.syntax--class {
+  color: #e5c07b;
+}
+.syntax--meta.syntax--class.syntax--body {
+  color: #abb2bf;
+}
+.syntax--meta.syntax--method-call,
+.syntax--meta.syntax--method {
+  color: #abb2bf;
+}
+.syntax--meta.syntax--definition.syntax--variable {
+  color: #e06c75;
+}
+.syntax--meta.syntax--link {
+  color: #d19a66;
+}
+.syntax--meta.syntax--require {
+  color: #61afef;
+}
+.syntax--meta.syntax--selector {
+  color: #c678dd;
+}
+.syntax--meta.syntax--separator {
+  color: #abb2bf;
+}
+.syntax--meta.syntax--tag {
+  color: #abb2bf;
+}
+.syntax--underline {
+  text-decoration: underline;
+}
+.syntax--none {
+  color: #abb2bf;
+}
+.syntax--invalid.syntax--deprecated {
+  color: #523d14 !important;
+  background-color: #e0c285 !important;
+}
+.syntax--invalid.syntax--illegal {
+  color: white !important;
+  background-color: #e05252 !important;
+}
+.syntax--markup.syntax--bold {
+  color: #d19a66;
+  font-weight: bold;
+}
+.syntax--markup.syntax--changed {
+  color: #c678dd;
+}
+.syntax--markup.syntax--deleted {
+  color: #e06c75;
+}
+.syntax--markup.syntax--italic {
+  color: #c678dd;
+  font-style: italic;
+}
+.syntax--markup.syntax--heading {
+  color: #e06c75;
+}
+.syntax--markup.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading {
+  color: #61afef;
+}
+.syntax--markup.syntax--link {
+  color: #56b6c2;
+}
+.syntax--markup.syntax--inserted {
+  color: #98c379;
+}
+.syntax--markup.syntax--quote {
+  color: #d19a66;
+}
+.syntax--markup.syntax--raw {
+  color: #98c379;
+}
+.syntax--source.syntax--cs .syntax--keyword.syntax--operator {
+  color: #c678dd;
+}
+.syntax--source.syntax--css .syntax--property-name,
+.syntax--source.syntax--css .syntax--property-value {
+  color: #828997;
+}
+.syntax--source.syntax--css .syntax--property-name.syntax--support,
+.syntax--source.syntax--css .syntax--property-value.syntax--support {
+  color: #abb2bf;
+}
+.syntax--source.syntax--elixir .syntax--source.syntax--embedded.syntax--source {
+  color: #abb2bf;
+}
+.syntax--source.syntax--elixir .syntax--constant.syntax--language,
+.syntax--source.syntax--elixir .syntax--constant.syntax--numeric,
+.syntax--source.syntax--elixir .syntax--constant.syntax--definition {
+  color: #61afef;
+}
+.syntax--source.syntax--elixir .syntax--variable.syntax--definition,
+.syntax--source.syntax--elixir .syntax--variable.syntax--anonymous {
+  color: #c678dd;
+}
+.syntax--source.syntax--elixir .syntax--parameter.syntax--variable.syntax--function {
+  color: #d19a66;
+  font-style: italic;
+}
+.syntax--source.syntax--elixir .syntax--quoted {
+  color: #98c379;
+}
+.syntax--source.syntax--elixir .syntax--keyword.syntax--special-method,
+.syntax--source.syntax--elixir .syntax--embedded.syntax--section,
+.syntax--source.syntax--elixir .syntax--embedded.syntax--source.syntax--empty {
+  color: #e06c75;
+}
+.syntax--source.syntax--elixir .syntax--readwrite.syntax--module .syntax--punctuation {
+  color: #e06c75;
+}
+.syntax--source.syntax--elixir .syntax--regexp.syntax--section,
+.syntax--source.syntax--elixir .syntax--regexp.syntax--string {
+  color: #be5046;
+}
+.syntax--source.syntax--elixir .syntax--separator,
+.syntax--source.syntax--elixir .syntax--keyword.syntax--operator {
+  color: #d19a66;
+}
+.syntax--source.syntax--elixir .syntax--variable.syntax--constant {
+  color: #e5c07b;
+}
+.syntax--source.syntax--elixir .syntax--array,
+.syntax--source.syntax--elixir .syntax--scope,
+.syntax--source.syntax--elixir .syntax--section {
+  color: #828997;
+}
+.syntax--source.syntax--gfm .syntax--markup {
+  -webkit-font-smoothing: auto;
+}
+.syntax--source.syntax--gfm .syntax--link .syntax--entity {
+  color: #61afef;
+}
+.syntax--source.syntax--ini .syntax--keyword.syntax--other.syntax--definition.syntax--ini {
+  color: #e06c75;
+}
+.syntax--source.syntax--java .syntax--storage.syntax--modifier.syntax--import {
+  color: #e5c07b;
+}
+.syntax--source.syntax--java .syntax--storage.syntax--type {
+  color: #e5c07b;
+}
+.syntax--source.syntax--java .syntax--keyword.syntax--operator.syntax--instanceof {
+  color: #c678dd;
+}
+.syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair {
+  color: #e06c75;
+}
+.syntax--source.syntax--java-properties .syntax--meta.syntax--key-pair > .syntax--punctuation {
+  color: #abb2bf;
+}
+.syntax--source.syntax--ts .syntax--keyword.syntax--operator {
+  color: #56b6c2;
+}
+.syntax--source.syntax--flow .syntax--keyword.syntax--operator {
+  color: #56b6c2;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json {
+  color: #e06c75;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation.syntax--string {
+  color: #e06c75;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--value.syntax--json > .syntax--string.syntax--quoted.syntax--json > .syntax--punctuation {
+  color: #98c379;
+}
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--dictionary.syntax--json > .syntax--constant.syntax--language.syntax--json,
+.syntax--source.syntax--json .syntax--meta.syntax--structure.syntax--array.syntax--json > .syntax--constant.syntax--language.syntax--json {
+  color: #56b6c2;
+}
+.syntax--ng.syntax--interpolation {
+  color: #e06c75;
+}
+.syntax--ng.syntax--interpolation.syntax--begin,
+.syntax--ng.syntax--interpolation.syntax--end {
+  color: #61afef;
+}
+.syntax--ng.syntax--interpolation .syntax--function {
+  color: #e06c75;
+}
+.syntax--ng.syntax--interpolation .syntax--function.syntax--begin,
+.syntax--ng.syntax--interpolation .syntax--function.syntax--end {
+  color: #61afef;
+}
+.syntax--ng.syntax--interpolation .syntax--bool {
+  color: #d19a66;
+}
+.syntax--ng.syntax--interpolation .syntax--bracket {
+  color: #abb2bf;
+}
+.syntax--ng.syntax--pipe,
+.syntax--ng.syntax--operator {
+  color: #abb2bf;
+}
+.syntax--ng.syntax--tag {
+  color: #56b6c2;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--attribute-name {
+  color: #e5c07b;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--string {
+  color: #c678dd;
+}
+.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--begin,
+.syntax--ng.syntax--attribute-with-value .syntax--string.syntax--end {
+  color: #abb2bf;
+}
+.syntax--source.syntax--php .syntax--class.syntax--bracket {
+  color: #abb2bf;
+}
+/*
+   This defines styling rules for syntax classes.
+
+   See the naming conventions for a list of syntax classes:
+   https://flight-manual.atom.io/hacking-atom/sections/syntax-naming-conventions
+
+   When styling rules conflict:
+   - The last rule overrides previous rules.
+   - The rule with most classes and pseudo-classes overrides the last rule.
+*/
+.syntax--keyword {
+  color: #c678dd;
+}
+.syntax--keyword.syntax--type {
+  color: #56b6c2;
+}
+.syntax--keyword.syntax--function {
+  color: #e06c75;
+}
+.syntax--keyword.syntax--variable {
+  color: #e06c75;
+}
+.syntax--entity {
+  color: #abb2bf;
+}
+.syntax--entity.syntax--parameter {
+  color: #abb2bf;
+}
+.syntax--entity.syntax--support {
+  color: #e06c75;
+}
+.syntax--entity.syntax--decorator:last-child {
+  color: #61afef;
+}
+.syntax--entity.syntax--label {
+  text-decoration: underline;
+}
+.syntax--entity.syntax--function {
+  color: #61afef;
+}
+.syntax--entity.syntax--operator {
+  color: #61afef;
+}
+.syntax--entity.syntax--operator.syntax--symbolic {
+  color: #abb2bf;
+}
+.syntax--entity.syntax--type {
+  color: #56b6c2;
+}
+.syntax--entity.syntax--tag {
+  color: #e06c75;
+}
+.syntax--entity.syntax--attribute {
+  color: #d19a66;
+}
+.syntax--punctuation {
+  color: #abb2bf;
+}
+.syntax--punctuation.syntax--accessor {
+  color: #abb2bf;
+}
+.syntax--punctuation.syntax--accessor.syntax--member,
+.syntax--punctuation.syntax--accessor.syntax--scope {
+  color: #c678dd;
+}
+.syntax--punctuation.syntax--embedded {
+  color: #c678dd;
+}
+.syntax--string {
+  color: #98c379;
+}
+.syntax--string.syntax--immutable {
+  color: #98c379;
+}
+.syntax--string.syntax--part {
+  color: #56b6c2;
+}
+.syntax--string.syntax--interpolation {
+  color: #c678dd;
+}
+.syntax--string.syntax--regexp {
+  color: #98c379;
+}
+.syntax--string.syntax--regexp.syntax--language {
+  color: #c678dd;
+}
+.syntax--string.syntax--regexp.syntax--variable {
+  color: #61afef;
+}
+.syntax--string.syntax--regexp.syntax--punctuation {
+  color: #c678dd;
+}
+.syntax--constant {
+  color: #d19a66;
+}
+.syntax--constant.syntax--character {
+  color: #98c379;
+}
+.syntax--constant.syntax--character.syntax--escape {
+  color: #98c379;
+}
+.syntax--constant.syntax--character.syntax--code {
+  color: #56b6c2;
+}
+.syntax--text {
+  color: #abb2bf;
+}
+.syntax--markup.syntax--heading {
+  color: #e06c75;
+}
+.syntax--markup.syntax--list.syntax--punctuation {
+  color: #e06c75;
+}
+.syntax--markup.syntax--quote {
+  color: #5c6370;
+  font-style: italic;
+}
+.syntax--markup.syntax--bold {
+  color: #d19a66;
+  font-weight: bold;
+}
+.syntax--markup.syntax--italic {
+  color: #c678dd;
+  font-style: italic;
+}
+.syntax--markup.syntax--underline {
+  color: #56b6c2;
+  text-decoration: underline;
+}
+.syntax--markup.syntax--strike {
+  color: #e06c75;
+}
+.syntax--markup.syntax--raw {
+  color: #98c379;
+}
+.syntax--markup.syntax--link {
+  color: #56b6c2;
+}
+.syntax--markup.syntax--alt {
+  color: #61afef;
+}
+.syntax--markup.syntax--inserted {
+  color: #98c379;
+}
+.syntax--markup.syntax--inserted .syntax--punctuation {
+  color: #98c379;
+}
+.syntax--markup.syntax--highlighted {
+  color: #98c379;
+}
+.syntax--markup.syntax--highlighted .syntax--punctuation {
+  color: #98c379;
+}
+.syntax--markup.syntax--deleted {
+  color: #e06c75;
+}
+.syntax--markup.syntax--deleted .syntax--punctuation {
+  color: #e06c75;
+}
+.syntax--markup.syntax--changed {
+  color: #c678dd;
+}
+.syntax--markup.syntax--changed .syntax--punctuation {
+  color: #c678dd;
+}
+.syntax--markup.syntax--commented {
+  color: #5c6370;
+}
+.syntax--markup.syntax--commented .syntax--punctuation {
+  color: #5c6370;
+}
+.syntax--comment {
+  color: #5c6370;
+  font-style: italic;
+}
+.syntax--comment.syntax--caption {
+  color: #6a7181;
+  font-weight: bold;
+}
+.syntax--comment.syntax--term {
+  color: #707989;
+}
+.syntax--comment.syntax--punctuation {
+  color: #5c6370;
+  font-weight: normal;
+}
+.syntax--invalid:not(.syntax--punctuation).syntax--illegal {
+  color: white !important;
+  background-color: #e05252 !important;
+}
+.syntax--invalid:not(.syntax--punctuation).syntax--deprecated {
+  color: #523d14 !important;
+  background-color: #e0c285 !important;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--function {
+  color: #828997;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--function.syntax--support {
+  color: #56b6c2;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--selector {
+  color: #d19a66;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--selector.syntax--tag {
+  color: #e06c75;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--selector.syntax--id {
+  color: #61afef;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--property {
+  color: #828997;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--property.syntax--support {
+  color: #abb2bf;
+}
+.syntax--source.syntax--css .syntax--entity.syntax--variable {
+  color: #e06c75;
+}
+.syntax--source.syntax--css .syntax--constant {
+  color: #828997;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--support {
+  color: #abb2bf;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--numeric {
+  color: #d19a66;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--media {
+  color: #d19a66;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--color {
+  color: #d19a66;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--offset {
+  color: #abb2bf;
+}
+.syntax--source.syntax--css .syntax--constant.syntax--attribute-value {
+  color: #98c379;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector {
+  color: #d19a66;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--wildcard {
+  color: #e06c75;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--id {
+  color: #61afef;
+}
+.syntax--source.syntax--css .syntax--punctuation.syntax--selector.syntax--attribute {
+  color: #abb2bf;
+}
+
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
+</style>
+
+  </head>
+  <body>
+    <h1>Programming Assignment 1: Jumbo Shell</h1>
+<p>A “shell” is the user interface to an operating system.  While it is correct to
+refer to the graphical user interface (GUI) of an OS as a “graphical shell”,
+what people are most often referring to when they say “shell” is the command
+line interpreter (CLI) for the OS, such as the one you use when you ssh to the
+Halligan Server (<a href="http://homework.cs.tufts.edu">homework.cs.tufts.edu</a>).  In this assignment, you will build a
+simple interactive shell, similar to that one.</p>
+<p>We’ll call our shell <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">jsh</code> (for Jumbo Shell).  Name your source code file
+shell.c and put all your code in that file.  Also use a Makefile to compile your
+program.  You will turn in (only) shell.c and the Makefile, and the Makefile you
+provide will be used to compile your program before grading.</p>
+<p>A starter Makefile is available if you want it, but you are allowed to write
+your own from scratch instead if you prefer, or you can get the starter Makefile
+and then customize however you like.  If you want the starter Makefile, you can
+copy it on the Halligan server as follows:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">cp</span> /comp/111/assignments/shell/Makefile ./</span></pre>
+<h2>Assignment Parameters</h2>
+<p>This assignment, like all programming assignments in this class, should be
+completed <strong>individually</strong> and written in C.  You should compile and test your
+program on the class VMs (explained below), since that is where we will compile
+and test it when we grade.  <em>“But it worked on my machine!” will <strong>not</strong> be
+accepted as an excuse for bugs!</em></p>
+<p>For all assignments in this class, you will <em><strong>not</strong></em> work directly on the
+Halligan server, but will <strong>work on any one of several virtual machines (VMs)
+that are available for our class</strong>.  It is absolutely critical that you run your
+programs on the VMs and not directly on the raw Halligan Server!  Some of the
+things we’re doing could lead to bugs that could damage the server and adversely
+affect everyone else using the server, including other classes!  (For example,
+it is not hard to accidentally write a bug called a “fork bomb” in this
+assignment.)  We share the Halligan Server with many other classes, but the VMs
+are just for this class so we’re free to break them as much as we want.  <img class="emoji" draggable="false" alt="😉" src="atom://markdown-preview-plus/node_modules/twemoji-assets/assets/svg/1f609.svg">  And
+we’ll have several, so if someone else breaks one, you can just SSH to one of
+the others while we wait for the VM to be fixed.</p>
+<p>To SSH to one of the VMs, you must first SSH to the Halligan Server, and then
+run SSH on the Halligan Server to connect to one of the VMs.  You cannot SSH
+directly to a VM.  (This is a security precaution.)</p>
+<p>To SSH to the Halligan Server, use PuTTY on Windows, or run this command on
+the Linux or MacOS terminal, but replace “user” with your login name:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">ssh</span> user@homework.cs.tufts.edu</span></pre>
+<p>Then to SSH to a VM from the Halligan Server, run this command at the server
+command prompt, where XX should be replaced by any two-digit number from
+01 to 06.</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">ssh</span> comp111-XX</span></pre>
+<p>Again, <strong>do not work directly on the Halligan Server</strong>; always run your code on
+one of the VMs instead.  If you break a VM, it’s no big deal and we can easily
+reboot it (which will fix most problems).  But if you break the Halligan Server
+itself, our EECS IT staff will get cranky with me, and then I will get cranky
+with you, and then nobody will be happy… so don’t let that happen.</p>
+<h2>Overview</h2>
+<p>Your shell program will print a prompt and allow the user to type a command.
+Commands will always be a single line, although they may contain spaces (so you
+may have to use <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">fgets()</code> to read the input).  There are two types of commands:
+built-in commands and programs to run.  When a built-in command is entered, the
+shell itself performs the requested action.  Otherwise the first thing on the
+command line will be treated as the name of a program, and the shell will
+create a new process and load that program to run.</p>
+<p>The only built-in command you will implement in your shell is <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">exit</code>.  When
+<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">exit</code> is typed on the command line, your shell program should terminate.
+Otherwise, it should create a process for the specified program, wait for that
+child process to finish, and then print the exit status value of the child
+process.  Then it should return to the prompt so the user can enter a new
+command. Print the status of the child process after it finishes.</p>
+<p>If the child process fails before calling <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp</code> or if <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp</code> itself fails,
+then the child process should print an error message and exit with
+<strong>status 127</strong> (we’ll choose that number because it’s unlikely to already be
+used as an exit status by another program).  Note that the shell (parent
+process) should simply print the exit status of the child process, whatever it
+is, and the child process should actually exit with status 127 if <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp</code> fails
+(or there is any other error in the child process before <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp</code>).  The shell
+(parent process) should <em>not</em> make a special case for these errors and hard code
+printing 127; the number 127 comes from the child process, not the parent
+(shell).</p>
+<p>Example:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">dave@vm-hw09:~<span class="syntax--punctuation syntax--section syntax--embedded">$</span> ./shell</span>
+<span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> <span class="syntax--variable syntax--other syntax--member">echo</span></span> Hello World
+<span class="syntax--entity syntax--name syntax--function">Hello</span> World
+<span class="syntax--entity syntax--name syntax--function">jsh</span> status: 0
+<span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> <span class="syntax--variable syntax--other syntax--member">ls</span></span> <span class="syntax--entity syntax--other syntax--attribute-name">-l</span>
+<span class="syntax--entity syntax--name syntax--function">total</span> 16K
+<span class="syntax--entity syntax--name syntax--function">drwx------.</span> 8 lillethd lillethd 4.0K Nov  5 15:51 cpsc1420
+<span class="syntax--entity syntax--name syntax--function">drwx------.</span> 4 lillethd lillethd   33 Nov  1  2017 cpsc2500
+<span class="syntax--entity syntax--name syntax--function">drwx--x--x.</span> 6 lillethd lillethd   59 Apr  8 12:16 cpsc3500
+<span class="syntax--entity syntax--name syntax--function">drwx--x--x.</span> 5 lillethd lillethd   48 Oct  5  2018 cpsc5510
+<span class="syntax--entity syntax--name syntax--function">drwx------.</span> 4 lillethd lillethd 4.0K Apr  6 13:59 demos
+<span class="syntax--entity syntax--name syntax--function">drwx------.</span> 4 lillethd lillethd   81 Nov 24 22:21 dev
+<span class="syntax--entity syntax--name syntax--function">-r--------.</span> 1 lillethd lillethd 1.7K Oct  1  2019 lillethd-oregon.pem
+<span class="syntax--entity syntax--name syntax--function">jsh</span> status: 0
+<span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> <span class="syntax--variable syntax--other syntax--member">wc</span></span> lillethd-oregon.pem
+  <span class="syntax--entity syntax--name syntax--function">23</span>   29 1694 lillethd-oregon.pem
+<span class="syntax--entity syntax--name syntax--function">jsh</span> status: 0
+<span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> <span class="syntax--variable syntax--other syntax--member">ls</span></span> filedoesnotexist
+<span class="syntax--entity syntax--name syntax--function">ls:</span> cannot access filedoesnotexist: No such file or directory
+<span class="syntax--entity syntax--name syntax--function">jsh</span> status: 2
+<span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> <span class="syntax--variable syntax--other syntax--member">foo</span></span>
+<span class="syntax--entity syntax--name syntax--function">jsh</span> error: Command not found: foo
+<span class="syntax--entity syntax--name syntax--function">jsh</span> status: 127
+<span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> <span class="syntax--variable syntax--other syntax--member">exit</span></span>
+<span class="syntax--entity syntax--name syntax--function">dave@vm-hw09:~</span><span class="syntax--punctuation syntax--section syntax--embedded">$</span></span></pre>
+<p>Notice that all lines output from the shell program (parent or child process)
+start with “jsh”, and all the other output is from the new program that is run.
+This makes it easy to tell which lines comes from which source. Also, the lines
+with "jsh$ " are the prompt (Notice the space after the ‘$’) and the rest of
+the line is the user input. Lines that begin with “jsh” but no ‘$’ are other
+output from the shell program (parent or child process).</p>
+<p>Also, note that the exit status of 2 from <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">ls filedoesnotexist</code> in this example
+comes from the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">ls</code> program itself, not from any code that you will write.</p>
+<p>Once you have the basic functionality working, add output redirection to your
+shell.  If you’re not familiar with output redirection in Unix/Linux shells,
+this <a href="https://ryanstutorials.net/linuxtutorial/piping.php">redirection tutorial</a>
+should help.  Pay particular attention to the “Piping” section.  You are going
+to implement piping in your shell, but <strong>you do <em>not</em> need to implement
+redirection to/from files</strong>.  (Although knowing how to redirect to/from files on
+the command line is still a useful skill when working on Linux/Unix/MacOS, so I
+encourage you to learn about that as well, even though it’s not needed for this
+assignment.)</p>
+<p>So when someone types something like this at your shell prompt:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">jsh<span class="syntax--punctuation syntax--section syntax--embedded">$</span> ./a</span> arg1 <span class="syntax--keyword syntax--operator">|</span> <span class="syntax--entity syntax--name syntax--function">./b</span> <span class="syntax--keyword syntax--operator">|</span> <span class="syntax--entity syntax--name syntax--function">./c</span> arg2 arg3</span></pre>
+<p>The standard output (stdout) from <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./a</code> should not be printed on the terminal,
+but should instead be sent to the standard input (stdin) of <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./b</code> (rather than
+<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./b</code> reading stdin from keyboard input), and the stdout of <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./b</code> should be
+sent to stdin of <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./c</code>.  Note that <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./a</code>, <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./b</code>, and <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./c</code> all run concurrently.
+<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./a</code> does not need to finish before <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./b</code> starts running, and <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./b</code> will
+receive output from <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./a</code> even while both continue running.</p>
+<p>Notice that there are spaces on either side of the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">|</code> character, but there
+don’t have to be.  Your shell should work equally well with commands like
+<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">a | b</code> and <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">a|b</code> (i.e., with or without spaces around the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">|</code>).</p>
+<p><strong>Be sure you run all the processes in the pipeline concurrently</strong>,
+<em><strong>not</strong> one after the other</em>.  Consider the situation where the first program
+in the pipline produces continuous output; you want it to proceed through the
+pipeline and print the resulting output (if any) from the last program as the
+first program runs.  If you run them one at a time, you won’t get any output
+from the last program until after the first program finishes, and there are some
+scenarios where that may take a long time, or even continue running until
+someone terminates the first process manually.  <strong>Each of the processes should
+be a child of the shell process</strong> (<em><strong>not</strong> of each other</em>).</p>
+<p>When you print the program’s exit status, <strong>you only need to print the status of
+the last program in the pipeline</strong> (e.g., from <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">./c</code> in the example above).
+Note that this is the last one in order they’re written in the command, not
+necessarily the last child process to terminate.  (There is no guarantee they
+will exit in the same order they’re written!)</p>
+<p>Even though you only need to print the exit status of the last one, it is still
+important to <strong>wait (or waitpid) on all of the child processes</strong>.  When a
+process is terminated, the OS still keeps an entry for it in the process table
+(list of all processes) and merely changes it’s state to “terminated” (as
+opposed to ready, running, or blocked).  Such a process is called a “zombie
+process” because it will no longer be scheduled to run, but it still exists in
+the OS state.  Once a “zombie process” has been <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">wait</code>ed upon, the OS will free
+its resources and remove it from the process table.  So failing to wait on a
+process can lead to a resource leak in the operating system.</p>
+<h2>Implementation</h2>
+<p>Each command will be a single line of input but may contain spaces that separate
+the command line arguments to the program.  Using <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">fgets()</code> is probably the
+best way to read the input (or <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">getline()</code> may also work), and then use
+<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">strtok_r()</code> (or <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">strsep()</code>) to split the string at the spaces.  There may be
+other ways to do this as well, and you’re welcome to do it any different way
+that works for this assignment (and is valid in C).  However, note that there
+are reasons some of the alternative approaches may not work for more general
+shells even if they do work in this assignment, whereas the approach I’m
+pointing you at should work more generally. So that choice is up to you.</p>
+<p>You will then need to use the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">fork()</code> and <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp()</code> functions to create a new
+process running the requested program with the specified command line arguments.
+Recall what you learned about these functions in class and in the textbook, and
+remember that you can (and should!) refer to the man pages for them.  You are
+required to use the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp()</code> version of exec for this assignment, and may
+<em>not</em> use any of the other exec functions. You also may <em>not</em> use the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">system()</code>
+or <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">popen()</code> functions.</p>
+<p>To be clear, <strong>any of the following things will result in a 0 grade on this assignment</strong>:</p>
+<ul>
+<li>calling <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">system()</code> function</li>
+<li>calling <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">popen()</code> function</li>
+<li>failing to call <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">execvp()</code> function at least once</li>
+<li>failing to call <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">fork()</code> at least once</li>
+<li>failing to compile successfully when you submit</li>
+</ul>
+<p>You will then need to use either the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">wait()</code> or <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">waitpid()</code> function to be sure
+the program completes before you prompt the user for the next command.  Print
+the status that the program returned after the program finished but before
+displaying the prompt again.  (Recall that the status is the return value the
+program gave when returning from <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">main()</code>, or the value it gave when calling
+<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">exit()</code>.)</p>
+<p>Print a sensible error message whenever anything goes wrong, and then return to
+the prompt so the user can enter a new command (unless the nature of the error
+makes that impossible, in which case print the message and exit).  <strong>Be sure to
+check <em>every</em> function you call for errors!</strong></p>
+<p>The following man pages will be helpful for this portion of the assignment:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">man</span> fork
+<span class="syntax--entity syntax--name syntax--function">man</span> execvp
+<span class="syntax--entity syntax--name syntax--function">man</span> 2 wait</span></pre>
+<p>And the following may be helpful for parsing the user input:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">man</span> fgets
+<span class="syntax--entity syntax--name syntax--function">man</span> strtok</span></pre>
+<p>To implement the output redirection (piping), you will need the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">pipe</code> function
+(so now you see why it’s called “piping” and the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">|</code> character is called a
+“pipe”).  The following man pages will be helpful for this part:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">man</span> 2 pipe
+<span class="syntax--entity syntax--name syntax--function">man</span> dup</span></pre>
+<p>Be sure you’re using the pipe to <strong>connect each process’ stdout directly to the
+next one’s stdin</strong>.  <em>The shell itself (parent process) should never read or
+write the pipe.</em>  If you try to do it that way, you will make things <em>waaaaay</em>
+harder on yourself than necessary (because you’ll basically be re-implementing
+what the pipe has already implemented for you in your shell code).</p>
+<p>Note that a process will not read an “end of file” from a pipe (and will
+instead block and wait for more data to arrive in the pipe) if <em>any</em> process has
+an open file descriptor to the write end of the pipe.  (This is because, in
+principle, more data could be written to the pipe at any moment.  You may know
+that it won’t be, but the OS doesn’t know - it’s not inspecting the code to
+understand what it will do.)  So it’s important that the parent process, or any
+other process that has a file descriptor to a pipe’s write end but does not
+intend to actually write to it, must close the write end file descriptor.</p>
+<p>Also, if you use <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">dup2()</code>, pay careful attention to which argument should be
+which file descriptor number.  Be sure you understand what it is doing to each.</p>
+<h2>Suggestions</h2>
+<p>You may proceed developing in whatever order you like, but we suggest doing it
+in the following order, testing thoroughly after each step:</p>
+<ol>
+<li>Write a program that forks a child then waits for it to finish before
+exiting.  Print the status of the child process.</li>
+<li>Add exec to the child to run some program that you just hard code.  (Don’t
+take user input.)</li>
+<li>Add the user input and modify exec to run the program and arguments
+provided by the user.</li>
+<li>Add the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">exit</code> command to make the shell program exit when the user types
+this command instead of a program to run.  (At this point there is no loop
+yet, so <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">exit</code> would just be something you type to not run a program at
+all.)</li>
+<li>Add the loop, so that (unless the user gives the <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">exit</code> command) the shell
+will return to the prompt and get another program to run after the previous
+one finished</li>
+<li>Allow the user to give multiple programs to run separated by pipe (<code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">|</code>)
+characters.  The shell should fork and run each of them, waiting for all
+the child processes to finish (and printing the last one’s status) before
+looping back to the prompt.  (Note that the output is not piped yet, so
+they just run concurrently, each printing its own separate output.  This is
+equivalent to what the real shell does if you use <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">&amp;</code> instead of <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">|</code>.)</li>
+<li>Set up a pipe between each of the multiple programs so that the standard
+output (stdout) of each is redirected to the standard input (stdin) of the
+next.  (stdout of the last one should not be redirected; its output will
+still be printed on the terminal.)</li>
+</ol>
+<p>Be sure to pace yourself; you have approximately two weeks to work on this
+assignment.  <strong>Steps 6 and 7 above are probably <em>at least</em> half the work of the
+assignment</strong>, so we strongly recommend finishing steps 1-5 by the end of the
+first week.</p>
+<p>Also remember that short, simple, elegant code is much better than long, complex
+code.  Just because a task is complex does not necessarily mean that the code
+needs to be (or should be) long and complex.  Look for opportunities to write
+general code has a few small checks for where something needs to be done
+differently, rather than write completely different code paths for different
+scenarios that nonetheless have more in common than they do differently.
+(e.g., The scenario with a single program and no pipes is just a special case
+of a command with pipes, where the number of pipes happens to be zero.)</p>
+<p><strong>Remember to write error handling each time you call a system function!</strong></p>
+<p>If you’re having trouble getting started, check out the “Homework (Code)”
+section at the end of
+<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf">Chapter 5 of the textbook</a>.
+While you don’t normally need to do the homework questions in the textbook,
+these particular ones are specifically related to this assignment.  If you can
+solve these homework questions, then you should be able to get started on this
+assignment.</p>
+<p>The content of that chapter may be helpful to refer back to as well, and always
+remember to read the man pages!</p>
+<h2>Testing</h2>
+<p>Test your shell thoroughly before submitting.  Think through all the cases that
+could come up:  programs with one command line argument, programs with several
+command line arguments, programs without any command line arguments, programs
+that complete successfully, programs that encounter an error in the program (not
+an error in <em>your</em> code)…  and of course do not just test the expected path;
+think of all the things that could go wrong and make sure you’re handling them
+(with an error message, for example) – anticipate the unexpected, then test it!
+<strong>Do <em>not</em> limit yourself to running the examples above</strong>; that will <em>not</em> be
+sufficient testing.</p>
+<p>Also, run your shell program with <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">valgrind</code> to make sure there are no memory
+leaks.  <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">valgrind</code> may report memory <em>errors</em> as well as memory <em>leaks</em>, and is
+therefore a useful debugging tool as well.</p>
+<h2>Submitting Your Program</h2>
+<p>On one of the class VMs, run the following command to submit:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">provide</span> comp111 shell Makefile shell.c</span></pre>
+<p>(The more general command is <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">provide &lt;class&gt; &lt;assignment&gt; &lt;list of files...&gt;</code>)
+So if you decide to implement your shell with multiple source files, or use
+header files, etc., then just add the additional files to the end of the
+command.</p>
+<p>The submission program will attempt to compile your program using the Makefile
+that you submitted.  You are free to modify the Makefile or write your own
+instead of using the provided one; we will use whatever you give us to compile.
+However, <strong>the executable file your Makefile produces when we run <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">make</code> must be
+named <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">shell</code></strong>. Your program must properly compile or the submission program
+will reject your program. Programs that fail to compile will not be graded.</p>
+<p>When you run the submission script, it will first show you a list of all the
+files it is about to submit.  Double check that the file list is correct, and
+then answer “yes” to submit (or “no”, and it will cancel the submission). It
+will look something like this:</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">Hello,</span> dave<span class="syntax--keyword syntax--operator">&lt;</span>Dave Lillethun<span class="syntax--keyword syntax--operator">&gt;</span>!
+<span class="syntax--entity syntax--name syntax--function">Receiving</span> solution to <span class="syntax--string">'shell'</span> in class <span class="syntax--string">'comp111'</span>.
+<span class="syntax--entity syntax--name syntax--function">Checking</span> all files:
+    <span class="syntax--entity syntax--name syntax--function">Makefile (290</span> bytes)
+    <span class="syntax--entity syntax--name syntax--function">shell.c (3638</span> bytes)
+<span class="syntax--entity syntax--name syntax--function">Total</span> size of files is 3928 bytes.
+<span class="syntax--entity syntax--name syntax--function">This</span> is submission 2 of assignment shell in class <span class="syntax--string">'comp111'</span>.
+
+<span class="syntax--entity syntax--name syntax--function">Are</span> you ready to provide these for testing (<span class="syntax--entity syntax--name syntax--function">yes</span> or no)<span class="syntax--variable syntax--other syntax--member">?</span></span></pre>
+<p>If the next thing is shows looks like the following, then that means you were
+not logged in to one of the class VMs when you tried to submit (maybe you were
+just logged in to the Halligan server?).  This means your submission did <em>not</em>
+go through, and you should log in to one of the class VMs and try again from
+there.</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">copying</span> file <span class="syntax--string">'Makefile'</span>
+<span class="syntax--entity syntax--name syntax--function">copying</span> file <span class="syntax--string">'shell.c'</span>
+<span class="syntax--entity syntax--name syntax--function">Preparing</span> for testing...
+<span class="syntax--entity syntax--name syntax--function">You</span> must submit your program on the machines comp111-01.cs.tufts.edu to comp111-06.cs.tufts.edu.
+<span class="syntax--entity syntax--name syntax--function">Please</span> ssh to one of those machines and try again.
+<span class="syntax--entity syntax--name syntax--function">Error</span> during preparation for testing.
+<span class="syntax--entity syntax--name syntax--function">This</span> submission doesn't count. Please try again later!</span></pre>
+<p>If you instead see something like this, then it means that your submission did
+not compile correctly and your submission did <em>not</em> go through.  You should
+fix the compile errors, test your code again, and then try submitting again.</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">copying</span> file <span class="syntax--string">'Makefile'</span>
+<span class="syntax--entity syntax--name syntax--function">copying</span> file <span class="syntax--string">'shell.c'</span>
+<span class="syntax--entity syntax--name syntax--function">Preparing</span> for testing...
+<span class="syntax--entity syntax--name syntax--function">Compiling</span> your program with make
+<span class="syntax--entity syntax--name syntax--function">/usr/sup/bin/gcc</span> <span class="syntax--entity syntax--other syntax--attribute-name">-g</span> <span class="syntax--entity syntax--other syntax--attribute-name">-std=gnu11</span> <span class="syntax--entity syntax--other syntax--attribute-name">-Wpedantic</span> <span class="syntax--entity syntax--other syntax--attribute-name">-Wall</span> <span class="syntax--entity syntax--other syntax--attribute-name">-I.</span> <span class="syntax--entity syntax--other syntax--attribute-name">-c</span> <span class="syntax--entity syntax--other syntax--attribute-name">-o</span> shell.o shell.c
+<span class="syntax--entity syntax--name syntax--function">shell.c:</span> In function ‘run_child_process’:
+<span class="syntax--entity syntax--name syntax--function">shell.c:122:3:</span> error: expected declaration or statement at end of input
+<span class="syntax--entity syntax--name syntax--function">122</span> <span class="syntax--keyword syntax--operator">|</span>   <span class="syntax--entity syntax--name syntax--function">fprintf(stderr,</span> <span class="syntax--string">"jsh ASSERT: should never get here!!!\n"</span>);
+  <span class="syntax--keyword syntax--operator">|</span>   <span class="syntax--entity syntax--name syntax--function">^~~~~~~</span>
+<span class="syntax--entity syntax--name syntax--function">make:</span> *** [shell.o] Error 1
+<span class="syntax--entity syntax--name syntax--function">Error</span> during preparation for testing.
+<span class="syntax--entity syntax--name syntax--function">This</span> submission doesn't count. Please try again later!</span></pre>
+<p>Finally, if you see something like this, then it means your submission was
+accepted!  We now have a copy of the code that you submitted and will grade it
+(unless you resubmit an updated copy before we do the grading, in which case
+we will grade the last submission).</p>
+<pre class="editor-colors lang-bash" style="tab-size: 2;"><span class="syntax--source syntax--shell"><span class="syntax--entity syntax--name syntax--function">copying</span> file <span class="syntax--string">'Makefile'</span>
+<span class="syntax--entity syntax--name syntax--function">copying</span> file <span class="syntax--string">'shell.c'</span>
+<span class="syntax--entity syntax--name syntax--function">Preparing</span> for testing...
+<span class="syntax--entity syntax--name syntax--function">Compiling</span> your program with make
+<span class="syntax--entity syntax--name syntax--function">/usr/sup/bin/gcc</span> <span class="syntax--entity syntax--other syntax--attribute-name">-g</span> <span class="syntax--entity syntax--other syntax--attribute-name">-std=gnu11</span> <span class="syntax--entity syntax--other syntax--attribute-name">-Wpedantic</span> <span class="syntax--entity syntax--other syntax--attribute-name">-Wall</span> <span class="syntax--entity syntax--other syntax--attribute-name">-I.</span> <span class="syntax--entity syntax--other syntax--attribute-name">-c</span> <span class="syntax--entity syntax--other syntax--attribute-name">-o</span> shell.o shell.c
+<span class="syntax--entity syntax--name syntax--function">/usr/sup/bin/gcc</span> <span class="syntax--entity syntax--other syntax--attribute-name">-g</span> <span class="syntax--entity syntax--other syntax--attribute-name">-std=gnu11</span> <span class="syntax--entity syntax--other syntax--attribute-name">-Wpedantic</span> <span class="syntax--entity syntax--other syntax--attribute-name">-Wall</span>   <span class="syntax--entity syntax--other syntax--attribute-name">-o</span> shell shell.o
+<span class="syntax--entity syntax--name syntax--function">...done</span> preparing for testing.
+<span class="syntax--entity syntax--name syntax--function">your</span> submission has been accepted!
+<span class="syntax--entity syntax--name syntax--function">your</span> submission is complete!</span></pre>
+<p>Basically, pay attention the last line or two of the submission system output
+and it should be clear whether the submission was successful or had errors.</p>
+<p>To resubmit, you can just run the submission script again.  It does not
+overwrite your previous submissions; we will have copies of all of them, but
+only your last submission counts for grading.</p>
+<h2>Grading</h2>
+<p>This assignment will be graded by the following criteria:</p>
+<ul>
+<li>Functional requirements satisfied (determined by <strong>testing</strong>)
+<ul>
+<li>Test cases for this assignment will be run automatically, but their output
+will be checked manually by a human.  (So your output needs to have the
+right content, but we aren’t looking for a character-by-character exact
+match to some exact expected output.)</li>
+</ul>
+</li>
+<li>Functional requirements satisfied (determined by <strong>code inspection</strong>)</li>
+<li>All necessary <strong>system errors</strong> (return codes from system/library functions)
+are <strong>detected and handled</strong> appropriately (determined by code instpection)</li>
+<li><strong>No memory leaks</strong> (determined by running <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">valgrind</code>)
+<ul>
+<li>We’re only checking <code style="font-family: Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace;">valgrind</code> for memory <em>leaks</em>, so if it reports
+memory <em>errors</em>, we won’t count that against you.  However, it might be a
+good idea to fix any memory errors anyway, since they could lead to
+functionality bugs, and incorrect functionality (i.e., if it causes a test
+case to fail) will definitely be counted against you.</li>
+</ul>
+</li>
+<li>Code quality (structure and style, determined by code inspection)
+<ul>
+<li><em>Less important</em> than the other criteria, but could still be an issue if
+you turn in a hot mess; <strong>be nice to the TAs who need to read your code!</strong></li>
+</ul>
+</li>
+</ul>
+
+  </body>
+</html>

@@ -1,0 +1,1 @@
+ls | wc -l | xargs printf "0x%x\n" | cowsay

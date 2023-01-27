@@ -1,0 +1,3 @@
+child writing to file
+parent writing to file
+my pid is: 966421

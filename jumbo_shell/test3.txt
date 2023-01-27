@@ -1,0 +1,5 @@
+ls | wc -l | xargs printf "0x%x\n" | cowsay
+cat main.c | grep a | grep z
+cat main.c | grep a | grep a
+wc -l | ls 
+exit

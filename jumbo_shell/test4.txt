@@ -1,0 +1,4 @@
+cat main.c | grep a | grep z
+cat main.c | grep a | grep a
+wc -l | ls 
+exit
