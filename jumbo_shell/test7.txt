@@ -1,0 +1,3 @@
+
+/comp/111/assignments/shell/bin/repeat HELLO | /comp/111/assignments/shell/bin/insert_after_reads WORLD
+exit

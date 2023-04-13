@@ -1,0 +1,5 @@
+test_stat_3_release_block: FAILED
+test_write_read_6_multiple_write_whole_blocks: FAILED
+test_write_read_7_multiple_write_partial_blocks: FAILED
+test_write_read_8_max_file_size: FAILED
+test_write_read_9_multiple_write_max_file_size: FAILED

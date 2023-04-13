@@ -1,3 +1,12 @@
+-------- READ THIS ---------
+
+This is a resubmission, case 15 (when tested) exits with status 2, as 
+expected. (gradescope says on original submission, it fails). 
+
+I also handled execvp failure, as the code "falls through" upon failure
+and prints an error msg, and exits with status 127. See line 190 of shell.c
+
+-------- THAT IS ALL --------
 
 
 Author: Alex Hu
@@ -32,9 +41,6 @@ STRUCTURE:
                 execute_commands executes commands stored on a line
                 fork_program forks a program
                 free_prog frees all associated mem w/ a program
-        
-        readaline.h / readaline.c contain the boring functions that do 
-        glorified string parsing. 
         
         readaline reads a line, terminated by 
         \n or the null terminator, process_prog modifies a char ** 

@@ -1,0 +1,2401 @@
+00.000140 (trace) Ants: 100 100 100 Slurping: 0 0 1, Swallowing: 0, Sulking: 0
+00.000187 Aardvark A slurping Anthill 2
+00.000231 (trace) Ants: 100 100 100 Slurping: 0 1 1, Swallowing: 0, Sulking: 0
+00.000247 Aardvark B slurping Anthill 1
+00.000507 (trace) Ants: 100 100 100 Slurping: 1 1 1, Swallowing: 0, Sulking: 0
+00.000837 Aardvark C slurping Anthill 0
+00.000845 (trace) Ants: 100 100 100 Slurping: 1 1 2, Swallowing: 0, Sulking: 0
+00.000852 Aardvark D slurping Anthill 2
+00.000905 (trace) Ants: 100 100 100 Slurping: 1 2 2, Swallowing: 0, Sulking: 0
+00.001392 Aardvark E slurping Anthill 1
+00.001414 (trace) Ants: 100 100 100 Slurping: 1 3 2, Swallowing: 0, Sulking: 0
+00.001432 Aardvark H slurping Anthill 1
+00.001438 (trace) Ants: 100 100 100 Slurping: 2 3 2, Swallowing: 0, Sulking: 0
+00.001983 Aardvark F slurping Anthill 0
+00.001997 (trace) Ants: 100 100 100 Slurping: 2 3 3, Swallowing: 0, Sulking: 0
+00.002563 Aardvark G slurping Anthill 2
+00.002578 (trace) Ants: 100 100 100 Slurping: 3 3 3, Swallowing: 0, Sulking: 0
+00.002589 Aardvark J slurping Anthill 0
+01.000263 (trace) Ants: 100 100 100 Slurping: 3 3 2, Swallowing: 0, Sulking: 0
+01.000296 (trace) Ants: 100 100 99 Slurping: 3 3 2, Swallowing: 0, Sulking: 0
+01.000301 Aardvark A swallowing
+01.000303 (trace) Ants: 100 100 99 Slurping: 3 3 2, Swallowing: 1, Sulking: 0
+01.000877 (trace) Ants: 100 100 99 Slurping: 3 2 2, Swallowing: 1, Sulking: 0
+01.001001 (trace) Ants: 100 99 99 Slurping: 3 2 2, Swallowing: 1, Sulking: 0
+01.001010 Aardvark B swallowing
+01.001012 (trace) Ants: 100 99 99 Slurping: 3 2 2, Swallowing: 2, Sulking: 0
+01.001022 (trace) Ants: 100 99 99 Slurping: 2 2 2, Swallowing: 2, Sulking: 0
+01.001044 (trace) Ants: 99 99 99 Slurping: 2 2 2, Swallowing: 2, Sulking: 0
+01.001596 Aardvark C swallowing
+01.001601 (trace) Ants: 99 99 99 Slurping: 2 2 2, Swallowing: 3, Sulking: 0
+01.001614 (trace) Ants: 99 99 99 Slurping: 2 2 1, Swallowing: 3, Sulking: 0
+01.001630 (trace) Ants: 99 99 98 Slurping: 2 2 1, Swallowing: 3, Sulking: 0
+01.001637 Aardvark D swallowing
+01.001642 (trace) Ants: 99 99 98 Slurping: 2 1 1, Swallowing: 3, Sulking: 0
+01.002208 (trace) Ants: 99 98 98 Slurping: 2 1 1, Swallowing: 3, Sulking: 0
+01.002211 Aardvark E swallowing
+01.002214 (trace) Ants: 99 98 98 Slurping: 2 1 1, Swallowing: 4, Sulking: 0
+01.002235 (trace) Ants: 99 98 98 Slurping: 2 0 1, Swallowing: 4, Sulking: 0
+01.002252 (trace) Ants: 99 97 98 Slurping: 2 0 1, Swallowing: 4, Sulking: 0
+01.002931 Aardvark H swallowing
+01.002935 (trace) Ants: 99 97 98 Slurping: 2 0 1, Swallowing: 5, Sulking: 0
+01.002947 (trace) Ants: 99 97 98 Slurping: 1 0 1, Swallowing: 5, Sulking: 0
+01.002958 (trace) Ants: 98 97 98 Slurping: 1 0 1, Swallowing: 5, Sulking: 0
+01.002960 Aardvark F swallowing
+01.002962 (trace) Ants: 98 97 98 Slurping: 1 0 1, Swallowing: 6, Sulking: 0
+01.003668 (trace) Ants: 98 97 98 Slurping: 1 0 0, Swallowing: 6, Sulking: 0
+01.003684 (trace) Ants: 98 97 97 Slurping: 1 0 0, Swallowing: 6, Sulking: 0
+01.004392 Aardvark G swallowing
+01.004397 (trace) Ants: 98 97 97 Slurping: 1 0 0, Swallowing: 7, Sulking: 0
+01.004406 (trace) Ants: 98 97 97 Slurping: 1 0 0, Swallowing: 8, Sulking: 0
+01.004426 (trace) Ants: 98 97 97 Slurping: 0 0 0, Swallowing: 8, Sulking: 0
+01.005101 (trace) Ants: 97 97 97 Slurping: 0 0 0, Swallowing: 8, Sulking: 0
+01.005104 Aardvark J swallowing
+01.005107 (trace) Ants: 97 97 97 Slurping: 0 0 0, Swallowing: 9, Sulking: 0
+01.020164 (trace) Ants: 97 97 97 Slurping: 0 0 1, Swallowing: 9, Sulking: 0
+01.020180 Aardvark I slurping Anthill 2
+01.020180 (trace) Ants: 97 97 97 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+01.020203 Aardvark K slurping Anthill 1
+02.000376 (trace) Ants: 97 97 97 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+02.000403 Aardvark A idle
+02.000449 (trace) Ants: 97 97 97 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+02.000453 Aardvark A slurping Anthill 0
+02.001088 (trace) Ants: 97 97 97 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+02.001201 Aardvark B idle
+02.001238 (trace) Ants: 97 97 97 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+02.001241 Aardvark B slurping Anthill 2
+02.001669 (trace) Ants: 97 97 97 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+02.001962 Aardvark C idle
+02.002000 (trace) Ants: 97 97 97 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+02.002713 Aardvark C slurping Anthill 1
+02.002717 (trace) Ants: 97 97 97 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+02.002732 Aardvark E idle
+02.002775 (trace) Ants: 97 97 97 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+02.003228 Aardvark E slurping Anthill 0
+02.003231 (trace) Ants: 97 97 97 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+02.003239 Aardvark H idle
+02.003279 (trace) Ants: 97 97 97 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+02.003820 Aardvark H slurping Anthill 2
+02.003824 (trace) Ants: 97 97 97 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+02.003831 Aardvark D idle
+02.003868 (trace) Ants: 97 97 97 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+02.003872 Aardvark D slurping Anthill 1
+02.004460 (trace) Ants: 97 97 97 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+02.004465 Aardvark G idle
+02.004477 (trace) Ants: 97 97 97 Slurping: 2 3 3, Swallowing: 1, Sulking: 0
+02.004483 Aardvark F idle
+02.004499 (trace) Ants: 97 97 97 Slurping: 3 3 3, Swallowing: 1, Sulking: 0
+02.005042 Aardvark G slurping Anthill 0
+02.005173 (trace) Ants: 97 97 97 Slurping: 3 3 3, Swallowing: 0, Sulking: 0
+02.005619 Aardvark J idle
+02.020252 (trace) Ants: 97 97 97 Slurping: 3 3 2, Swallowing: 0, Sulking: 0
+02.020271 (trace) Ants: 97 97 96 Slurping: 3 3 2, Swallowing: 0, Sulking: 0
+02.020276 (trace) Ants: 97 97 96 Slurping: 3 2 2, Swallowing: 0, Sulking: 0
+02.020300 (trace) Ants: 97 96 96 Slurping: 3 2 2, Swallowing: 0, Sulking: 0
+02.020310 Aardvark K swallowing
+02.020317 (trace) Ants: 97 96 96 Slurping: 3 2 2, Swallowing: 1, Sulking: 0
+02.020279 Aardvark I swallowing
+02.020932 (trace) Ants: 97 96 96 Slurping: 3 2 2, Swallowing: 2, Sulking: 0
+02.040115 (trace) Ants: 97 96 96 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+02.040128 Aardvark F slurping Anthill 2
+02.040142 (trace) Ants: 97 96 96 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+02.040152 Aardvark J slurping Anthill 1
+03.000528 (trace) Ants: 97 96 96 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+03.000556 (trace) Ants: 96 96 96 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+03.000560 Aardvark A swallowing
+03.000563 (trace) Ants: 96 96 96 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+03.001317 (trace) Ants: 96 96 96 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+03.001358 (trace) Ants: 96 96 95 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+03.001364 Aardvark B swallowing
+03.001366 (trace) Ants: 96 96 95 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+03.002779 (trace) Ants: 96 96 95 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+03.002796 (trace) Ants: 96 95 95 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+03.002800 Aardvark C swallowing
+03.002802 (trace) Ants: 96 95 95 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+03.003293 (trace) Ants: 96 95 95 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+03.003551 (trace) Ants: 95 95 95 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+03.003555 Aardvark E swallowing
+03.003556 (trace) Ants: 95 95 95 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+03.003885 (trace) Ants: 95 95 95 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+03.004250 (trace) Ants: 95 95 94 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+03.004253 Aardvark H swallowing
+03.004255 (trace) Ants: 95 95 94 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+03.004264 (trace) Ants: 95 95 94 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+03.004270 (trace) Ants: 95 94 94 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+03.004272 Aardvark D swallowing
+03.004274 (trace) Ants: 95 94 94 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+03.005105 (trace) Ants: 95 94 94 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+03.005115 (trace) Ants: 94 94 94 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+03.005120 Aardvark G swallowing
+03.005123 (trace) Ants: 94 94 94 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+03.020494 (trace) Ants: 94 94 94 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+03.020515 Aardvark K idle
+03.020563 (trace) Ants: 94 94 94 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+03.020568 Aardvark K slurping Anthill 0
+03.021010 (trace) Ants: 94 94 94 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+03.021276 Aardvark I idle
+03.021329 (trace) Ants: 94 94 94 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+03.022099 Aardvark I slurping Anthill 2
+03.040205 (trace) Ants: 94 94 94 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+03.040237 (trace) Ants: 94 94 93 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+03.040240 Aardvark F swallowing
+03.040242 (trace) Ants: 94 94 93 Slurping: 1 0 1, Swallowing: 7, Sulking: 0
+03.040267 (trace) Ants: 94 93 93 Slurping: 1 0 1, Swallowing: 7, Sulking: 0
+03.040270 Aardvark J swallowing
+03.040272 (trace) Ants: 94 93 93 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+03.040356 (trace) Ants: 94 93 93 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+04.000638 (trace) Ants: 94 93 93 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+04.000669 Aardvark A idle
+04.000716 (trace) Ants: 94 93 93 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+04.000719 Aardvark A slurping Anthill 2
+04.001431 (trace) Ants: 94 93 93 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+04.001450 Aardvark B idle
+04.001490 (trace) Ants: 94 93 93 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+04.001494 Aardvark B slurping Anthill 1
+04.002866 (trace) Ants: 94 93 93 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+04.002884 Aardvark C idle
+04.002922 (trace) Ants: 94 93 93 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+04.002925 Aardvark C slurping Anthill 1
+04.003619 (trace) Ants: 94 93 93 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+04.003629 Aardvark E idle
+04.003656 (trace) Ants: 94 93 93 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+04.003659 Aardvark E slurping Anthill 0
+04.004321 (trace) Ants: 94 93 93 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+04.004332 Aardvark H idle
+04.004339 (trace) Ants: 94 93 93 Slurping: 2 2 2, Swallowing: 3, Sulking: 0
+04.004358 Aardvark D idle
+04.004378 (trace) Ants: 94 93 93 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+04.004940 Aardvark H slurping Anthill 2
+04.004945 (trace) Ants: 94 93 93 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+04.004952 Aardvark D slurping Anthill 1
+04.005187 (trace) Ants: 94 93 93 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+04.005538 Aardvark G idle
+04.005580 (trace) Ants: 94 93 93 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+04.006099 Aardvark G slurping Anthill 0
+04.020645 (trace) Ants: 94 93 93 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+04.020666 (trace) Ants: 93 93 93 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+04.020669 Aardvark K swallowing
+04.020672 (trace) Ants: 93 93 93 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+04.022165 (trace) Ants: 93 93 93 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+04.022181 (trace) Ants: 93 93 92 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+04.022185 Aardvark I swallowing
+04.022187 (trace) Ants: 93 93 92 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+04.040341 (trace) Ants: 93 93 92 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+04.040372 Aardvark J idle
+04.040551 (trace) Ants: 93 93 92 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+04.041132 Aardvark J slurping Anthill 0
+04.041136 (trace) Ants: 93 93 92 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+04.041146 Aardvark F idle
+04.041317 (trace) Ants: 93 93 92 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+04.041890 Aardvark F slurping Anthill 2
+05.000798 (trace) Ants: 93 93 92 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+05.000827 (trace) Ants: 93 93 91 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+05.000831 Aardvark A swallowing
+05.000833 (trace) Ants: 93 93 91 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+05.001568 (trace) Ants: 93 93 91 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+05.001614 (trace) Ants: 93 92 91 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+05.001619 Aardvark B swallowing
+05.001622 (trace) Ants: 93 92 91 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+05.002993 (trace) Ants: 93 92 91 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+05.003016 (trace) Ants: 93 91 91 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+05.003020 Aardvark C swallowing
+05.003022 (trace) Ants: 93 91 91 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+05.003723 (trace) Ants: 93 91 91 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+05.003734 (trace) Ants: 92 91 91 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+05.003742 Aardvark E swallowing
+05.003744 (trace) Ants: 92 91 91 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+05.005007 (trace) Ants: 92 91 91 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+05.005017 (trace) Ants: 92 91 90 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+05.005024 Aardvark H swallowing
+05.005027 (trace) Ants: 92 91 90 Slurping: 2 0 1, Swallowing: 6, Sulking: 0
+05.005042 (trace) Ants: 92 90 90 Slurping: 2 0 1, Swallowing: 6, Sulking: 0
+05.005045 Aardvark D swallowing
+05.005046 (trace) Ants: 92 90 90 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+05.005059 (trace) Ants: 92 90 90 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+05.006171 (trace) Ants: 92 90 90 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+05.006185 (trace) Ants: 91 90 90 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+05.006188 Aardvark G swallowing
+05.006190 (trace) Ants: 91 90 90 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+05.020741 (trace) Ants: 91 90 90 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+05.020758 Aardvark K idle
+05.020815 (trace) Ants: 91 90 90 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+05.021419 Aardvark K slurping Anthill 2
+05.022252 (trace) Ants: 91 90 90 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+05.022268 Aardvark I idle
+05.022306 (trace) Ants: 91 90 90 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+05.022309 Aardvark I slurping Anthill 1
+05.041205 (trace) Ants: 91 90 90 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+05.041226 (trace) Ants: 90 90 90 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+05.041229 Aardvark J swallowing
+05.041231 (trace) Ants: 90 90 90 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+05.041961 (trace) Ants: 90 90 90 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+05.041974 (trace) Ants: 90 90 89 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+05.041979 Aardvark F swallowing
+05.041982 (trace) Ants: 90 90 89 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+06.000899 (trace) Ants: 90 90 89 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+06.000926 Aardvark A idle
+06.000971 (trace) Ants: 90 90 89 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+06.000975 Aardvark A slurping Anthill 0
+06.001686 (trace) Ants: 90 90 89 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+06.001707 Aardvark B idle
+06.001750 (trace) Ants: 90 90 89 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+06.002279 Aardvark B slurping Anthill 2
+06.003087 (trace) Ants: 90 90 89 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+06.003106 Aardvark C idle
+06.003141 (trace) Ants: 90 90 89 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+06.003144 Aardvark C slurping Anthill 1
+06.003811 (trace) Ants: 90 90 89 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+06.003837 Aardvark E idle
+06.003885 (trace) Ants: 90 90 89 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+06.003890 Aardvark E slurping Anthill 0
+06.005115 (trace) Ants: 90 90 89 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+06.005126 Aardvark H idle
+06.005127 (trace) Ants: 90 90 89 Slurping: 2 2 2, Swallowing: 3, Sulking: 0
+06.005147 Aardvark D idle
+06.005175 (trace) Ants: 90 90 89 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+06.005760 Aardvark D slurping Anthill 2
+06.005764 (trace) Ants: 90 90 89 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+06.005769 Aardvark H slurping Anthill 1
+06.006253 (trace) Ants: 90 90 89 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+06.006458 Aardvark G idle
+06.006486 (trace) Ants: 90 90 89 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+06.006491 Aardvark G slurping Anthill 0
+06.021486 (trace) Ants: 90 90 89 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+06.021504 (trace) Ants: 90 90 88 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+06.021507 Aardvark K swallowing
+06.021509 (trace) Ants: 90 90 88 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+06.022363 (trace) Ants: 90 90 88 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+06.022376 (trace) Ants: 90 89 88 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+06.022379 Aardvark I swallowing
+06.022381 (trace) Ants: 90 89 88 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+06.041302 (trace) Ants: 90 89 88 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+06.041323 Aardvark J idle
+06.041368 (trace) Ants: 90 89 88 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+06.041376 Aardvark J slurping Anthill 2
+06.042045 (trace) Ants: 90 89 88 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+06.042144 Aardvark F idle
+06.042302 (trace) Ants: 90 89 88 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+06.042671 Aardvark F slurping Anthill 1
+07.001048 (trace) Ants: 90 89 88 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+07.001077 (trace) Ants: 89 89 88 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+07.001082 Aardvark A swallowing
+07.001084 (trace) Ants: 89 89 88 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+07.002397 (trace) Ants: 89 89 88 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+07.002419 (trace) Ants: 89 89 87 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+07.002422 Aardvark B swallowing
+07.002424 (trace) Ants: 89 89 87 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+07.003216 (trace) Ants: 89 89 87 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+07.003237 (trace) Ants: 89 88 87 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+07.003240 Aardvark C swallowing
+07.003243 (trace) Ants: 89 88 87 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+07.003960 (trace) Ants: 89 88 87 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+07.003981 (trace) Ants: 88 88 87 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+07.003984 Aardvark E swallowing
+07.003986 (trace) Ants: 88 88 87 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+07.005823 (trace) Ants: 88 88 87 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+07.005839 (trace) Ants: 88 88 86 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+07.005846 Aardvark D swallowing
+07.005849 (trace) Ants: 88 88 86 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+07.005859 (trace) Ants: 88 88 86 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+07.005865 (trace) Ants: 88 87 86 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+07.005868 Aardvark H swallowing
+07.005870 (trace) Ants: 88 87 86 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+07.006555 (trace) Ants: 88 87 86 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+07.006566 (trace) Ants: 87 87 86 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+07.006569 Aardvark G swallowing
+07.006571 (trace) Ants: 87 87 86 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+07.021576 (trace) Ants: 87 87 86 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+07.021592 Aardvark K idle
+07.021642 (trace) Ants: 87 87 86 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+07.021645 Aardvark K slurping Anthill 0
+07.022444 (trace) Ants: 87 87 86 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+07.022459 Aardvark I idle
+07.022492 (trace) Ants: 87 87 86 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+07.022497 Aardvark I slurping Anthill 2
+07.041459 (trace) Ants: 87 87 86 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+07.041492 (trace) Ants: 87 87 85 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+07.041496 Aardvark J swallowing
+07.041498 (trace) Ants: 87 87 85 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+07.042741 (trace) Ants: 87 87 85 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+07.042769 (trace) Ants: 87 86 85 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+07.042774 Aardvark F swallowing
+07.042777 (trace) Ants: 87 86 85 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+08.001159 (trace) Ants: 87 86 85 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+08.001190 Aardvark A idle
+08.001236 (trace) Ants: 87 86 85 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+08.001241 Aardvark A slurping Anthill 2
+08.002488 (trace) Ants: 87 86 85 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+08.002509 Aardvark B idle
+08.002558 (trace) Ants: 87 86 85 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+08.003192 Aardvark B slurping Anthill 1
+08.003308 (trace) Ants: 87 86 85 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+08.003913 Aardvark C idle
+08.003954 (trace) Ants: 87 86 85 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+08.003958 Aardvark C slurping Anthill 1
+08.004061 (trace) Ants: 87 86 85 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+08.004628 Aardvark E idle
+08.004659 (trace) Ants: 87 86 85 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+08.004662 Aardvark E slurping Anthill 0
+08.005916 (trace) Ants: 87 86 85 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+08.005928 Aardvark D idle
+08.005933 (trace) Ants: 87 86 85 Slurping: 2 2 2, Swallowing: 3, Sulking: 0
+08.005940 Aardvark H idle
+08.005958 (trace) Ants: 87 86 85 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+08.005961 Aardvark D slurping Anthill 2
+08.005981 (trace) Ants: 87 86 85 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+08.006599 Aardvark H slurping Anthill 1
+08.006633 (trace) Ants: 87 86 85 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+08.006637 Aardvark G idle
+08.006666 (trace) Ants: 87 86 85 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+08.007159 Aardvark G slurping Anthill 0
+08.021716 (trace) Ants: 87 86 85 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+08.021726 (trace) Ants: 86 86 85 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+08.021729 Aardvark K swallowing
+08.021732 (trace) Ants: 86 86 85 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+08.022561 (trace) Ants: 86 86 85 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+08.022578 (trace) Ants: 86 86 84 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+08.022581 Aardvark I swallowing
+08.022583 (trace) Ants: 86 86 84 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+08.041566 (trace) Ants: 86 86 84 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+08.041588 Aardvark J idle
+08.041629 (trace) Ants: 86 86 84 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+08.041633 Aardvark J slurping Anthill 0
+08.042843 (trace) Ants: 86 86 84 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+08.042862 Aardvark F idle
+08.042893 (trace) Ants: 86 86 84 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+08.042896 Aardvark F slurping Anthill 2
+09.001311 (trace) Ants: 86 86 84 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+09.001342 (trace) Ants: 86 86 83 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+09.001353 Aardvark A swallowing
+09.001355 (trace) Ants: 86 86 83 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+09.003259 (trace) Ants: 86 86 83 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+09.003282 (trace) Ants: 86 85 83 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+09.003286 Aardvark B swallowing
+09.003288 (trace) Ants: 86 85 83 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+09.004026 (trace) Ants: 86 85 83 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+09.004047 (trace) Ants: 86 84 83 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+09.004051 Aardvark C swallowing
+09.004053 (trace) Ants: 86 84 83 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+09.004726 (trace) Ants: 86 84 83 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+09.004761 (trace) Ants: 85 84 83 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+09.004765 Aardvark E swallowing
+09.004767 (trace) Ants: 85 84 83 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+09.006027 (trace) Ants: 85 84 83 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+09.006038 (trace) Ants: 85 84 82 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+09.006041 Aardvark D swallowing
+09.006043 (trace) Ants: 85 84 82 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+09.006662 (trace) Ants: 85 84 82 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+09.006952 (trace) Ants: 85 83 82 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+09.006955 Aardvark H swallowing
+09.006957 (trace) Ants: 85 83 82 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+09.007224 (trace) Ants: 85 83 82 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+09.007633 (trace) Ants: 84 83 82 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+09.007637 Aardvark G swallowing
+09.007639 (trace) Ants: 84 83 82 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+09.021801 (trace) Ants: 84 83 82 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+09.021812 Aardvark K idle
+09.021868 (trace) Ants: 84 83 82 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+09.022799 Aardvark K slurping Anthill 2
+09.022808 (trace) Ants: 84 83 82 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+09.022822 Aardvark I idle
+09.022861 (trace) Ants: 84 83 82 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+09.023489 Aardvark I slurping Anthill 1
+09.041700 (trace) Ants: 84 83 82 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+09.041726 (trace) Ants: 83 83 82 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+09.041730 Aardvark J swallowing
+09.041732 (trace) Ants: 83 83 82 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+09.042965 (trace) Ants: 83 83 82 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+09.042982 (trace) Ants: 83 83 81 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+09.042991 Aardvark F swallowing
+09.042993 (trace) Ants: 83 83 81 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+10.001439 (trace) Ants: 83 83 81 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+10.001470 Aardvark A idle
+10.001515 (trace) Ants: 83 83 81 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+10.001519 Aardvark A slurping Anthill 0
+10.003356 (trace) Ants: 83 83 81 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+10.003378 Aardvark B idle
+10.003431 (trace) Ants: 83 83 81 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+10.003955 Aardvark B slurping Anthill 2
+10.004118 (trace) Ants: 83 83 81 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+10.004719 Aardvark C idle
+10.004757 (trace) Ants: 83 83 81 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+10.005287 Aardvark C slurping Anthill 1
+10.005293 (trace) Ants: 83 83 81 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+10.005307 Aardvark E idle
+10.005344 (trace) Ants: 83 83 81 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+10.006359 Aardvark E slurping Anthill 0
+10.006364 (trace) Ants: 83 83 81 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+10.006379 Aardvark D idle
+10.006408 (trace) Ants: 83 83 81 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+10.006921 Aardvark D slurping Anthill 2
+10.007021 (trace) Ants: 83 83 81 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+10.007710 Aardvark H idle
+10.007713 (trace) Ants: 83 83 81 Slurping: 2 2 3, Swallowing: 2, Sulking: 0
+10.007725 Aardvark G idle
+10.007762 (trace) Ants: 83 83 81 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+10.008261 Aardvark G slurping Anthill 1
+10.008265 (trace) Ants: 83 83 81 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+10.008272 Aardvark H slurping Anthill 0
+10.022868 (trace) Ants: 83 83 81 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+10.022880 (trace) Ants: 83 83 80 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+10.022885 Aardvark K swallowing
+10.022888 (trace) Ants: 83 83 80 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+10.023554 (trace) Ants: 83 83 80 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+10.024054 (trace) Ants: 83 82 80 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+10.024058 Aardvark I swallowing
+10.024060 (trace) Ants: 83 82 80 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+10.041799 (trace) Ants: 83 82 80 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+10.041817 Aardvark J idle
+10.041858 (trace) Ants: 83 82 80 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+10.041864 Aardvark J slurping Anthill 2
+10.043059 (trace) Ants: 83 82 80 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+10.043079 Aardvark F idle
+10.043113 (trace) Ants: 83 82 80 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+10.043117 Aardvark F slurping Anthill 1
+11.001589 (trace) Ants: 83 82 80 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+11.001620 (trace) Ants: 82 82 80 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+11.001624 Aardvark A swallowing
+11.001627 (trace) Ants: 82 82 80 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+11.004021 (trace) Ants: 82 82 80 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+11.004055 (trace) Ants: 82 82 79 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+11.004060 Aardvark B swallowing
+11.004062 (trace) Ants: 82 82 79 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+11.005359 (trace) Ants: 82 82 79 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+11.005380 (trace) Ants: 82 81 79 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+11.005386 Aardvark C swallowing
+11.005390 (trace) Ants: 82 81 79 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+11.006435 (trace) Ants: 82 81 79 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+11.006455 (trace) Ants: 81 81 79 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+11.006461 Aardvark E swallowing
+11.006464 (trace) Ants: 81 81 79 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+11.006985 (trace) Ants: 81 81 79 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+11.007186 (trace) Ants: 81 81 78 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+11.007195 Aardvark D swallowing
+11.007197 (trace) Ants: 81 81 78 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+11.008330 (trace) Ants: 81 81 78 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+11.008360 (trace) Ants: 81 80 78 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+11.008367 Aardvark G swallowing
+11.008370 (trace) Ants: 81 80 78 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+11.008386 (trace) Ants: 81 80 78 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+11.008394 (trace) Ants: 80 80 78 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+11.008396 Aardvark H swallowing
+11.008398 (trace) Ants: 80 80 78 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+11.022955 (trace) Ants: 80 80 78 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+11.022968 Aardvark K idle
+11.023013 (trace) Ants: 80 80 78 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+11.023018 Aardvark K slurping Anthill 0
+11.024127 (trace) Ants: 80 80 78 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+11.024142 Aardvark I idle
+11.024177 (trace) Ants: 80 80 78 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+11.024181 Aardvark I slurping Anthill 2
+11.041928 (trace) Ants: 80 80 78 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+11.041951 (trace) Ants: 80 80 77 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+11.041955 Aardvark J swallowing
+11.041957 (trace) Ants: 80 80 77 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+11.043181 (trace) Ants: 80 80 77 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+11.043198 (trace) Ants: 80 79 77 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+11.043202 Aardvark F swallowing
+11.043204 (trace) Ants: 80 79 77 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+12.001700 (trace) Ants: 80 79 77 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+12.001732 Aardvark A idle
+12.001782 (trace) Ants: 80 79 77 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+12.001787 Aardvark A slurping Anthill 2
+12.004132 (trace) Ants: 80 79 77 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+12.004156 Aardvark B idle
+12.004209 (trace) Ants: 80 79 77 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+12.004881 Aardvark B slurping Anthill 1
+12.005454 (trace) Ants: 80 79 77 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+12.005474 Aardvark C idle
+12.005508 (trace) Ants: 80 79 77 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+12.005512 Aardvark C slurping Anthill 1
+12.006528 (trace) Ants: 80 79 77 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+12.006548 Aardvark E idle
+12.006582 (trace) Ants: 80 79 77 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+12.006586 Aardvark E slurping Anthill 0
+12.007262 (trace) Ants: 80 79 77 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+12.007381 Aardvark D idle
+12.007407 (trace) Ants: 80 79 77 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+12.007410 Aardvark D slurping Anthill 2
+12.008442 (trace) Ants: 80 79 77 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+12.008456 Aardvark G idle
+12.008472 (trace) Ants: 80 79 77 Slurping: 2 2 3, Swallowing: 2, Sulking: 0
+12.008480 Aardvark H idle
+12.008486 (trace) Ants: 80 79 77 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+12.008490 Aardvark G slurping Anthill 1
+12.008514 (trace) Ants: 80 79 77 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+12.009301 Aardvark H slurping Anthill 0
+12.023088 (trace) Ants: 80 79 77 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+12.023102 (trace) Ants: 79 79 77 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+12.023105 Aardvark K swallowing
+12.023108 (trace) Ants: 79 79 77 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+12.024244 (trace) Ants: 79 79 77 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+12.024261 (trace) Ants: 79 79 76 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+12.024265 Aardvark I swallowing
+12.024267 (trace) Ants: 79 79 76 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+12.042025 (trace) Ants: 79 79 76 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+12.042043 Aardvark J idle
+12.043001 (trace) Ants: 79 79 76 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+12.043014 Aardvark J slurping Anthill 0
+12.043269 (trace) Ants: 79 79 76 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+12.043992 Aardvark F idle
+12.044176 (trace) Ants: 79 79 76 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+12.044751 Aardvark F slurping Anthill 2
+13.001862 (trace) Ants: 79 79 76 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+13.001901 (trace) Ants: 79 79 75 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+13.001905 Aardvark A swallowing
+13.001908 (trace) Ants: 79 79 75 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+13.004957 (trace) Ants: 79 79 75 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+13.004982 (trace) Ants: 79 78 75 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+13.004994 Aardvark B swallowing
+13.004998 (trace) Ants: 79 78 75 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+13.005586 (trace) Ants: 79 78 75 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+13.005780 (trace) Ants: 79 77 75 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+13.005786 Aardvark C swallowing
+13.005789 (trace) Ants: 79 77 75 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+13.006656 (trace) Ants: 79 77 75 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+13.006671 (trace) Ants: 78 77 75 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+13.006674 Aardvark E swallowing
+13.006676 (trace) Ants: 78 77 75 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+13.007481 (trace) Ants: 78 77 75 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+13.007494 (trace) Ants: 78 77 74 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+13.007498 Aardvark D swallowing
+13.007500 (trace) Ants: 78 77 74 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+13.008557 (trace) Ants: 78 77 74 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+13.008579 (trace) Ants: 78 76 74 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+13.008583 Aardvark G swallowing
+13.008586 (trace) Ants: 78 76 74 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+13.009359 (trace) Ants: 78 76 74 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+13.009381 (trace) Ants: 77 76 74 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+13.009384 Aardvark H swallowing
+13.009387 (trace) Ants: 77 76 74 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+13.023175 (trace) Ants: 77 76 74 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+13.023194 Aardvark K idle
+13.023265 (trace) Ants: 77 76 74 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+13.023823 Aardvark K slurping Anthill 2
+13.024334 (trace) Ants: 77 76 74 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+13.024546 Aardvark I idle
+13.024591 (trace) Ants: 77 76 74 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+13.025114 Aardvark I slurping Anthill 1
+13.043087 (trace) Ants: 77 76 74 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+13.043108 (trace) Ants: 76 76 74 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+13.043113 Aardvark J swallowing
+13.043115 (trace) Ants: 76 76 74 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+13.044818 (trace) Ants: 76 76 74 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+13.044837 (trace) Ants: 76 76 73 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+13.044841 Aardvark F swallowing
+13.044843 (trace) Ants: 76 76 73 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+14.001984 (trace) Ants: 76 76 73 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+14.002019 Aardvark A idle
+14.002078 (trace) Ants: 76 76 73 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+14.002082 Aardvark A slurping Anthill 0
+14.005069 (trace) Ants: 76 76 73 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+14.005095 Aardvark B idle
+14.005155 (trace) Ants: 76 76 73 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+14.005964 Aardvark B slurping Anthill 2
+14.005970 (trace) Ants: 76 76 73 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+14.005987 Aardvark C idle
+14.006026 (trace) Ants: 76 76 73 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+14.006957 Aardvark C slurping Anthill 1
+14.006962 (trace) Ants: 76 76 73 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+14.006977 Aardvark E idle
+14.007013 (trace) Ants: 76 76 73 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+14.007673 Aardvark E slurping Anthill 0
+14.007678 (trace) Ants: 76 76 73 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+14.007688 Aardvark D idle
+14.007717 (trace) Ants: 76 76 73 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+14.008323 Aardvark D slurping Anthill 2
+14.008651 (trace) Ants: 76 76 73 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+14.009169 Aardvark G idle
+14.009198 (trace) Ants: 76 76 73 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+14.009203 Aardvark G slurping Anthill 1
+14.009454 (trace) Ants: 76 76 73 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+14.009888 Aardvark H idle
+14.009949 (trace) Ants: 76 76 73 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+14.010845 Aardvark H slurping Anthill 0
+14.023887 (trace) Ants: 76 76 73 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+14.023905 (trace) Ants: 76 76 72 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+14.023916 Aardvark K swallowing
+14.023920 (trace) Ants: 76 76 72 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+14.025189 (trace) Ants: 76 76 72 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+14.025204 (trace) Ants: 76 75 72 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+14.025209 Aardvark I swallowing
+14.025212 (trace) Ants: 76 75 72 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+14.043184 (trace) Ants: 76 75 72 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+14.043209 Aardvark J idle
+14.043254 (trace) Ants: 76 75 72 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+14.043258 Aardvark J slurping Anthill 2
+14.044907 (trace) Ants: 76 75 72 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+14.044925 Aardvark F idle
+14.044967 (trace) Ants: 76 75 72 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+14.044970 Aardvark F slurping Anthill 1
+15.002162 (trace) Ants: 76 75 72 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+15.002204 (trace) Ants: 75 75 72 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+15.002208 Aardvark A swallowing
+15.002211 (trace) Ants: 75 75 72 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+15.006031 (trace) Ants: 75 75 72 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+15.006053 (trace) Ants: 75 75 71 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+15.006059 Aardvark B swallowing
+15.006063 (trace) Ants: 75 75 71 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+15.007030 (trace) Ants: 75 75 71 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+15.007052 (trace) Ants: 75 74 71 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+15.007056 Aardvark C swallowing
+15.007059 (trace) Ants: 75 74 71 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+15.007743 (trace) Ants: 75 74 71 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+15.007790 (trace) Ants: 74 74 71 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+15.007795 Aardvark E swallowing
+15.007798 (trace) Ants: 74 74 71 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+15.008359 (trace) Ants: 74 74 71 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+15.008678 (trace) Ants: 74 74 70 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+15.008687 Aardvark D swallowing
+15.008689 (trace) Ants: 74 74 70 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+15.009276 (trace) Ants: 74 74 70 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+15.009446 (trace) Ants: 74 73 70 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+15.009451 Aardvark G swallowing
+15.009453 (trace) Ants: 74 73 70 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+15.010923 (trace) Ants: 74 73 70 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+15.010947 (trace) Ants: 73 73 70 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+15.010953 Aardvark H swallowing
+15.010956 (trace) Ants: 73 73 70 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+15.023984 (trace) Ants: 73 73 70 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+15.024001 Aardvark K idle
+15.024080 (trace) Ants: 73 73 70 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+15.024782 Aardvark K slurping Anthill 0
+15.025282 (trace) Ants: 73 73 70 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+15.025502 Aardvark I idle
+15.025554 (trace) Ants: 73 73 70 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+15.026638 Aardvark I slurping Anthill 2
+15.043329 (trace) Ants: 73 73 70 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+15.043358 (trace) Ants: 73 73 69 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+15.043364 Aardvark J swallowing
+15.043367 (trace) Ants: 73 73 69 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+15.045037 (trace) Ants: 73 73 69 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+15.045054 (trace) Ants: 73 72 69 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+15.045058 Aardvark F swallowing
+15.045060 (trace) Ants: 73 72 69 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+16.002286 (trace) Ants: 73 72 69 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+16.002326 Aardvark A idle
+16.002396 (trace) Ants: 73 72 69 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+16.002402 Aardvark A slurping Anthill 2
+16.006132 (trace) Ants: 73 72 69 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+16.006157 Aardvark B idle
+16.006202 (trace) Ants: 73 72 69 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+16.006914 Aardvark B slurping Anthill 1
+16.007126 (trace) Ants: 73 72 69 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+16.007627 Aardvark C idle
+16.007677 (trace) Ants: 73 72 69 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+16.008548 Aardvark C slurping Anthill 1
+16.008556 (trace) Ants: 73 72 69 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+16.008570 Aardvark E idle
+16.008611 (trace) Ants: 73 72 69 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+16.009136 Aardvark E slurping Anthill 0
+16.009142 (trace) Ants: 73 72 69 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+16.009148 Aardvark D idle
+16.009179 (trace) Ants: 73 72 69 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+16.009702 Aardvark D slurping Anthill 2
+16.009706 (trace) Ants: 73 72 69 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+16.010425 Aardvark G idle
+16.010460 (trace) Ants: 73 72 69 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+16.010967 Aardvark G slurping Anthill 1
+16.011025 (trace) Ants: 73 72 69 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+16.011568 Aardvark H idle
+16.011632 (trace) Ants: 73 72 69 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+16.012110 Aardvark H slurping Anthill 0
+16.024851 (trace) Ants: 73 72 69 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+16.024870 (trace) Ants: 72 72 69 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+16.024874 Aardvark K swallowing
+16.024876 (trace) Ants: 72 72 69 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+16.026720 (trace) Ants: 72 72 69 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+16.026743 (trace) Ants: 72 72 68 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+16.026751 Aardvark I swallowing
+16.026755 (trace) Ants: 72 72 68 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+16.043434 (trace) Ants: 72 72 68 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+16.043454 Aardvark J idle
+16.044050 (trace) Ants: 72 72 68 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+16.044195 Aardvark J slurping Anthill 0
+16.045126 (trace) Ants: 72 72 68 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+16.045143 Aardvark F idle
+16.045543 (trace) Ants: 72 72 68 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+16.045790 Aardvark F slurping Anthill 2
+17.002500 (trace) Ants: 72 72 68 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+17.002544 (trace) Ants: 72 72 67 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+17.002548 Aardvark A swallowing
+17.002551 (trace) Ants: 72 72 67 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+17.006992 (trace) Ants: 72 72 67 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+17.007017 (trace) Ants: 72 71 67 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+17.007022 Aardvark B swallowing
+17.007024 (trace) Ants: 72 71 67 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+17.008616 (trace) Ants: 72 71 67 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+17.008637 (trace) Ants: 72 70 67 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+17.008641 Aardvark C swallowing
+17.008644 (trace) Ants: 72 70 67 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+17.009203 (trace) Ants: 72 70 67 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+17.009402 (trace) Ants: 71 70 67 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+17.009411 Aardvark E swallowing
+17.009414 (trace) Ants: 71 70 67 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+17.009777 (trace) Ants: 71 70 67 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+17.010431 (trace) Ants: 71 70 66 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+17.010437 Aardvark D swallowing
+17.010440 (trace) Ants: 71 70 66 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+17.011038 (trace) Ants: 71 70 66 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+17.011200 (trace) Ants: 71 69 66 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+17.011204 Aardvark G swallowing
+17.011206 (trace) Ants: 71 69 66 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+17.012185 (trace) Ants: 71 69 66 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+17.012200 (trace) Ants: 70 69 66 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+17.012204 Aardvark H swallowing
+17.012206 (trace) Ants: 70 69 66 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+17.024959 (trace) Ants: 70 69 66 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+17.024980 Aardvark K idle
+17.025058 (trace) Ants: 70 69 66 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+17.025993 Aardvark K slurping Anthill 2
+17.026825 (trace) Ants: 70 69 66 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+17.026851 Aardvark I idle
+17.026892 (trace) Ants: 70 69 66 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+17.026896 Aardvark I slurping Anthill 1
+17.044268 (trace) Ants: 70 69 66 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+17.044291 (trace) Ants: 69 69 66 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+17.044297 Aardvark J swallowing
+17.044300 (trace) Ants: 69 69 66 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+17.045856 (trace) Ants: 69 69 66 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+17.045874 (trace) Ants: 69 69 65 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+17.045878 Aardvark F swallowing
+17.045880 (trace) Ants: 69 69 65 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+18.002628 (trace) Ants: 69 69 65 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+18.002673 Aardvark A idle
+18.002735 (trace) Ants: 69 69 65 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+18.002740 Aardvark A slurping Anthill 0
+18.007099 (trace) Ants: 69 69 65 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+18.007126 Aardvark B idle
+18.007169 (trace) Ants: 69 69 65 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+18.008187 Aardvark B slurping Anthill 2
+18.008709 (trace) Ants: 69 69 65 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+18.008783 Aardvark C idle
+18.008830 (trace) Ants: 69 69 65 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+18.009513 Aardvark C slurping Anthill 1
+18.009517 (trace) Ants: 69 69 65 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+18.009532 Aardvark E idle
+18.009566 (trace) Ants: 69 69 65 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+18.010281 Aardvark E slurping Anthill 0
+18.010504 (trace) Ants: 69 69 65 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+18.010885 Aardvark D idle
+18.010916 (trace) Ants: 69 69 65 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+18.010920 Aardvark D slurping Anthill 2
+18.011273 (trace) Ants: 69 69 65 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+18.011837 Aardvark G idle
+18.011891 (trace) Ants: 69 69 65 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+18.012622 Aardvark G slurping Anthill 1
+18.012629 (trace) Ants: 69 69 65 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+18.012639 Aardvark H idle
+18.012683 (trace) Ants: 69 69 65 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+18.013191 Aardvark H slurping Anthill 0
+18.026063 (trace) Ants: 69 69 65 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+18.026093 (trace) Ants: 69 69 64 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+18.026097 Aardvark K swallowing
+18.026099 (trace) Ants: 69 69 64 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+18.027650 (trace) Ants: 69 69 64 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+18.027669 (trace) Ants: 69 68 64 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+18.027673 Aardvark I swallowing
+18.027675 (trace) Ants: 69 68 64 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+18.044362 (trace) Ants: 69 68 64 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+18.044387 Aardvark J idle
+18.045029 (trace) Ants: 69 68 64 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+18.045131 Aardvark J slurping Anthill 2
+18.045951 (trace) Ants: 69 68 64 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+18.045973 Aardvark F idle
+18.046891 (trace) Ants: 69 68 64 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+18.046899 Aardvark F slurping Anthill 1
+19.002819 (trace) Ants: 69 68 64 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+19.002862 (trace) Ants: 68 68 64 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+19.002869 Aardvark A swallowing
+19.002872 (trace) Ants: 68 68 64 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+19.008266 (trace) Ants: 68 68 64 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+19.008292 (trace) Ants: 68 68 63 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+19.008296 Aardvark B swallowing
+19.008299 (trace) Ants: 68 68 63 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+19.009586 (trace) Ants: 68 68 63 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+19.009613 (trace) Ants: 68 67 63 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+19.009617 Aardvark C swallowing
+19.009620 (trace) Ants: 68 67 63 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+19.010359 (trace) Ants: 68 67 63 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+19.010379 (trace) Ants: 67 67 63 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+19.011326 Aardvark E swallowing
+19.011331 (trace) Ants: 67 67 63 Slurping: 1 2 1, Swallowing: 5, Sulking: 0
+19.011361 (trace) Ants: 67 67 62 Slurping: 1 2 1, Swallowing: 5, Sulking: 0
+19.011364 Aardvark D swallowing
+19.011366 (trace) Ants: 67 67 62 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+19.011380 (trace) Ants: 67 67 62 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+19.012695 (trace) Ants: 67 67 62 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+19.012708 (trace) Ants: 67 66 62 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+19.012712 Aardvark G swallowing
+19.012714 (trace) Ants: 67 66 62 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+19.013257 (trace) Ants: 67 66 62 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+19.013619 (trace) Ants: 66 66 62 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+19.013624 Aardvark H swallowing
+19.013626 (trace) Ants: 66 66 62 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+19.026175 (trace) Ants: 66 66 62 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+19.026199 Aardvark K idle
+19.026294 (trace) Ants: 66 66 62 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+19.026833 Aardvark K slurping Anthill 0
+19.027741 (trace) Ants: 66 66 62 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+19.027755 Aardvark I idle
+19.027809 (trace) Ants: 66 66 62 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+19.028319 Aardvark I slurping Anthill 2
+19.045200 (trace) Ants: 66 66 62 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+19.045220 (trace) Ants: 66 66 61 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+19.045224 Aardvark J swallowing
+19.045227 (trace) Ants: 66 66 61 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+19.046971 (trace) Ants: 66 66 61 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+19.046988 (trace) Ants: 66 65 61 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+19.046991 Aardvark F swallowing
+19.046994 (trace) Ants: 66 65 61 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+20.002956 (trace) Ants: 66 65 61 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+20.002998 Aardvark A idle
+20.003082 (trace) Ants: 66 65 61 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+20.003086 Aardvark A slurping Anthill 2
+20.008359 (trace) Ants: 66 65 61 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+20.008385 Aardvark B idle
+20.008439 (trace) Ants: 66 65 61 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+20.009179 Aardvark B slurping Anthill 1
+20.009685 (trace) Ants: 66 65 61 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+20.009873 Aardvark C idle
+20.009911 (trace) Ants: 66 65 61 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+20.010744 Aardvark C slurping Anthill 1
+20.011446 (trace) Ants: 66 65 61 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+20.011460 Aardvark D idle
+20.011463 (trace) Ants: 66 65 61 Slurping: 1 2 2, Swallowing: 4, Sulking: 0
+20.011477 Aardvark E idle
+20.011508 (trace) Ants: 66 65 61 Slurping: 1 2 3, Swallowing: 4, Sulking: 0
+20.012163 Aardvark D slurping Anthill 2
+20.012168 (trace) Ants: 66 65 61 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+20.012174 Aardvark E slurping Anthill 0
+20.012785 (trace) Ants: 66 65 61 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+20.013067 Aardvark G idle
+20.013116 (trace) Ants: 66 65 61 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+20.013786 Aardvark G slurping Anthill 1
+20.013791 (trace) Ants: 66 65 61 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+20.013805 Aardvark H idle
+20.013840 (trace) Ants: 66 65 61 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+20.014768 Aardvark H slurping Anthill 0
+20.026910 (trace) Ants: 66 65 61 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+20.026934 (trace) Ants: 65 65 61 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+20.026937 Aardvark K swallowing
+20.026940 (trace) Ants: 65 65 61 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+20.028364 (trace) Ants: 65 65 61 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+20.028379 (trace) Ants: 65 65 60 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+20.028382 Aardvark I swallowing
+20.028384 (trace) Ants: 65 65 60 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+20.045302 (trace) Ants: 65 65 60 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+20.045329 Aardvark J idle
+20.046276 (trace) Ants: 65 65 60 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+20.046286 Aardvark J slurping Anthill 0
+20.047059 (trace) Ants: 65 65 60 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+20.047086 Aardvark F idle
+20.047792 (trace) Ants: 65 65 60 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+20.047860 Aardvark F slurping Anthill 2
+21.003160 (trace) Ants: 65 65 60 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+21.003194 (trace) Ants: 65 65 59 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+21.003199 Aardvark A swallowing
+21.003202 (trace) Ants: 65 65 59 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+21.009254 (trace) Ants: 65 65 59 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+21.009281 (trace) Ants: 65 64 59 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+21.009285 Aardvark B swallowing
+21.009288 (trace) Ants: 65 64 59 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+21.010827 (trace) Ants: 65 64 59 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+21.010852 (trace) Ants: 65 63 59 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+21.010856 Aardvark C swallowing
+21.010859 (trace) Ants: 65 63 59 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+21.012232 (trace) Ants: 65 63 59 Slurping: 3 1 1, Swallowing: 5, Sulking: 0
+21.012246 (trace) Ants: 65 63 58 Slurping: 3 1 1, Swallowing: 5, Sulking: 0
+21.012250 Aardvark D swallowing
+21.012252 (trace) Ants: 65 63 58 Slurping: 3 1 1, Swallowing: 6, Sulking: 0
+21.012259 (trace) Ants: 65 63 58 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+21.012269 (trace) Ants: 64 63 58 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+21.012271 Aardvark E swallowing
+21.012274 (trace) Ants: 64 63 58 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+21.013867 (trace) Ants: 64 63 58 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+21.013880 (trace) Ants: 64 62 58 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+21.013884 Aardvark G swallowing
+21.013886 (trace) Ants: 64 62 58 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+21.014837 (trace) Ants: 64 62 58 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+21.014850 (trace) Ants: 63 62 58 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+21.014853 Aardvark H swallowing
+21.014855 (trace) Ants: 63 62 58 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+21.027014 (trace) Ants: 63 62 58 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+21.027030 Aardvark K idle
+21.027099 (trace) Ants: 63 62 58 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+21.027815 Aardvark K slurping Anthill 2
+21.028450 (trace) Ants: 63 62 58 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+21.028826 Aardvark I idle
+21.028871 (trace) Ants: 63 62 58 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+21.028875 Aardvark I slurping Anthill 1
+21.046356 (trace) Ants: 63 62 58 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+21.046380 (trace) Ants: 62 62 58 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+21.046384 Aardvark J swallowing
+21.046387 (trace) Ants: 62 62 58 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+21.047926 (trace) Ants: 62 62 58 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+21.047943 (trace) Ants: 62 62 57 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+21.047949 Aardvark F swallowing
+21.047952 (trace) Ants: 62 62 57 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+22.003286 (trace) Ants: 62 62 57 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+22.003329 Aardvark A idle
+22.003414 (trace) Ants: 62 62 57 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+22.003418 Aardvark A slurping Anthill 0
+22.009361 (trace) Ants: 62 62 57 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+22.009390 Aardvark B idle
+22.009454 (trace) Ants: 62 62 57 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+22.010131 Aardvark B slurping Anthill 2
+22.010926 (trace) Ants: 62 62 57 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+22.011129 Aardvark C idle
+22.011166 (trace) Ants: 62 62 57 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+22.011825 Aardvark C slurping Anthill 1
+22.012317 (trace) Ants: 62 62 57 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+22.012557 Aardvark D idle
+22.012562 (trace) Ants: 62 62 57 Slurping: 1 2 2, Swallowing: 4, Sulking: 0
+22.012579 Aardvark E idle
+22.012609 (trace) Ants: 62 62 57 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+22.013259 Aardvark D slurping Anthill 0
+22.013264 (trace) Ants: 62 62 57 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+22.013271 Aardvark E slurping Anthill 2
+22.013951 (trace) Ants: 62 62 57 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+22.014107 Aardvark G idle
+22.014141 (trace) Ants: 62 62 57 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+22.015228 Aardvark G slurping Anthill 1
+22.015236 (trace) Ants: 62 62 57 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+22.015246 Aardvark H idle
+22.015292 (trace) Ants: 62 62 57 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+22.015770 Aardvark H slurping Anthill 0
+22.027887 (trace) Ants: 62 62 57 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+22.027906 (trace) Ants: 62 62 56 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+22.027910 Aardvark K swallowing
+22.027913 (trace) Ants: 62 62 56 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+22.028946 (trace) Ants: 62 62 56 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+22.028962 (trace) Ants: 62 61 56 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+22.028966 Aardvark I swallowing
+22.028968 (trace) Ants: 62 61 56 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+22.046457 (trace) Ants: 62 61 56 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+22.046481 Aardvark J idle
+22.047083 (trace) Ants: 62 61 56 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+22.047129 Aardvark J slurping Anthill 2
+22.048017 (trace) Ants: 62 61 56 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+22.048035 Aardvark F idle
+22.048865 (trace) Ants: 62 61 56 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+22.048873 Aardvark F slurping Anthill 1
+23.003499 (trace) Ants: 62 61 56 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+23.003534 (trace) Ants: 61 61 56 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+23.003541 Aardvark A swallowing
+23.003544 (trace) Ants: 61 61 56 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+23.010218 (trace) Ants: 61 61 56 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+23.010246 (trace) Ants: 61 61 55 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+23.010251 Aardvark B swallowing
+23.010254 (trace) Ants: 61 61 55 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+23.011899 (trace) Ants: 61 61 55 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+23.011921 (trace) Ants: 61 60 55 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+23.011926 Aardvark C swallowing
+23.011928 (trace) Ants: 61 60 55 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+23.013328 (trace) Ants: 61 60 55 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+23.013338 (trace) Ants: 60 60 55 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+23.013352 Aardvark D swallowing
+23.013352 (trace) Ants: 60 60 55 Slurping: 1 2 1, Swallowing: 5, Sulking: 0
+23.013376 (trace) Ants: 60 60 54 Slurping: 1 2 1, Swallowing: 5, Sulking: 0
+23.013381 Aardvark E swallowing
+23.013382 (trace) Ants: 60 60 54 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+23.013409 (trace) Ants: 60 60 54 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+23.015298 (trace) Ants: 60 60 54 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+23.015317 (trace) Ants: 60 59 54 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+23.015321 Aardvark G swallowing
+23.015323 (trace) Ants: 60 59 54 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+23.015840 (trace) Ants: 60 59 54 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+23.016054 (trace) Ants: 59 59 54 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+23.016059 Aardvark H swallowing
+23.016061 (trace) Ants: 59 59 54 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+23.027979 (trace) Ants: 59 59 54 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+23.028002 Aardvark K idle
+23.028059 (trace) Ants: 59 59 54 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+23.028063 Aardvark K slurping Anthill 0
+23.029035 (trace) Ants: 59 59 54 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+23.029642 Aardvark I idle
+23.029683 (trace) Ants: 59 59 54 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+23.029690 Aardvark I slurping Anthill 2
+23.047199 (trace) Ants: 59 59 54 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+23.047219 (trace) Ants: 59 59 53 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+23.047222 Aardvark J swallowing
+23.047225 (trace) Ants: 59 59 53 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+23.048939 (trace) Ants: 59 59 53 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+23.048958 (trace) Ants: 59 58 53 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+23.048962 Aardvark F swallowing
+23.048964 (trace) Ants: 59 58 53 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+24.003619 (trace) Ants: 59 58 53 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+24.003657 Aardvark A idle
+24.003716 (trace) Ants: 59 58 53 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+24.003722 Aardvark A slurping Anthill 2
+24.010322 (trace) Ants: 59 58 53 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+24.010344 Aardvark B idle
+24.010394 (trace) Ants: 59 58 53 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+24.010398 Aardvark B slurping Anthill 1
+24.011993 (trace) Ants: 59 58 53 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+24.012014 Aardvark C idle
+24.012048 (trace) Ants: 59 58 53 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+24.012052 Aardvark C slurping Anthill 1
+24.013465 (trace) Ants: 59 58 53 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+24.013475 Aardvark D idle
+24.013479 (trace) Ants: 59 58 53 Slurping: 1 2 2, Swallowing: 4, Sulking: 0
+24.013496 Aardvark E idle
+24.013525 (trace) Ants: 59 58 53 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+24.014260 Aardvark D slurping Anthill 0
+24.014264 (trace) Ants: 59 58 53 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+24.014271 Aardvark E slurping Anthill 2
+24.015358 (trace) Ants: 59 58 53 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+24.015373 Aardvark G idle
+24.015405 (trace) Ants: 59 58 53 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+24.015409 Aardvark G slurping Anthill 1
+24.016127 (trace) Ants: 59 58 53 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+24.016138 Aardvark H idle
+24.016166 (trace) Ants: 59 58 53 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+24.016170 Aardvark H slurping Anthill 0
+24.028838 (trace) Ants: 59 58 53 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+24.028862 (trace) Ants: 58 58 53 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+24.028866 Aardvark K swallowing
+24.028868 (trace) Ants: 58 58 53 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+24.029760 (trace) Ants: 58 58 53 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+24.029771 (trace) Ants: 58 58 52 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+24.029774 Aardvark I swallowing
+24.029777 (trace) Ants: 58 58 52 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+24.047298 (trace) Ants: 58 58 52 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+24.047325 Aardvark J idle
+24.048043 (trace) Ants: 58 58 52 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+24.048052 Aardvark J slurping Anthill 0
+24.049038 (trace) Ants: 58 58 52 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+24.049054 Aardvark F idle
+24.049680 (trace) Ants: 58 58 52 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+24.049778 Aardvark F slurping Anthill 2
+25.003796 (trace) Ants: 58 58 52 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+25.003858 (trace) Ants: 58 58 51 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+25.003866 Aardvark A swallowing
+25.003869 (trace) Ants: 58 58 51 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+25.010467 (trace) Ants: 58 58 51 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+25.010489 (trace) Ants: 58 57 51 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+25.010493 Aardvark B swallowing
+25.010496 (trace) Ants: 58 57 51 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+25.012121 (trace) Ants: 58 57 51 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+25.012143 (trace) Ants: 58 56 51 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+25.012147 Aardvark C swallowing
+25.012149 (trace) Ants: 58 56 51 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+25.014330 (trace) Ants: 58 56 51 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+25.014352 (trace) Ants: 58 56 51 Slurping: 2 1 1, Swallowing: 5, Sulking: 0
+25.014372 (trace) Ants: 58 56 50 Slurping: 2 1 1, Swallowing: 5, Sulking: 0
+25.014376 Aardvark E swallowing
+25.014377 (trace) Ants: 57 56 50 Slurping: 2 1 1, Swallowing: 5, Sulking: 0
+25.014391 Aardvark D swallowing
+25.014394 (trace) Ants: 57 56 50 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+25.014405 (trace) Ants: 57 56 50 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+25.015474 (trace) Ants: 57 56 50 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+25.015805 (trace) Ants: 57 55 50 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+25.015809 Aardvark G swallowing
+25.015812 (trace) Ants: 57 55 50 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+25.016234 (trace) Ants: 57 55 50 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+25.016523 (trace) Ants: 56 55 50 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+25.016526 Aardvark H swallowing
+25.016528 (trace) Ants: 56 55 50 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+25.028935 (trace) Ants: 56 55 50 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+25.028959 Aardvark K idle
+25.029017 (trace) Ants: 56 55 50 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+25.029574 Aardvark K slurping Anthill 2
+25.029889 (trace) Ants: 56 55 50 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+25.030282 Aardvark I idle
+25.030393 (trace) Ants: 56 55 50 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+25.030843 Aardvark I slurping Anthill 1
+25.048122 (trace) Ants: 56 55 50 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+25.048148 (trace) Ants: 55 55 50 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+25.048152 Aardvark J swallowing
+25.048154 (trace) Ants: 55 55 50 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+25.049846 (trace) Ants: 55 55 50 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+25.049864 (trace) Ants: 55 55 49 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+25.049868 Aardvark F swallowing
+25.049871 (trace) Ants: 55 55 49 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+26.003952 (trace) Ants: 55 55 49 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+26.003995 Aardvark A idle
+26.004072 (trace) Ants: 55 55 49 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+26.004078 Aardvark A slurping Anthill 0
+26.010574 (trace) Ants: 55 55 49 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+26.010601 Aardvark B idle
+26.010652 (trace) Ants: 55 55 49 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+26.010656 Aardvark B slurping Anthill 2
+26.012219 (trace) Ants: 55 55 49 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+26.012241 Aardvark C idle
+26.012296 (trace) Ants: 55 55 49 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+26.013024 Aardvark C slurping Anthill 1
+26.014463 (trace) Ants: 55 55 49 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+26.014480 Aardvark D idle
+26.014514 (trace) Ants: 55 55 49 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+26.014517 Aardvark D slurping Anthill 0
+26.015163 (trace) Ants: 55 55 49 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+26.015175 Aardvark E idle
+26.015215 (trace) Ants: 55 55 49 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+26.015219 Aardvark E slurping Anthill 2
+26.015879 (trace) Ants: 55 55 49 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+26.015990 Aardvark G idle
+26.016037 (trace) Ants: 55 55 49 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+26.016684 Aardvark G slurping Anthill 1
+26.016688 (trace) Ants: 55 55 49 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+26.016697 Aardvark H idle
+26.016724 (trace) Ants: 55 55 49 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+26.017477 Aardvark H slurping Anthill 0
+26.029654 (trace) Ants: 55 55 49 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+26.029673 (trace) Ants: 55 55 48 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+26.029678 Aardvark K swallowing
+26.029681 (trace) Ants: 55 55 48 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+26.030914 (trace) Ants: 55 55 48 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+26.030923 (trace) Ants: 55 54 48 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+26.030926 Aardvark I swallowing
+26.030928 (trace) Ants: 55 54 48 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+26.048225 (trace) Ants: 55 54 48 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+26.048248 Aardvark J idle
+26.049004 (trace) Ants: 55 54 48 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+26.049015 Aardvark J slurping Anthill 2
+26.049936 (trace) Ants: 55 54 48 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+26.049954 Aardvark F idle
+26.050384 (trace) Ants: 55 54 48 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+26.050656 Aardvark F slurping Anthill 1
+27.004154 (trace) Ants: 55 54 48 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+27.004195 (trace) Ants: 54 54 48 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+27.004200 Aardvark A swallowing
+27.004202 (trace) Ants: 54 54 48 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+27.010735 (trace) Ants: 54 54 48 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+27.010761 (trace) Ants: 54 54 47 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+27.010772 Aardvark B swallowing
+27.010775 (trace) Ants: 54 54 47 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+27.013090 (trace) Ants: 54 54 47 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+27.013110 (trace) Ants: 54 53 47 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+27.013114 Aardvark C swallowing
+27.013116 (trace) Ants: 54 53 47 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+27.014584 (trace) Ants: 54 53 47 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+27.014601 (trace) Ants: 53 53 47 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+27.014604 Aardvark D swallowing
+27.014606 (trace) Ants: 53 53 47 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+27.016029 (trace) Ants: 53 53 47 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+27.016040 (trace) Ants: 53 53 46 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+27.016043 Aardvark E swallowing
+27.016046 (trace) Ants: 53 53 46 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+27.016751 (trace) Ants: 53 53 46 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+27.016771 (trace) Ants: 53 52 46 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+27.016776 Aardvark G swallowing
+27.016778 (trace) Ants: 53 52 46 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+27.017543 (trace) Ants: 53 52 46 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+27.017558 (trace) Ants: 52 52 46 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+27.017561 Aardvark H swallowing
+27.017563 (trace) Ants: 52 52 46 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+27.029756 (trace) Ants: 52 52 46 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+27.029773 Aardvark K idle
+27.029855 (trace) Ants: 52 52 46 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+27.030393 Aardvark K slurping Anthill 0
+27.030991 (trace) Ants: 52 52 46 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+27.030997 Aardvark I idle
+27.031043 (trace) Ants: 52 52 46 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+27.032871 Aardvark I slurping Anthill 2
+27.049086 (trace) Ants: 52 52 46 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+27.049110 (trace) Ants: 52 52 45 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+27.049114 Aardvark J swallowing
+27.049116 (trace) Ants: 52 52 45 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+27.050722 (trace) Ants: 52 52 45 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+27.050739 (trace) Ants: 52 51 45 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+27.050745 Aardvark F swallowing
+27.050748 (trace) Ants: 52 51 45 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+28.004293 (trace) Ants: 52 51 45 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+28.004330 Aardvark A idle
+28.004416 (trace) Ants: 52 51 45 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+28.004421 Aardvark A slurping Anthill 2
+28.010840 (trace) Ants: 52 51 45 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+28.010862 Aardvark B idle
+28.010915 (trace) Ants: 52 51 45 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+28.011573 Aardvark B slurping Anthill 1
+28.013181 (trace) Ants: 52 51 45 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+28.013201 Aardvark C idle
+28.013243 (trace) Ants: 52 51 45 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+28.013248 Aardvark C slurping Anthill 1
+28.014671 (trace) Ants: 52 51 45 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+28.014685 Aardvark D idle
+28.014715 (trace) Ants: 52 51 45 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+28.014719 Aardvark D slurping Anthill 0
+28.016109 (trace) Ants: 52 51 45 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+28.016121 Aardvark E idle
+28.016157 (trace) Ants: 52 51 45 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+28.016160 Aardvark E slurping Anthill 2
+28.016849 (trace) Ants: 52 51 45 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+28.017616 Aardvark G idle
+28.017627 (trace) Ants: 52 51 45 Slurping: 2 2 3, Swallowing: 2, Sulking: 0
+28.017633 Aardvark H idle
+28.017655 (trace) Ants: 52 51 45 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+28.017660 Aardvark G slurping Anthill 1
+28.017661 (trace) Ants: 52 51 45 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+28.018377 Aardvark H slurping Anthill 0
+28.030460 (trace) Ants: 52 51 45 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+28.030475 (trace) Ants: 51 51 45 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+28.030478 Aardvark K swallowing
+28.030480 (trace) Ants: 51 51 45 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+28.032947 (trace) Ants: 51 51 45 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+28.032962 (trace) Ants: 51 51 44 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+28.032965 Aardvark I swallowing
+28.032967 (trace) Ants: 51 51 44 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+28.049188 (trace) Ants: 51 51 44 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+28.049211 Aardvark J idle
+28.049818 (trace) Ants: 51 51 44 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+28.049956 Aardvark J slurping Anthill 0
+28.050813 (trace) Ants: 51 51 44 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+28.050830 Aardvark F idle
+28.051034 (trace) Ants: 51 51 44 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+28.051455 Aardvark F slurping Anthill 2
+29.004498 (trace) Ants: 51 51 44 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+29.004534 (trace) Ants: 51 51 43 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+29.004539 Aardvark A swallowing
+29.004541 (trace) Ants: 51 51 43 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+29.011645 (trace) Ants: 51 51 43 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+29.011674 (trace) Ants: 51 50 43 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+29.011679 Aardvark B swallowing
+29.011682 (trace) Ants: 51 50 43 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+29.013316 (trace) Ants: 51 50 43 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+29.013335 (trace) Ants: 51 49 43 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+29.013341 Aardvark C swallowing
+29.013344 (trace) Ants: 51 49 43 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+29.014783 (trace) Ants: 51 49 43 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+29.014795 (trace) Ants: 50 49 43 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+29.014799 Aardvark D swallowing
+29.014801 (trace) Ants: 50 49 43 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+29.016851 (trace) Ants: 50 49 43 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+29.016861 (trace) Ants: 50 49 42 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+29.016863 Aardvark E swallowing
+29.016866 (trace) Ants: 50 49 42 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+29.017733 (trace) Ants: 50 49 42 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+29.017754 (trace) Ants: 50 48 42 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+29.017758 Aardvark G swallowing
+29.017760 (trace) Ants: 50 48 42 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+29.018449 (trace) Ants: 50 48 42 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+29.018461 (trace) Ants: 49 48 42 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+29.018467 Aardvark H swallowing
+29.018470 (trace) Ants: 49 48 42 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+29.030555 (trace) Ants: 49 48 42 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+29.030569 Aardvark K idle
+29.030624 (trace) Ants: 49 48 42 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+29.030628 Aardvark K slurping Anthill 2
+29.033037 (trace) Ants: 49 48 42 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+29.033052 Aardvark I idle
+29.033094 (trace) Ants: 49 48 42 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+29.033098 Aardvark I slurping Anthill 1
+29.050027 (trace) Ants: 49 48 42 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+29.050045 (trace) Ants: 48 48 42 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+29.050049 Aardvark J swallowing
+29.050051 (trace) Ants: 48 48 42 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+29.051524 (trace) Ants: 48 48 42 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+29.051544 (trace) Ants: 48 48 41 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+29.051548 Aardvark F swallowing
+29.051551 (trace) Ants: 48 48 41 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+30.004612 (trace) Ants: 48 48 41 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+30.004648 Aardvark A idle
+30.004696 (trace) Ants: 48 48 41 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+30.004699 Aardvark A slurping Anthill 0
+30.011757 (trace) Ants: 48 48 41 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+30.011784 Aardvark B idle
+30.011829 (trace) Ants: 48 48 41 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+30.011834 Aardvark B slurping Anthill 2
+30.013416 (trace) Ants: 48 48 41 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+30.013435 Aardvark C idle
+30.013473 (trace) Ants: 48 48 41 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+30.013483 Aardvark C slurping Anthill 1
+30.014866 (trace) Ants: 48 48 41 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+30.014877 Aardvark D idle
+30.014925 (trace) Ants: 48 48 41 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+30.014930 Aardvark D slurping Anthill 0
+30.016937 (trace) Ants: 48 48 41 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+30.016952 Aardvark E idle
+30.016992 (trace) Ants: 48 48 41 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+30.016999 Aardvark E slurping Anthill 2
+30.017826 (trace) Ants: 48 48 41 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+30.017845 Aardvark G idle
+30.017882 (trace) Ants: 48 48 41 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+30.017887 Aardvark G slurping Anthill 1
+30.018534 (trace) Ants: 48 48 41 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+30.019188 Aardvark H idle
+30.019218 (trace) Ants: 48 48 41 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+30.019222 Aardvark H slurping Anthill 0
+30.030696 (trace) Ants: 48 48 41 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+30.030710 (trace) Ants: 48 48 40 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+30.030713 Aardvark K swallowing
+30.030715 (trace) Ants: 48 48 40 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+30.033165 (trace) Ants: 48 48 40 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+30.033178 (trace) Ants: 48 47 40 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+30.033181 Aardvark I swallowing
+30.033183 (trace) Ants: 48 47 40 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+30.050117 (trace) Ants: 48 47 40 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+30.050136 Aardvark J idle
+30.050615 (trace) Ants: 48 47 40 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+30.050941 Aardvark J slurping Anthill 2
+30.051616 (trace) Ants: 48 47 40 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+30.051634 Aardvark F idle
+30.053092 (trace) Ants: 48 47 40 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+30.053103 Aardvark F slurping Anthill 1
+31.004771 (trace) Ants: 48 47 40 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+31.004818 (trace) Ants: 47 47 40 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+31.004823 Aardvark A swallowing
+31.004826 (trace) Ants: 47 47 40 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+31.011902 (trace) Ants: 47 47 40 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+31.011931 (trace) Ants: 47 47 39 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+31.011936 Aardvark B swallowing
+31.011938 (trace) Ants: 47 47 39 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+31.013547 (trace) Ants: 47 47 39 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+31.013566 (trace) Ants: 47 46 39 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+31.013569 Aardvark C swallowing
+31.013572 (trace) Ants: 47 46 39 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+31.014994 (trace) Ants: 47 46 39 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+31.015007 (trace) Ants: 46 46 39 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+31.015012 Aardvark D swallowing
+31.015015 (trace) Ants: 46 46 39 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+31.017062 (trace) Ants: 46 46 39 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+31.017072 (trace) Ants: 46 46 38 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+31.017076 Aardvark E swallowing
+31.017078 (trace) Ants: 46 46 38 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+31.018492 (trace) Ants: 46 46 38 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+31.018512 (trace) Ants: 46 45 38 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+31.018516 Aardvark G swallowing
+31.018519 (trace) Ants: 46 45 38 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+31.019287 (trace) Ants: 46 45 38 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+31.019297 (trace) Ants: 45 45 38 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+31.019301 Aardvark H swallowing
+31.019303 (trace) Ants: 45 45 38 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+31.030784 (trace) Ants: 45 45 38 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+31.030796 Aardvark K idle
+31.030870 (trace) Ants: 45 45 38 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+31.031826 Aardvark K slurping Anthill 0
+31.033247 (trace) Ants: 45 45 38 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+31.033264 Aardvark I idle
+31.033302 (trace) Ants: 45 45 38 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+31.033310 Aardvark I slurping Anthill 2
+31.051020 (trace) Ants: 45 45 38 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+31.051038 (trace) Ants: 45 45 37 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+31.051042 Aardvark J swallowing
+31.051044 (trace) Ants: 45 45 37 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+31.053171 (trace) Ants: 45 45 37 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+31.053190 (trace) Ants: 45 44 37 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+31.053195 Aardvark F swallowing
+31.053197 (trace) Ants: 45 44 37 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+32.004923 (trace) Ants: 45 44 37 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+32.004969 Aardvark A idle
+32.005041 (trace) Ants: 45 44 37 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+32.005047 Aardvark A slurping Anthill 2
+32.012008 (trace) Ants: 45 44 37 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+32.012033 Aardvark B idle
+32.012072 (trace) Ants: 45 44 37 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+32.012076 Aardvark B slurping Anthill 1
+32.013637 (trace) Ants: 45 44 37 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+32.013655 Aardvark C idle
+32.013709 (trace) Ants: 45 44 37 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+32.014322 Aardvark C slurping Anthill 1
+32.015079 (trace) Ants: 45 44 37 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+32.015091 Aardvark D idle
+32.015121 (trace) Ants: 45 44 37 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+32.015124 Aardvark D slurping Anthill 0
+32.017150 (trace) Ants: 45 44 37 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+32.017171 Aardvark E idle
+32.017218 (trace) Ants: 45 44 37 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+32.017809 Aardvark E slurping Anthill 2
+32.018585 (trace) Ants: 45 44 37 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+32.018645 Aardvark G idle
+32.018689 (trace) Ants: 45 44 37 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+32.019274 Aardvark G slurping Anthill 1
+32.019373 (trace) Ants: 45 44 37 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+32.019992 Aardvark H idle
+32.020034 (trace) Ants: 45 44 37 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+32.020586 Aardvark H slurping Anthill 0
+32.031910 (trace) Ants: 45 44 37 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+32.031930 (trace) Ants: 44 44 37 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+32.031935 Aardvark K swallowing
+32.031938 (trace) Ants: 44 44 37 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+32.033360 (trace) Ants: 44 44 37 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+32.033379 (trace) Ants: 44 44 36 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+32.033383 Aardvark I swallowing
+32.033386 (trace) Ants: 44 44 36 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+32.051113 (trace) Ants: 44 44 36 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+32.051134 Aardvark J idle
+32.051184 (trace) Ants: 44 44 36 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+32.051189 Aardvark J slurping Anthill 0
+32.053267 (trace) Ants: 44 44 36 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+32.053286 Aardvark F idle
+32.053321 (trace) Ants: 44 44 36 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+32.053325 Aardvark F slurping Anthill 2
+33.005129 (trace) Ants: 44 44 36 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+33.005169 (trace) Ants: 44 44 35 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+33.005173 Aardvark A swallowing
+33.005176 (trace) Ants: 44 44 35 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+33.012141 (trace) Ants: 44 44 35 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+33.012165 (trace) Ants: 44 43 35 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+33.012170 Aardvark B swallowing
+33.012173 (trace) Ants: 44 43 35 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+33.014392 (trace) Ants: 44 43 35 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+33.014414 (trace) Ants: 44 42 35 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+33.014418 Aardvark C swallowing
+33.014421 (trace) Ants: 44 42 35 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+33.015189 (trace) Ants: 44 42 35 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+33.015197 (trace) Ants: 43 42 35 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+33.015200 Aardvark D swallowing
+33.015202 (trace) Ants: 43 42 35 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+33.017878 (trace) Ants: 43 42 35 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+33.017895 (trace) Ants: 43 42 34 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+33.017900 Aardvark E swallowing
+33.017903 (trace) Ants: 43 42 34 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+33.019344 (trace) Ants: 43 42 34 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+33.019372 (trace) Ants: 43 41 34 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+33.019376 Aardvark G swallowing
+33.019379 (trace) Ants: 43 41 34 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+33.020663 (trace) Ants: 43 41 34 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+33.020676 (trace) Ants: 42 41 34 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+33.020680 Aardvark H swallowing
+33.020682 (trace) Ants: 42 41 34 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+33.032015 (trace) Ants: 42 41 34 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+33.032034 Aardvark K idle
+33.032091 (trace) Ants: 42 41 34 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+33.032648 Aardvark K slurping Anthill 2
+33.033450 (trace) Ants: 42 41 34 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+33.033468 Aardvark I idle
+33.033526 (trace) Ants: 42 41 34 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+33.034361 Aardvark I slurping Anthill 1
+33.051257 (trace) Ants: 42 41 34 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+33.051273 (trace) Ants: 41 41 34 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+33.051276 Aardvark J swallowing
+33.051278 (trace) Ants: 41 41 34 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+33.053362 (trace) Ants: 41 41 34 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+33.053381 (trace) Ants: 41 41 33 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+33.053384 Aardvark F swallowing
+33.053387 (trace) Ants: 41 41 33 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+34.005253 (trace) Ants: 41 41 33 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+34.005291 Aardvark A idle
+34.005362 (trace) Ants: 41 41 33 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+34.005368 Aardvark A slurping Anthill 0
+34.012241 (trace) Ants: 41 41 33 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+34.012270 Aardvark B idle
+34.012315 (trace) Ants: 41 41 33 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+34.012319 Aardvark B slurping Anthill 2
+34.014491 (trace) Ants: 41 41 33 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+34.014512 Aardvark C idle
+34.014553 (trace) Ants: 41 41 33 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+34.014559 Aardvark C slurping Anthill 1
+34.015274 (trace) Ants: 41 41 33 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+34.015403 Aardvark D idle
+34.015448 (trace) Ants: 41 41 33 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+34.016096 Aardvark D slurping Anthill 0
+34.017980 (trace) Ants: 41 41 33 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+34.017997 Aardvark E idle
+34.018033 (trace) Ants: 41 41 33 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+34.018036 Aardvark E slurping Anthill 2
+34.019444 (trace) Ants: 41 41 33 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+34.019466 Aardvark G idle
+34.019516 (trace) Ants: 41 41 33 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+34.020173 Aardvark G slurping Anthill 1
+34.020746 (trace) Ants: 41 41 33 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+34.021251 Aardvark H idle
+34.021279 (trace) Ants: 41 41 33 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+34.021282 Aardvark H slurping Anthill 0
+34.032726 (trace) Ants: 41 41 33 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+34.032744 (trace) Ants: 41 41 32 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+34.032748 Aardvark K swallowing
+34.032750 (trace) Ants: 41 41 32 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+34.034436 (trace) Ants: 41 41 32 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+34.034449 (trace) Ants: 41 40 32 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+34.034452 Aardvark I swallowing
+34.034455 (trace) Ants: 41 40 32 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+34.051343 (trace) Ants: 41 40 32 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+34.051372 Aardvark J idle
+34.052073 (trace) Ants: 41 40 32 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+34.052194 Aardvark J slurping Anthill 2
+34.053451 (trace) Ants: 41 40 32 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+34.053469 Aardvark F idle
+34.053498 (trace) Ants: 41 40 32 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+34.053502 Aardvark F slurping Anthill 1
+35.005442 (trace) Ants: 41 40 32 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+35.005478 (trace) Ants: 40 40 32 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+35.005483 Aardvark A swallowing
+35.005485 (trace) Ants: 40 40 32 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+35.012359 (trace) Ants: 40 40 32 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+35.012386 (trace) Ants: 40 40 31 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+35.012390 Aardvark B swallowing
+35.012393 (trace) Ants: 40 40 31 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+35.014624 (trace) Ants: 40 40 31 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+35.014645 (trace) Ants: 40 39 31 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+35.014651 Aardvark C swallowing
+35.014654 (trace) Ants: 40 39 31 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+35.016163 (trace) Ants: 40 39 31 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+35.016173 (trace) Ants: 39 39 31 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+35.016176 Aardvark D swallowing
+35.016178 (trace) Ants: 39 39 31 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+35.018105 (trace) Ants: 39 39 31 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+35.018118 (trace) Ants: 39 39 30 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+35.018121 Aardvark E swallowing
+35.018123 (trace) Ants: 39 39 30 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+35.020246 (trace) Ants: 39 39 30 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+35.020271 (trace) Ants: 39 38 30 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+35.020278 Aardvark G swallowing
+35.020282 (trace) Ants: 39 38 30 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+35.021359 (trace) Ants: 39 38 30 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+35.021369 (trace) Ants: 38 38 30 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+35.021372 Aardvark H swallowing
+35.021375 (trace) Ants: 38 38 30 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+35.032818 (trace) Ants: 38 38 30 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+35.032829 Aardvark K idle
+35.032887 (trace) Ants: 38 38 30 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+35.033582 Aardvark K slurping Anthill 0
+35.034519 (trace) Ants: 38 38 30 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+35.034529 Aardvark I idle
+35.034576 (trace) Ants: 38 38 30 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+35.035398 Aardvark I slurping Anthill 2
+35.052263 (trace) Ants: 38 38 30 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+35.052277 (trace) Ants: 38 38 29 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+35.052281 Aardvark J swallowing
+35.052283 (trace) Ants: 38 38 29 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+35.053581 (trace) Ants: 38 38 29 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+35.053599 (trace) Ants: 38 37 29 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+35.053605 Aardvark F swallowing
+35.053609 (trace) Ants: 38 37 29 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+36.005558 (trace) Ants: 38 37 29 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+36.005594 Aardvark A idle
+36.005654 (trace) Ants: 38 37 29 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+36.005658 Aardvark A slurping Anthill 2
+36.012458 (trace) Ants: 38 37 29 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+36.012482 Aardvark B idle
+36.012519 (trace) Ants: 38 37 29 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+36.012525 Aardvark B slurping Anthill 1
+36.014718 (trace) Ants: 38 37 29 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+36.014737 Aardvark C idle
+36.014778 (trace) Ants: 38 37 29 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+36.014782 Aardvark C slurping Anthill 1
+36.016245 (trace) Ants: 38 37 29 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+36.016255 Aardvark D idle
+36.016292 (trace) Ants: 38 37 29 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+36.016296 Aardvark D slurping Anthill 0
+36.018188 (trace) Ants: 38 37 29 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+36.018203 Aardvark E idle
+36.018232 (trace) Ants: 38 37 29 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+36.018236 Aardvark E slurping Anthill 2
+36.020355 (trace) Ants: 38 37 29 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+36.020378 Aardvark G idle
+36.020432 (trace) Ants: 38 37 29 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+36.021315 Aardvark G slurping Anthill 1
+36.021440 (trace) Ants: 38 37 29 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+36.021845 Aardvark H idle
+36.021873 (trace) Ants: 38 37 29 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+36.021876 Aardvark H slurping Anthill 0
+36.033650 (trace) Ants: 38 37 29 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+36.033668 (trace) Ants: 37 37 29 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+36.033671 Aardvark K swallowing
+36.033674 (trace) Ants: 37 37 29 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+36.035465 (trace) Ants: 37 37 29 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+36.035475 (trace) Ants: 37 37 28 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+36.035480 Aardvark I swallowing
+36.035483 (trace) Ants: 37 37 28 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+36.052352 (trace) Ants: 37 37 28 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+36.052371 Aardvark J idle
+36.052869 (trace) Ants: 37 37 28 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+36.052988 Aardvark J slurping Anthill 0
+36.053676 (trace) Ants: 37 37 28 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+36.053689 Aardvark F idle
+36.054575 (trace) Ants: 37 37 28 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+36.054587 Aardvark F slurping Anthill 2
+37.005731 (trace) Ants: 37 37 28 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+37.005771 (trace) Ants: 37 37 27 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+37.005778 Aardvark A swallowing
+37.005781 (trace) Ants: 37 37 27 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+37.012604 (trace) Ants: 37 37 27 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+37.012635 (trace) Ants: 37 36 27 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+37.012640 Aardvark B swallowing
+37.012642 (trace) Ants: 37 36 27 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+37.014853 (trace) Ants: 37 36 27 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+37.014875 (trace) Ants: 37 35 27 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+37.014879 Aardvark C swallowing
+37.014881 (trace) Ants: 37 35 27 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+37.016363 (trace) Ants: 37 35 27 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+37.016374 (trace) Ants: 36 35 27 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+37.016378 Aardvark D swallowing
+37.016380 (trace) Ants: 36 35 27 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+37.018306 (trace) Ants: 36 35 27 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+37.018318 (trace) Ants: 36 35 26 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+37.018321 Aardvark E swallowing
+37.018323 (trace) Ants: 36 35 26 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+37.021386 (trace) Ants: 36 35 26 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+37.021404 (trace) Ants: 36 34 26 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+37.021408 Aardvark G swallowing
+37.021410 (trace) Ants: 36 34 26 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+37.021944 (trace) Ants: 36 34 26 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+37.022151 (trace) Ants: 35 34 26 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+37.022155 Aardvark H swallowing
+37.022158 (trace) Ants: 35 34 26 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+37.033743 (trace) Ants: 35 34 26 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+37.033755 Aardvark K idle
+37.033809 (trace) Ants: 35 34 26 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+37.034494 Aardvark K slurping Anthill 2
+37.035548 (trace) Ants: 35 34 26 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+37.035559 Aardvark I idle
+37.035606 (trace) Ants: 35 34 26 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+37.035610 Aardvark I slurping Anthill 1
+37.053054 (trace) Ants: 35 34 26 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+37.053071 (trace) Ants: 34 34 26 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+37.053076 Aardvark J swallowing
+37.053079 (trace) Ants: 34 34 26 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+37.054652 (trace) Ants: 34 34 26 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+37.056423 (trace) Ants: 34 34 25 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+37.056428 Aardvark F swallowing
+37.056431 (trace) Ants: 34 34 25 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+38.005855 (trace) Ants: 34 34 25 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+38.005897 Aardvark A idle
+38.005969 (trace) Ants: 34 34 25 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+38.005975 Aardvark A slurping Anthill 0
+38.012708 (trace) Ants: 34 34 25 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+38.012732 Aardvark B idle
+38.012772 (trace) Ants: 34 34 25 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+38.012776 Aardvark B slurping Anthill 2
+38.014948 (trace) Ants: 34 34 25 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+38.014967 Aardvark C idle
+38.015006 (trace) Ants: 34 34 25 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+38.015010 Aardvark C slurping Anthill 1
+38.016450 (trace) Ants: 34 34 25 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+38.016459 Aardvark D idle
+38.016500 (trace) Ants: 34 34 25 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+38.016503 Aardvark D slurping Anthill 0
+38.018361 (trace) Ants: 34 34 25 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+38.018374 Aardvark E idle
+38.018404 (trace) Ants: 34 34 25 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+38.018409 Aardvark E slurping Anthill 2
+38.021477 (trace) Ants: 34 34 25 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+38.021498 Aardvark G idle
+38.021546 (trace) Ants: 34 34 25 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+38.022439 Aardvark G slurping Anthill 1
+38.022444 (trace) Ants: 34 34 25 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+38.022451 Aardvark H idle
+38.022477 (trace) Ants: 34 34 25 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+38.023011 Aardvark H slurping Anthill 0
+38.034565 (trace) Ants: 34 34 25 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+38.034578 (trace) Ants: 34 34 24 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+38.034581 Aardvark K swallowing
+38.034583 (trace) Ants: 34 34 24 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+38.035673 (trace) Ants: 34 34 24 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+38.041000 (trace) Ants: 34 33 24 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+38.041005 Aardvark I swallowing
+38.041007 (trace) Ants: 34 33 24 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+38.053145 (trace) Ants: 34 33 24 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+38.053164 Aardvark J idle
+38.053793 (trace) Ants: 34 33 24 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+38.057865 Aardvark J slurping Anthill 2
+38.057875 (trace) Ants: 34 33 24 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+38.057885 Aardvark F idle
+38.057926 (trace) Ants: 34 33 24 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+38.058580 Aardvark F slurping Anthill 1
+39.006048 (trace) Ants: 34 33 24 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+39.006083 (trace) Ants: 33 33 24 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+39.006088 Aardvark A swallowing
+39.006090 (trace) Ants: 33 33 24 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+39.012847 (trace) Ants: 33 33 24 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+39.012874 (trace) Ants: 33 33 23 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+39.012880 Aardvark B swallowing
+39.012883 (trace) Ants: 33 33 23 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+39.015077 (trace) Ants: 33 33 23 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+39.015096 (trace) Ants: 33 32 23 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+39.015104 Aardvark C swallowing
+39.015107 (trace) Ants: 33 32 23 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+39.016569 (trace) Ants: 33 32 23 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+39.016578 (trace) Ants: 32 32 23 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+39.016581 Aardvark D swallowing
+39.016583 (trace) Ants: 32 32 23 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+39.018473 (trace) Ants: 32 32 23 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+39.018485 (trace) Ants: 32 32 22 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+39.018490 Aardvark E swallowing
+39.018493 (trace) Ants: 32 32 22 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+39.022507 (trace) Ants: 32 32 22 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+39.022528 (trace) Ants: 32 31 22 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+39.022532 Aardvark G swallowing
+39.022534 (trace) Ants: 32 31 22 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+39.023076 (trace) Ants: 32 31 22 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+39.023446 (trace) Ants: 31 31 22 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+39.023450 Aardvark H swallowing
+39.023452 (trace) Ants: 31 31 22 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+39.034648 (trace) Ants: 31 31 22 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+39.034659 Aardvark K idle
+39.034733 (trace) Ants: 31 31 22 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+39.035260 Aardvark K slurping Anthill 0
+39.041080 (trace) Ants: 31 31 22 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+39.041092 Aardvark I idle
+39.041146 (trace) Ants: 31 31 22 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+39.041675 Aardvark I slurping Anthill 2
+39.057935 (trace) Ants: 31 31 22 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+39.057957 (trace) Ants: 31 31 21 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+39.057960 Aardvark J swallowing
+39.057962 (trace) Ants: 31 31 21 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+39.058652 (trace) Ants: 31 31 21 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+39.058665 (trace) Ants: 31 30 21 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+39.058668 Aardvark F swallowing
+39.058671 (trace) Ants: 31 30 21 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+40.006163 (trace) Ants: 31 30 21 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+40.006198 Aardvark A idle
+40.006256 (trace) Ants: 31 30 21 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+40.006260 Aardvark A slurping Anthill 2
+40.012950 (trace) Ants: 31 30 21 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+40.012975 Aardvark B idle
+40.013018 (trace) Ants: 31 30 21 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+40.013023 Aardvark B slurping Anthill 1
+40.015177 (trace) Ants: 31 30 21 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+40.015196 Aardvark C idle
+40.015236 (trace) Ants: 31 30 21 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+40.015240 Aardvark C slurping Anthill 1
+40.016650 (trace) Ants: 31 30 21 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+40.016661 Aardvark D idle
+40.016708 (trace) Ants: 31 30 21 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+40.017473 Aardvark D slurping Anthill 0
+40.018560 (trace) Ants: 31 30 21 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+40.018571 Aardvark E idle
+40.018608 (trace) Ants: 31 30 21 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+40.018612 Aardvark E slurping Anthill 2
+40.022603 (trace) Ants: 31 30 21 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+40.022621 Aardvark G idle
+40.022668 (trace) Ants: 31 30 21 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+40.022677 Aardvark G slurping Anthill 1
+40.023521 (trace) Ants: 31 30 21 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+40.023532 Aardvark H idle
+40.023562 (trace) Ants: 31 30 21 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+40.023566 Aardvark H slurping Anthill 0
+40.035330 (trace) Ants: 31 30 21 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+40.035343 (trace) Ants: 30 30 21 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+40.035354 Aardvark K swallowing
+40.035356 (trace) Ants: 30 30 21 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+40.041745 (trace) Ants: 30 30 21 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+40.041757 (trace) Ants: 30 30 20 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+40.041760 Aardvark I swallowing
+40.041763 (trace) Ants: 30 30 20 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+40.058032 (trace) Ants: 30 30 20 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+40.058053 Aardvark J idle
+40.058091 (trace) Ants: 30 30 20 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+40.058097 Aardvark J slurping Anthill 0
+40.058737 (trace) Ants: 30 30 20 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+40.058827 Aardvark F idle
+40.061135 (trace) Ants: 30 30 20 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+40.061145 Aardvark F slurping Anthill 2
+41.006334 (trace) Ants: 30 30 20 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+41.006377 (trace) Ants: 30 30 19 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+41.006381 Aardvark A swallowing
+41.006384 (trace) Ants: 30 30 19 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+41.013095 (trace) Ants: 30 30 19 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+41.013117 (trace) Ants: 30 29 19 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+41.013121 Aardvark B swallowing
+41.013123 (trace) Ants: 30 29 19 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+41.015306 (trace) Ants: 30 29 19 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+41.015324 (trace) Ants: 30 28 19 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+41.015328 Aardvark C swallowing
+41.015330 (trace) Ants: 30 28 19 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+41.017541 (trace) Ants: 30 28 19 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+41.017550 (trace) Ants: 29 28 19 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+41.017553 Aardvark D swallowing
+41.017555 (trace) Ants: 29 28 19 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+41.018675 (trace) Ants: 29 28 19 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+41.018688 (trace) Ants: 29 28 18 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+41.018691 Aardvark E swallowing
+41.018693 (trace) Ants: 29 28 18 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+41.022746 (trace) Ants: 29 28 18 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+41.022768 (trace) Ants: 29 27 18 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+41.022772 Aardvark G swallowing
+41.022775 (trace) Ants: 29 27 18 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+41.023664 (trace) Ants: 29 27 18 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+41.023679 (trace) Ants: 28 27 18 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+41.023683 Aardvark H swallowing
+41.023685 (trace) Ants: 28 27 18 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+41.035421 (trace) Ants: 28 27 18 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+41.035441 Aardvark K idle
+41.035496 (trace) Ants: 28 27 18 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+41.035501 Aardvark K slurping Anthill 2
+41.041826 (trace) Ants: 28 27 18 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+41.041840 Aardvark I idle
+41.041890 (trace) Ants: 28 27 18 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+41.042562 Aardvark I slurping Anthill 1
+41.058172 (trace) Ants: 28 27 18 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+41.058192 (trace) Ants: 27 27 18 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+41.058198 Aardvark J swallowing
+41.058202 (trace) Ants: 27 27 18 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+41.061211 (trace) Ants: 27 27 18 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+41.061228 (trace) Ants: 27 27 17 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+41.061232 Aardvark F swallowing
+41.061234 (trace) Ants: 27 27 17 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+42.006463 (trace) Ants: 27 27 17 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+42.006504 Aardvark A idle
+42.006580 (trace) Ants: 27 27 17 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+42.006585 Aardvark A slurping Anthill 0
+42.013198 (trace) Ants: 27 27 17 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+42.013224 Aardvark B idle
+42.013270 (trace) Ants: 27 27 17 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+42.013274 Aardvark B slurping Anthill 2
+42.015359 (trace) Ants: 27 27 17 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+42.015378 Aardvark C idle
+42.015431 (trace) Ants: 27 27 17 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+42.015437 Aardvark C slurping Anthill 1
+42.017627 (trace) Ants: 27 27 17 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+42.017639 Aardvark D idle
+42.017674 (trace) Ants: 27 27 17 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+42.017680 Aardvark D slurping Anthill 0
+42.018758 (trace) Ants: 27 27 17 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+42.018773 Aardvark E idle
+42.018816 (trace) Ants: 27 27 17 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+42.018821 Aardvark E slurping Anthill 2
+42.022841 (trace) Ants: 27 27 17 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+42.022862 Aardvark G idle
+42.022906 (trace) Ants: 27 27 17 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+42.022911 Aardvark G slurping Anthill 1
+42.023751 (trace) Ants: 27 27 17 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+42.024574 Aardvark H idle
+42.024623 (trace) Ants: 27 27 17 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+42.025300 Aardvark H slurping Anthill 0
+42.036229 (trace) Ants: 27 27 17 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+42.036247 (trace) Ants: 27 27 16 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+42.036251 Aardvark K swallowing
+42.036253 (trace) Ants: 27 27 16 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+42.042628 (trace) Ants: 27 27 16 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+42.042646 (trace) Ants: 27 26 16 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+42.042649 Aardvark I swallowing
+42.042652 (trace) Ants: 27 26 16 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+42.058276 (trace) Ants: 27 26 16 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+42.058298 Aardvark J idle
+42.058358 (trace) Ants: 27 26 16 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+42.058903 Aardvark J slurping Anthill 2
+42.061302 (trace) Ants: 27 26 16 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+42.061323 Aardvark F idle
+42.061885 (trace) Ants: 27 26 16 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+42.061919 Aardvark F slurping Anthill 1
+43.006659 (trace) Ants: 27 26 16 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+43.006695 (trace) Ants: 26 26 16 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+43.006700 Aardvark A swallowing
+43.006703 (trace) Ants: 26 26 16 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+43.013344 (trace) Ants: 26 26 16 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+43.013380 (trace) Ants: 26 26 15 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+43.013385 Aardvark B swallowing
+43.013387 (trace) Ants: 26 26 15 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+43.015505 (trace) Ants: 26 26 15 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+43.015527 (trace) Ants: 26 25 15 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+43.015531 Aardvark C swallowing
+43.015534 (trace) Ants: 26 25 15 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+43.017753 (trace) Ants: 26 25 15 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+43.017767 (trace) Ants: 25 25 15 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+43.017773 Aardvark D swallowing
+43.017776 (trace) Ants: 25 25 15 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+43.019588 (trace) Ants: 25 25 15 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+43.019605 (trace) Ants: 25 25 14 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+43.019608 Aardvark E swallowing
+43.019611 (trace) Ants: 25 25 14 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+43.023673 (trace) Ants: 25 25 14 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+43.023695 (trace) Ants: 25 24 14 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+43.023699 Aardvark G swallowing
+43.023701 (trace) Ants: 25 24 14 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+43.025361 (trace) Ants: 25 24 14 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+43.025382 (trace) Ants: 24 24 14 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+43.025386 Aardvark H swallowing
+43.025389 (trace) Ants: 24 24 14 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+43.036335 (trace) Ants: 24 24 14 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+43.036368 Aardvark K idle
+43.036425 (trace) Ants: 24 24 14 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+43.036428 Aardvark K slurping Anthill 0
+43.042715 (trace) Ants: 24 24 14 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+43.042732 Aardvark I idle
+43.042776 (trace) Ants: 24 24 14 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+43.042781 Aardvark I slurping Anthill 2
+43.058972 (trace) Ants: 24 24 14 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+43.058995 (trace) Ants: 24 24 13 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+43.059001 Aardvark J swallowing
+43.059004 (trace) Ants: 24 24 13 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+43.061992 (trace) Ants: 24 24 13 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+43.062011 (trace) Ants: 24 23 13 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+43.062015 Aardvark F swallowing
+43.062017 (trace) Ants: 24 23 13 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+44.006781 (trace) Ants: 24 23 13 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+44.006817 Aardvark A idle
+44.006894 (trace) Ants: 24 23 13 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+44.006899 Aardvark A slurping Anthill 2
+44.013453 (trace) Ants: 24 23 13 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+44.013477 Aardvark B idle
+44.013517 (trace) Ants: 24 23 13 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+44.013521 Aardvark B slurping Anthill 1
+44.015600 (trace) Ants: 24 23 13 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+44.015620 Aardvark C idle
+44.015671 (trace) Ants: 24 23 13 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+44.015675 Aardvark C slurping Anthill 1
+44.017846 (trace) Ants: 24 23 13 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+44.017858 Aardvark D idle
+44.017900 (trace) Ants: 24 23 13 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+44.017908 Aardvark D slurping Anthill 0
+44.019676 (trace) Ants: 24 23 13 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+44.019693 Aardvark E idle
+44.019724 (trace) Ants: 24 23 13 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+44.019727 Aardvark E slurping Anthill 2
+44.023774 (trace) Ants: 24 23 13 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+44.023797 Aardvark G idle
+44.023839 (trace) Ants: 24 23 13 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+44.024390 Aardvark G slurping Anthill 1
+44.025453 (trace) Ants: 24 23 13 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+44.025467 Aardvark H idle
+44.025506 (trace) Ants: 24 23 13 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+44.026299 Aardvark H slurping Anthill 0
+44.036494 (trace) Ants: 24 23 13 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+44.036509 (trace) Ants: 23 23 13 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+44.036512 Aardvark K swallowing
+44.036515 (trace) Ants: 23 23 13 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+44.042848 (trace) Ants: 23 23 13 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+44.042869 (trace) Ants: 23 23 12 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+44.042873 Aardvark I swallowing
+44.042875 (trace) Ants: 23 23 12 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+44.059070 (trace) Ants: 23 23 12 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+44.059089 Aardvark J idle
+44.059142 (trace) Ants: 23 23 12 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+44.059146 Aardvark J slurping Anthill 0
+44.062085 (trace) Ants: 23 23 12 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+44.062106 Aardvark F idle
+44.062769 (trace) Ants: 23 23 12 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+44.062818 Aardvark F slurping Anthill 2
+45.006972 (trace) Ants: 23 23 12 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+45.007009 (trace) Ants: 23 23 11 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+45.007014 Aardvark A swallowing
+45.007016 (trace) Ants: 23 23 11 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+45.013592 (trace) Ants: 23 23 11 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+45.013617 (trace) Ants: 23 22 11 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+45.013620 Aardvark B swallowing
+45.013623 (trace) Ants: 23 22 11 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+45.015747 (trace) Ants: 23 22 11 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+45.015767 (trace) Ants: 23 21 11 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+45.015771 Aardvark C swallowing
+45.015774 (trace) Ants: 23 21 11 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+45.017975 (trace) Ants: 23 21 11 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+45.017985 (trace) Ants: 22 21 11 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+45.017988 Aardvark D swallowing
+45.017990 (trace) Ants: 22 21 11 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+45.019793 (trace) Ants: 22 21 11 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+45.019813 (trace) Ants: 22 21 10 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+45.019818 Aardvark E swallowing
+45.019821 (trace) Ants: 22 21 10 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+45.024461 (trace) Ants: 22 21 10 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+45.024482 (trace) Ants: 22 20 10 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+45.024486 Aardvark G swallowing
+45.024489 (trace) Ants: 22 20 10 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+45.026369 (trace) Ants: 22 20 10 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+45.026379 (trace) Ants: 21 20 10 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+45.026383 Aardvark H swallowing
+45.026385 (trace) Ants: 21 20 10 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+45.036584 (trace) Ants: 21 20 10 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+45.036598 Aardvark K idle
+45.036654 (trace) Ants: 21 20 10 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+45.037568 Aardvark K slurping Anthill 2
+45.042940 (trace) Ants: 21 20 10 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+45.042958 Aardvark I idle
+45.043000 (trace) Ants: 21 20 10 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+45.043009 Aardvark I slurping Anthill 1
+45.059221 (trace) Ants: 21 20 10 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+45.059245 (trace) Ants: 20 20 10 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+45.059249 Aardvark J swallowing
+45.059252 (trace) Ants: 20 20 10 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+45.062893 (trace) Ants: 20 20 10 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+45.062913 (trace) Ants: 20 20 9 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+45.062919 Aardvark F swallowing
+45.062922 (trace) Ants: 20 20 9 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+46.007101 (trace) Ants: 20 20 9 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+46.007140 Aardvark A idle
+46.007198 (trace) Ants: 20 20 9 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+46.007202 Aardvark A slurping Anthill 0
+46.013692 (trace) Ants: 20 20 9 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+46.013714 Aardvark B idle
+46.013758 (trace) Ants: 20 20 9 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+46.013763 Aardvark B slurping Anthill 2
+46.015841 (trace) Ants: 20 20 9 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+46.015862 Aardvark C idle
+46.015918 (trace) Ants: 20 20 9 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+46.016511 Aardvark C slurping Anthill 1
+46.018054 (trace) Ants: 20 20 9 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+46.018066 Aardvark D idle
+46.018125 (trace) Ants: 20 20 9 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+46.018671 Aardvark D slurping Anthill 0
+46.019887 (trace) Ants: 20 20 9 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+46.019903 Aardvark E idle
+46.019951 (trace) Ants: 20 20 9 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+46.019956 Aardvark E slurping Anthill 2
+46.024554 (trace) Ants: 20 20 9 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+46.024573 Aardvark G idle
+46.024609 (trace) Ants: 20 20 9 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+46.024614 Aardvark G slurping Anthill 1
+46.026450 (trace) Ants: 20 20 9 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+46.026460 Aardvark H idle
+46.026488 (trace) Ants: 20 20 9 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+46.026492 Aardvark H slurping Anthill 0
+46.037634 (trace) Ants: 20 20 9 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+46.037651 (trace) Ants: 20 20 8 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+46.037655 Aardvark K swallowing
+46.037657 (trace) Ants: 20 20 8 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+46.043079 (trace) Ants: 20 20 8 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+46.043100 (trace) Ants: 20 19 8 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+46.043106 Aardvark I swallowing
+46.043109 (trace) Ants: 20 19 8 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+46.059323 (trace) Ants: 20 19 8 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+46.059361 Aardvark J idle
+46.059407 (trace) Ants: 20 19 8 Slurping: 3 2 3, Swallowing: 3, Sulking: 0
+46.059411 Aardvark J slurping Anthill 2
+46.062999 (trace) Ants: 20 19 8 Slurping: 3 2 3, Swallowing: 2, Sulking: 0
+46.063016 Aardvark F idle
+46.063060 (trace) Ants: 20 19 8 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+46.063064 Aardvark F slurping Anthill 1
+47.007280 (trace) Ants: 20 19 8 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+47.007324 (trace) Ants: 19 19 8 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+47.007330 Aardvark A swallowing
+47.007334 (trace) Ants: 19 19 8 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+47.013837 (trace) Ants: 19 19 8 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+47.013867 (trace) Ants: 19 19 7 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+47.013871 Aardvark B swallowing
+47.013874 (trace) Ants: 19 19 7 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+47.016579 (trace) Ants: 19 19 7 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+47.016599 (trace) Ants: 19 18 7 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+47.016603 Aardvark C swallowing
+47.016606 (trace) Ants: 19 18 7 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+47.018736 (trace) Ants: 19 18 7 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+47.018749 (trace) Ants: 18 18 7 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+47.018752 Aardvark D swallowing
+47.018754 (trace) Ants: 18 18 7 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+47.020572 (trace) Ants: 18 18 7 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+47.020595 (trace) Ants: 18 18 6 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+47.020598 Aardvark E swallowing
+47.020601 (trace) Ants: 18 18 6 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+47.024849 (trace) Ants: 18 18 6 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+47.024875 (trace) Ants: 18 17 6 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+47.024879 Aardvark G swallowing
+47.024882 (trace) Ants: 18 17 6 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+47.026566 (trace) Ants: 18 17 6 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+47.026582 (trace) Ants: 17 17 6 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+47.026588 Aardvark H swallowing
+47.026591 (trace) Ants: 17 17 6 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+47.037731 (trace) Ants: 17 17 6 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+47.037753 Aardvark K idle
+47.037809 (trace) Ants: 17 17 6 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+47.038374 Aardvark K slurping Anthill 0
+47.043174 (trace) Ants: 17 17 6 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+47.043192 Aardvark I idle
+47.043233 (trace) Ants: 17 17 6 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+47.043237 Aardvark I slurping Anthill 2
+47.060184 (trace) Ants: 17 17 6 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+47.060198 (trace) Ants: 17 17 5 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+47.060201 Aardvark J swallowing
+47.060204 (trace) Ants: 17 17 5 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+47.063137 (trace) Ants: 17 17 5 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+47.063157 (trace) Ants: 17 16 5 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+47.063161 Aardvark F swallowing
+47.063163 (trace) Ants: 17 16 5 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+48.007440 (trace) Ants: 17 16 5 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+48.007497 Aardvark A idle
+48.007579 (trace) Ants: 17 16 5 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+48.007584 Aardvark A slurping Anthill 2
+48.013944 (trace) Ants: 17 16 5 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+48.013977 Aardvark B idle
+48.014030 (trace) Ants: 17 16 5 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+48.014035 Aardvark B slurping Anthill 1
+48.016673 (trace) Ants: 17 16 5 Slurping: 1 1 2, Swallowing: 6, Sulking: 0
+48.016695 Aardvark C idle
+48.016754 (trace) Ants: 17 16 5 Slurping: 1 2 2, Swallowing: 6, Sulking: 0
+48.016760 Aardvark C slurping Anthill 1
+48.018820 (trace) Ants: 17 16 5 Slurping: 1 2 2, Swallowing: 5, Sulking: 0
+48.018832 Aardvark D idle
+48.018868 (trace) Ants: 17 16 5 Slurping: 2 2 2, Swallowing: 5, Sulking: 0
+48.018872 Aardvark D slurping Anthill 0
+48.020672 (trace) Ants: 17 16 5 Slurping: 2 2 2, Swallowing: 4, Sulking: 0
+48.020696 Aardvark E idle
+48.020740 (trace) Ants: 17 16 5 Slurping: 2 2 3, Swallowing: 4, Sulking: 0
+48.021381 Aardvark E slurping Anthill 2
+48.024952 (trace) Ants: 17 16 5 Slurping: 2 2 3, Swallowing: 3, Sulking: 0
+48.024973 Aardvark G idle
+48.025023 (trace) Ants: 17 16 5 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+48.025027 Aardvark G slurping Anthill 1
+48.026658 (trace) Ants: 17 16 5 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+48.026670 Aardvark H idle
+48.026702 (trace) Ants: 17 16 5 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+48.026705 Aardvark H slurping Anthill 0
+48.038445 (trace) Ants: 17 16 5 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+48.038476 (trace) Ants: 16 16 5 Slurping: 2 3 3, Swallowing: 2, Sulking: 0
+48.038481 Aardvark K swallowing
+48.038484 (trace) Ants: 16 16 5 Slurping: 2 3 3, Swallowing: 3, Sulking: 0
+48.043849 (trace) Ants: 16 16 5 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+48.043875 (trace) Ants: 16 16 4 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+48.043880 Aardvark I swallowing
+48.043884 (trace) Ants: 16 16 4 Slurping: 2 3 2, Swallowing: 4, Sulking: 0
+48.060278 (trace) Ants: 16 16 4 Slurping: 2 3 2, Swallowing: 3, Sulking: 0
+48.060300 Aardvark J idle
+48.060369 (trace) Ants: 16 16 4 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+48.060375 Aardvark J slurping Anthill 0
+48.063230 (trace) Ants: 16 16 4 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+48.063251 Aardvark F idle
+48.063293 (trace) Ants: 16 16 4 Slurping: 3 3 3, Swallowing: 2, Sulking: 0
+48.063297 Aardvark F slurping Anthill 2
+49.007661 (trace) Ants: 16 16 4 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+49.007712 (trace) Ants: 16 16 3 Slurping: 3 3 2, Swallowing: 2, Sulking: 0
+49.007717 Aardvark A swallowing
+49.007720 (trace) Ants: 16 16 3 Slurping: 3 3 2, Swallowing: 3, Sulking: 0
+49.014846 (trace) Ants: 16 16 3 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+49.014895 (trace) Ants: 16 15 3 Slurping: 3 2 2, Swallowing: 3, Sulking: 0
+49.014902 Aardvark B swallowing
+49.014906 (trace) Ants: 16 15 3 Slurping: 3 2 2, Swallowing: 4, Sulking: 0
+49.016850 (trace) Ants: 16 15 3 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+49.016883 (trace) Ants: 16 14 3 Slurping: 3 1 2, Swallowing: 4, Sulking: 0
+49.016890 Aardvark C swallowing
+49.016893 (trace) Ants: 16 14 3 Slurping: 3 1 2, Swallowing: 5, Sulking: 0
+49.018940 (trace) Ants: 16 14 3 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+49.018953 (trace) Ants: 15 14 3 Slurping: 2 1 2, Swallowing: 5, Sulking: 0
+49.018956 Aardvark D swallowing
+49.018958 (trace) Ants: 15 14 3 Slurping: 2 1 2, Swallowing: 6, Sulking: 0
+49.021455 (trace) Ants: 15 14 3 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+49.021478 (trace) Ants: 15 14 2 Slurping: 2 1 1, Swallowing: 6, Sulking: 0
+49.021481 Aardvark E swallowing
+49.021484 (trace) Ants: 15 14 2 Slurping: 2 1 1, Swallowing: 7, Sulking: 0
+49.025098 (trace) Ants: 15 14 2 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+49.025118 (trace) Ants: 15 13 2 Slurping: 2 0 1, Swallowing: 7, Sulking: 0
+49.025122 Aardvark G swallowing
+49.025125 (trace) Ants: 15 13 2 Slurping: 2 0 1, Swallowing: 8, Sulking: 0
+49.026769 (trace) Ants: 15 13 2 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+49.026780 (trace) Ants: 14 13 2 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+49.026785 Aardvark H swallowing
+49.026788 (trace) Ants: 14 13 2 Slurping: 1 0 1, Swallowing: 9, Sulking: 0
+49.038554 (trace) Ants: 14 13 2 Slurping: 1 0 1, Swallowing: 8, Sulking: 0
+49.038569 Aardvark K idle
+49.038627 (trace) Ants: 14 13 2 Slurping: 1 0 2, Swallowing: 8, Sulking: 0
+49.039193 Aardvark K slurping Anthill 2
+49.043950 (trace) Ants: 14 13 2 Slurping: 1 0 2, Swallowing: 7, Sulking: 0
+49.043970 Aardvark I idle
+49.044009 (trace) Ants: 14 13 2 Slurping: 1 1 2, Swallowing: 7, Sulking: 0
+49.044012 Aardvark I slurping Anthill 1
+49.060441 (trace) Ants: 14 13 2 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+49.060455 (trace) Ants: 13 13 2 Slurping: 0 1 2, Swallowing: 7, Sulking: 0
+49.060460 Aardvark J swallowing
+49.060463 (trace) Ants: 13 13 2 Slurping: 0 1 2, Swallowing: 8, Sulking: 0
+49.063382 (trace) Ants: 13 13 2 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+49.063400 (trace) Ants: 13 13 1 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+49.063404 Aardvark F swallowing
+49.063406 (trace) Ants: 13 13 1 Slurping: 0 1 1, Swallowing: 9, Sulking: 0
+50.007799 (trace) Ants: 13 13 1 Slurping: 0 1 1, Swallowing: 8, Sulking: 0
+50.007839 Aardvark A idle
+50.007899 (trace) Ants: 13 13 1 Slurping: 1 1 1, Swallowing: 8, Sulking: 0
+50.007905 Aardvark A slurping Anthill 0
+50.014974 (trace) Ants: 13 13 1 Slurping: 1 1 1, Swallowing: 7, Sulking: 0
+50.014999 Aardvark B idle
+50.015041 (trace) Ants: 13 13 1 Slurping: 1 2 1, Swallowing: 7, Sulking: 0
+50.015047 Aardvark B slurping Anthill 1
+50.016960 (trace) Ants: 13 13 1 Slurping: 1 2 1, Swallowing: 6, Sulking: 0
+50.016982 Aardvark C idle
+50.017016 (trace) Ants: 13 13 1 Slurping: 2 2 1, Swallowing: 6, Sulking: 0
+50.017020 Aardvark C slurping Anthill 0
+50.019021 (trace) Ants: 13 13 1 Slurping: 2 2 1, Swallowing: 5, Sulking: 0
+50.019031 Aardvark D idle
+50.019078 (trace) Ants: 13 13 1 Slurping: 2 3 1, Swallowing: 5, Sulking: 0
+50.019772 Aardvark D slurping Anthill 1
+50.021549 (trace) Ants: 13 13 1 Slurping: 2 3 1, Swallowing: 4, Sulking: 0
+50.021563 Aardvark E idle
+50.021593 (trace) Ants: 13 13 1 Slurping: 3 3 1, Swallowing: 4, Sulking: 0
+50.021599 Aardvark E slurping Anthill 0
+50.025196 (trace) Ants: 13 13 1 Slurping: 3 3 1, Swallowing: 3, Sulking: 0
+50.025218 Aardvark G idle
+50.026855 (trace) Ants: 13 13 1 Slurping: 3 3 1, Swallowing: 2, Sulking: 0
+50.026875 Aardvark H idle
+50.039258 (trace) Ants: 13 13 1 Slurping: 3 3 0, Swallowing: 2, Sulking: 0
+50.039288 (trace) Ants: 13 13 0 Slurping: 3 3 0, Swallowing: 2, Sulking: 0
+50.039292 Aardvark K swallowing
+50.039295 (trace) Ants: 13 13 0 Slurping: 3 3 0, Swallowing: 3, Sulking: 0
+50.044079 (trace) Ants: 13 13 0 Slurping: 3 2 0, Swallowing: 3, Sulking: 0
+50.044100 (trace) Ants: 13 12 0 Slurping: 3 2 0, Swallowing: 3, Sulking: 0
+50.044103 Aardvark I swallowing
+50.044106 (trace) Ants: 13 12 0 Slurping: 3 2 0, Swallowing: 4, Sulking: 0
+50.060539 (trace) Ants: 13 12 0 Slurping: 3 2 0, Swallowing: 3, Sulking: 0
+50.060563 Aardvark J idle
+50.063479 (trace) Ants: 13 12 0 Slurping: 3 2 0, Swallowing: 2, Sulking: 0
+50.063501 Aardvark F idle
+50.064024 (trace) Ants: 13 12 0 Slurping: 3 3 0, Swallowing: 2, Sulking: 0
+50.064135 Aardvark H slurping Anthill 1
+51.007976 (trace) Ants: 13 12 0 Slurping: 2 3 0, Swallowing: 2, Sulking: 0
+51.008016 (trace) Ants: 12 12 0 Slurping: 2 3 0, Swallowing: 2, Sulking: 0
+51.008020 Aardvark A swallowing
+51.008023 (trace) Ants: 12 12 0 Slurping: 2 3 0, Swallowing: 3, Sulking: 0
+51.015118 (trace) Ants: 12 12 0 Slurping: 2 2 0, Swallowing: 3, Sulking: 0
+51.015135 (trace) Ants: 12 11 0 Slurping: 2 2 0, Swallowing: 3, Sulking: 0
+51.015138 Aardvark B swallowing
+51.015140 (trace) Ants: 12 11 0 Slurping: 2 2 0, Swallowing: 4, Sulking: 0
+51.017085 (trace) Ants: 12 11 0 Slurping: 1 2 0, Swallowing: 4, Sulking: 0
+51.017115 (trace) Ants: 11 11 0 Slurping: 1 2 0, Swallowing: 4, Sulking: 0
+51.017119 Aardvark C swallowing
+51.017122 (trace) Ants: 11 11 0 Slurping: 1 2 0, Swallowing: 5, Sulking: 0
+51.019878 (trace) Ants: 11 11 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+51.019901 (trace) Ants: 11 10 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+51.019912 Aardvark D swallowing
+51.019915 (trace) Ants: 11 10 0 Slurping: 1 1 0, Swallowing: 6, Sulking: 0
+51.021669 (trace) Ants: 11 10 0 Slurping: 0 1 0, Swallowing: 6, Sulking: 0
+51.021684 (trace) Ants: 10 10 0 Slurping: 0 1 0, Swallowing: 6, Sulking: 0
+51.021687 Aardvark E swallowing
+51.021690 (trace) Ants: 10 10 0 Slurping: 0 1 0, Swallowing: 7, Sulking: 0
+51.027899 (trace) Ants: 10 10 0 Slurping: 1 1 0, Swallowing: 7, Sulking: 0
+51.027923 Aardvark J slurping Anthill 0
+51.035064 (trace) Ants: 10 10 0 Slurping: 1 2 0, Swallowing: 7, Sulking: 0
+51.035090 Aardvark F slurping Anthill 1
+51.037025 (trace) Ants: 10 10 0 Slurping: 2 2 0, Swallowing: 7, Sulking: 0
+51.037046 Aardvark G slurping Anthill 0
+51.039367 (trace) Ants: 10 10 0 Slurping: 2 2 0, Swallowing: 6, Sulking: 0
+51.039381 Aardvark K idle
+51.039423 (trace) Ants: 10 10 0 Slurping: 2 3 0, Swallowing: 6, Sulking: 0
+51.039429 Aardvark K slurping Anthill 1
+51.044181 (trace) Ants: 10 10 0 Slurping: 2 3 0, Swallowing: 5, Sulking: 0
+51.044201 Aardvark I idle
+51.044241 (trace) Ants: 10 10 0 Slurping: 3 3 0, Swallowing: 5, Sulking: 0
+51.044244 Aardvark I slurping Anthill 0
+51.064211 (trace) Ants: 10 10 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+51.064230 (trace) Ants: 10 9 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+51.064233 Aardvark H swallowing
+51.064236 (trace) Ants: 10 9 0 Slurping: 3 2 0, Swallowing: 6, Sulking: 0
+52.008099 (trace) Ants: 10 9 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+52.008136 Aardvark A idle
+52.008197 (trace) Ants: 10 9 0 Slurping: 3 3 0, Swallowing: 5, Sulking: 0
+52.008201 Aardvark A slurping Anthill 1
+52.015208 (trace) Ants: 10 9 0 Slurping: 3 3 0, Swallowing: 4, Sulking: 0
+52.015219 Aardvark B idle
+52.017189 (trace) Ants: 10 9 0 Slurping: 3 3 0, Swallowing: 3, Sulking: 0
+52.017216 Aardvark C idle
+52.019987 (trace) Ants: 10 9 0 Slurping: 3 3 0, Swallowing: 2, Sulking: 0
+52.020013 Aardvark D idle
+52.021757 (trace) Ants: 10 9 0 Slurping: 3 3 0, Swallowing: 1, Sulking: 0
+52.021779 Aardvark E idle
+52.028000 (trace) Ants: 10 9 0 Slurping: 2 3 0, Swallowing: 1, Sulking: 0
+52.028024 (trace) Ants: 9 9 0 Slurping: 2 3 0, Swallowing: 1, Sulking: 0
+52.028028 Aardvark J swallowing
+52.028031 (trace) Ants: 9 9 0 Slurping: 2 3 0, Swallowing: 2, Sulking: 0
+52.035163 (trace) Ants: 9 9 0 Slurping: 2 2 0, Swallowing: 2, Sulking: 0
+52.035184 (trace) Ants: 9 8 0 Slurping: 2 2 0, Swallowing: 2, Sulking: 0
+52.035201 Aardvark F swallowing
+52.035205 (trace) Ants: 9 8 0 Slurping: 2 2 0, Swallowing: 3, Sulking: 0
+52.037114 (trace) Ants: 9 8 0 Slurping: 1 2 0, Swallowing: 3, Sulking: 0
+52.037137 (trace) Ants: 8 8 0 Slurping: 1 2 0, Swallowing: 3, Sulking: 0
+52.037141 Aardvark G swallowing
+52.037144 (trace) Ants: 8 8 0 Slurping: 1 2 0, Swallowing: 4, Sulking: 0
+52.039495 (trace) Ants: 8 8 0 Slurping: 1 1 0, Swallowing: 4, Sulking: 0
+52.039512 (trace) Ants: 8 7 0 Slurping: 1 1 0, Swallowing: 4, Sulking: 0
+52.039515 Aardvark K swallowing
+52.039518 (trace) Ants: 8 7 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+52.044310 (trace) Ants: 8 7 0 Slurping: 0 1 0, Swallowing: 5, Sulking: 0
+52.044325 (trace) Ants: 7 7 0 Slurping: 0 1 0, Swallowing: 5, Sulking: 0
+52.044328 Aardvark I swallowing
+52.044331 (trace) Ants: 7 7 0 Slurping: 0 1 0, Swallowing: 6, Sulking: 0
+52.047903 (trace) Ants: 7 7 0 Slurping: 1 1 0, Swallowing: 6, Sulking: 0
+52.047923 Aardvark D slurping Anthill 0
+52.055041 (trace) Ants: 7 7 0 Slurping: 1 2 0, Swallowing: 6, Sulking: 0
+52.055060 Aardvark C slurping Anthill 1
+52.057018 (trace) Ants: 7 7 0 Slurping: 2 2 0, Swallowing: 6, Sulking: 0
+52.060663 Aardvark E slurping Anthill 0
+52.060720 (trace) Ants: 7 7 0 Slurping: 2 3 0, Swallowing: 6, Sulking: 0
+52.061816 Aardvark B slurping Anthill 1
+52.064301 (trace) Ants: 7 7 0 Slurping: 2 3 0, Swallowing: 5, Sulking: 0
+52.064321 Aardvark H idle
+52.064377 (trace) Ants: 7 7 0 Slurping: 3 3 0, Swallowing: 5, Sulking: 0
+52.064926 Aardvark H slurping Anthill 0
+53.008276 (trace) Ants: 7 7 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+53.008319 (trace) Ants: 7 6 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+53.008324 Aardvark A swallowing
+53.008327 (trace) Ants: 7 6 0 Slurping: 3 2 0, Swallowing: 6, Sulking: 0
+53.028103 (trace) Ants: 7 6 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+53.028128 Aardvark J idle
+53.028210 (trace) Ants: 7 6 0 Slurping: 3 3 0, Swallowing: 5, Sulking: 0
+53.030335 Aardvark J slurping Anthill 1
+53.035277 (trace) Ants: 7 6 0 Slurping: 3 3 0, Swallowing: 4, Sulking: 0
+53.035289 Aardvark F idle
+53.037210 (trace) Ants: 7 6 0 Slurping: 3 3 0, Swallowing: 3, Sulking: 0
+53.038615 Aardvark G idle
+53.039588 (trace) Ants: 7 6 0 Slurping: 3 3 0, Swallowing: 2, Sulking: 0
+53.041922 Aardvark K idle
+53.044359 (trace) Ants: 7 6 0 Slurping: 3 3 0, Swallowing: 1, Sulking: 0
+53.044382 Aardvark I idle
+53.047994 (trace) Ants: 7 6 0 Slurping: 2 3 0, Swallowing: 1, Sulking: 0
+53.048011 (trace) Ants: 6 6 0 Slurping: 2 3 0, Swallowing: 1, Sulking: 0
+53.048019 Aardvark D swallowing
+53.048026 (trace) Ants: 6 6 0 Slurping: 2 3 0, Swallowing: 2, Sulking: 0
+53.055129 (trace) Ants: 6 6 0 Slurping: 2 2 0, Swallowing: 2, Sulking: 0
+53.055148 (trace) Ants: 6 5 0 Slurping: 2 2 0, Swallowing: 2, Sulking: 0
+53.055152 Aardvark C swallowing
+53.055155 (trace) Ants: 6 5 0 Slurping: 2 2 0, Swallowing: 3, Sulking: 0
+53.060731 (trace) Ants: 6 5 0 Slurping: 1 2 0, Swallowing: 3, Sulking: 0
+53.060751 (trace) Ants: 5 5 0 Slurping: 1 2 0, Swallowing: 3, Sulking: 0
+53.060761 Aardvark E swallowing
+53.060765 (trace) Ants: 5 5 0 Slurping: 1 2 0, Swallowing: 4, Sulking: 0
+53.061889 (trace) Ants: 5 5 0 Slurping: 1 1 0, Swallowing: 4, Sulking: 0
+53.061909 (trace) Ants: 5 4 0 Slurping: 1 1 0, Swallowing: 4, Sulking: 0
+53.061912 Aardvark B swallowing
+53.061914 (trace) Ants: 5 4 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+53.064993 (trace) Ants: 5 4 0 Slurping: 0 1 0, Swallowing: 5, Sulking: 0
+53.065016 (trace) Ants: 4 4 0 Slurping: 0 1 0, Swallowing: 5, Sulking: 0
+53.065021 Aardvark H swallowing
+53.065023 (trace) Ants: 4 4 0 Slurping: 0 1 0, Swallowing: 6, Sulking: 0
+53.067891 (trace) Ants: 4 4 0 Slurping: 1 1 0, Swallowing: 6, Sulking: 0
+53.067911 Aardvark G slurping Anthill 0
+53.075054 (trace) Ants: 4 4 0 Slurping: 1 2 0, Swallowing: 6, Sulking: 0
+53.075072 Aardvark F slurping Anthill 1
+53.077038 (trace) Ants: 4 4 0 Slurping: 2 2 0, Swallowing: 6, Sulking: 0
+53.077059 Aardvark I slurping Anthill 0
+53.080709 (trace) Ants: 4 4 0 Slurping: 2 3 0, Swallowing: 6, Sulking: 0
+53.080729 Aardvark K slurping Anthill 1
+54.008396 (trace) Ants: 4 4 0 Slurping: 2 3 0, Swallowing: 5, Sulking: 0
+54.008432 Aardvark A idle
+54.008487 (trace) Ants: 4 4 0 Slurping: 3 3 0, Swallowing: 5, Sulking: 0
+54.008493 Aardvark A slurping Anthill 0
+54.030409 (trace) Ants: 4 4 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+54.030434 (trace) Ants: 4 3 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+54.030438 Aardvark J swallowing
+54.030441 (trace) Ants: 4 3 0 Slurping: 3 2 0, Swallowing: 6, Sulking: 0
+54.048102 (trace) Ants: 4 3 0 Slurping: 3 2 0, Swallowing: 5, Sulking: 0
+54.048125 Aardvark D idle
+54.048196 (trace) Ants: 4 3 0 Slurping: 3 3 0, Swallowing: 5, Sulking: 0
+54.048729 Aardvark D slurping Anthill 1
+54.055222 (trace) Ants: 4 3 0 Slurping: 3 3 0, Swallowing: 4, Sulking: 0
+54.055232 Aardvark C idle
+54.060839 (trace) Ants: 4 3 0 Slurping: 3 3 0, Swallowing: 3, Sulking: 0
+54.060865 Aardvark E idle
+54.061985 (trace) Ants: 4 3 0 Slurping: 3 3 0, Swallowing: 2, Sulking: 0
+54.062007 Aardvark B idle
+54.065092 (trace) Ants: 4 3 0 Slurping: 3 3 0, Swallowing: 1, Sulking: 0
+54.065115 Aardvark H idle
+54.067985 (trace) Ants: 4 3 0 Slurping: 2 3 0, Swallowing: 1, Sulking: 0
+54.068012 (trace) Ants: 3 3 0 Slurping: 2 3 0, Swallowing: 1, Sulking: 0
+54.068023 Aardvark G swallowing
+54.068026 (trace) Ants: 3 3 0 Slurping: 2 3 0, Swallowing: 2, Sulking: 0
+54.075145 (trace) Ants: 3 3 0 Slurping: 2 2 0, Swallowing: 2, Sulking: 0
+54.075167 (trace) Ants: 3 2 0 Slurping: 2 2 0, Swallowing: 2, Sulking: 0
+54.075171 Aardvark F swallowing
+54.075174 (trace) Ants: 3 2 0 Slurping: 2 2 0, Swallowing: 3, Sulking: 0
+54.077132 (trace) Ants: 3 2 0 Slurping: 1 2 0, Swallowing: 3, Sulking: 0
+54.078275 (trace) Ants: 2 2 0 Slurping: 1 2 0, Swallowing: 3, Sulking: 0
+54.078286 Aardvark I swallowing
+54.078289 (trace) Ants: 2 2 0 Slurping: 1 2 0, Swallowing: 4, Sulking: 0
+54.080801 (trace) Ants: 2 2 0 Slurping: 1 1 0, Swallowing: 4, Sulking: 0
+54.080821 (trace) Ants: 2 1 0 Slurping: 1 1 0, Swallowing: 4, Sulking: 0
+54.080825 Aardvark K swallowing
+54.080827 (trace) Ants: 2 1 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+54.087900 (trace) Ants: 2 1 0 Slurping: 2 1 0, Swallowing: 5, Sulking: 0
+54.087918 Aardvark H slurping Anthill 0
+55.008566 (trace) Ants: 2 1 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+55.008608 (trace) Ants: 1 1 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+55.008617 Aardvark A swallowing
+55.008619 (trace) Ants: 1 1 0 Slurping: 1 1 0, Swallowing: 6, Sulking: 0
+55.030508 (trace) Ants: 1 1 0 Slurping: 1 1 0, Swallowing: 5, Sulking: 0
+55.030539 Aardvark J idle
+55.048797 (trace) Ants: 1 1 0 Slurping: 1 0 0, Swallowing: 5, Sulking: 0
+55.048825 (trace) Ants: 1 0 0 Slurping: 1 0 0, Swallowing: 5, Sulking: 0
+55.048836 Aardvark D swallowing
+55.048839 (trace) Ants: 1 0 0 Slurping: 1 0 0, Swallowing: 6, Sulking: 0
+55.068101 (trace) Ants: 1 0 0 Slurping: 1 0 0, Swallowing: 5, Sulking: 0
+55.068134 Aardvark G idle
+55.075249 (trace) Ants: 1 0 0 Slurping: 1 0 0, Swallowing: 4, Sulking: 0
+55.075272 Aardvark F idle
+55.078408 (trace) Ants: 1 0 0 Slurping: 1 0 0, Swallowing: 3, Sulking: 0
+55.078432 Aardvark I idle
+55.080891 (trace) Ants: 1 0 0 Slurping: 1 0 0, Swallowing: 2, Sulking: 0
+55.080920 Aardvark K idle
+55.087988 (trace) Ants: 1 0 0 Slurping: 0 0 0, Swallowing: 2, Sulking: 0
+55.088011 (trace) Ants: 0 0 0 Slurping: 0 0 0, Swallowing: 2, Sulking: 0
+55.088016 Aardvark H swallowing
+55.088019 (trace) Ants: 0 0 0 Slurping: 0 0 0, Swallowing: 3, Sulking: 0
+56.008703 (trace) Ants: 0 0 0 Slurping: 0 0 0, Swallowing: 2, Sulking: 0
+56.008741 Aardvark A idle
+56.048919 (trace) Ants: 0 0 0 Slurping: 0 0 0, Swallowing: 1, Sulking: 0
+56.048955 Aardvark D idle
+56.088087 (trace) Ants: 0 0 0 Slurping: 0 0 0, Swallowing: 0, Sulking: 0
+56.088113 Aardvark H idle
+total elapsed real time is 56.088214 seconds

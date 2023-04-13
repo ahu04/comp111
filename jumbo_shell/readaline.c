@@ -7,10 +7,10 @@
 // MODIFIED: does not return the \n char at the end of the line
 // caller responsible for freeing datapp
 
-size_t readaline(FILE *inputfd, char **datapp)
+int readaline(FILE *inputfd, char **datapp)
 {
         
-        size_t MAX_SIZE = 100;
+        int MAX_SIZE = 100;
         char *line = (char*) malloc(MAX_SIZE * sizeof(char));
 
         if (line == NULL) {
@@ -18,7 +18,7 @@ size_t readaline(FILE *inputfd, char **datapp)
                 exit(EXIT_FAILURE);
         }
 
-        size_t index = 0;
+        int index = 0;
         int c = 0;
 
         while (1) {
@@ -45,7 +45,7 @@ size_t readaline(FILE *inputfd, char **datapp)
                                 fprintf(stderr, "malloc failed\n");
                                 exit(EXIT_FAILURE);
                         } 
-                        MAX_SIZE = MAX_SIZE*2;
+                        MAX_SIZE *= 2;
                 }
         }
         line[index] = '\0';
@@ -55,7 +55,7 @@ size_t readaline(FILE *inputfd, char **datapp)
 
 // processes a command line input stored in currLine, separating parameters 
 // and storing all parameters in *prog_and_args. The corrollary is 
-// *prog_and_args = char *argv[], more or less caller responsible for 
+// *prog_and_args[i] = char *argv[i], more or less caller responsible for 
 // freeing this memory. 
 
 // returns number of args (think argc). 

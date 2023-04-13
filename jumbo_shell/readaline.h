@@ -1,3 +1,5 @@
+#define _GNU_SOURCE
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -8,7 +10,7 @@
 
 // MODIFIED: does not return the \n char at the end of the line
 // caller responsible for freeing datapp
-size_t readaline(FILE *inputfd, char **datapp);
+int readaline(FILE *inputfd, char **datapp);
 
 
 // processes a command line input stored in currLine, separating parameters 

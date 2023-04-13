@@ -30,7 +30,7 @@ CC = gcc
 LDFLAGS = -g -L$(HANSON)/lib64
 
 # the next three lines enable you to compile and link against course software
-CFLAGS =  -g -std=gnu17 -Wall -Wextra $(IFLAGS)
+CFLAGS =  -g -std=c11 -Wall -Wextra $(IFLAGS)
 LDLIBS = -lcii40 -lm
 IFLAGS = -I. -I$(HANSON)/include/cii
 # 
@@ -61,11 +61,8 @@ clean:
 #    Those .o files are linked together to build the corresponding
 #    executable.
 #
-shell: main.o readaline.o
-	$(CC) $(LDFLAGS) -o shell main.o readaline.o $(LDLIBS)
-	
-readaline: readaline.o 
-	$(CC) $(LDFLAGS) -o readaline readaline.o $(LDLIBS)
+shell: shell.o
+	$(CC) $(LDFLAGS) -o shell shell.o $(LDLIBS)
 
 
 

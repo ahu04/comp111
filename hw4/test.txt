@@ -1,0 +1,7 @@
+touch a
+append a jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+append a bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+append a cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+append a dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+cat a
+exit

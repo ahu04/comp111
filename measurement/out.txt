@@ -1,0 +1,18 @@
+-- MMAP ONE PAGE -- 
+Sys time:	3.202440e-07, user time:	4.896390e-08
+
+-- LOCK MUTEX -- 
+Sys time:	2.240000e-10, user time:	1.074910e-08
+
+-- WRITE 4096 to disk, no cache -- 
+Wall time:	8.653658e-04
+
+-- READ 4096 from disk, no cache -- 
+Wall time:	2.897386e-04
+
+-- WRITE to disk, w/ cache -- 
+Wall time:	3.607200e-06
+
+-- READ 4096 from disk, w/ cache -- 
+Wall time:	1.216300e-06
+

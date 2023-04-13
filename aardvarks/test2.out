@@ -1,0 +1,901 @@
+00.000115 Aardvark B slurping Anthill 1
+00.000106 Aardvark A slurping Anthill 0
+00.000139 Aardvark C slurping Anthill 2
+00.000203 Aardvark E slurping Anthill 0
+00.000214 Aardvark F slurping Anthill 1
+00.000226 Aardvark D slurping Anthill 2
+00.000280 Aardvark I slurping Anthill 0
+00.000286 Aardvark J slurping Anthill 1
+00.000298 Aardvark G slurping Anthill 2
+01.000313 Aardvark B swallowing
+01.000339 Aardvark A swallowing
+01.000346 Aardvark C swallowing
+01.000354 Aardvark E swallowing
+01.000366 Aardvark I swallowing
+01.000373 Aardvark J swallowing
+01.000378 Aardvark D swallowing
+01.000385 Aardvark F swallowing
+01.000394 Aardvark G swallowing
+01.010108 Aardvark H slurping Anthill 0
+01.010115 Aardvark K slurping Anthill 1
+02.000429 Aardvark B idle
+02.000455 Aardvark I idle
+02.000488 Aardvark I slurping Anthill 0
+02.000446 Aardvark J idle
+02.000433 Aardvark A idle
+02.000503 Aardvark A slurping Anthill 2
+02.000449 Aardvark D idle
+02.000514 Aardvark D slurping Anthill 0
+02.000452 Aardvark F idle
+02.000522 Aardvark F slurping Anthill 1
+02.000464 Aardvark E idle
+02.000541 Aardvark E slurping Anthill 2
+02.000474 Aardvark G idle
+02.000500 Aardvark J slurping Anthill 1
+02.000458 Aardvark B slurping Anthill 2
+02.000461 Aardvark C idle
+02.010187 Aardvark K swallowing
+02.010222 Aardvark H swallowing
+02.020111 Aardvark G slurping Anthill 0
+02.020116 Aardvark C slurping Anthill 1
+03.000585 Aardvark I swallowing
+03.000598 Aardvark A swallowing
+03.000630 Aardvark J swallowing
+03.000616 Aardvark D swallowing
+03.000637 Aardvark E swallowing
+03.000619 Aardvark F swallowing
+03.000626 Aardvark B swallowing
+03.010270 Aardvark K idle
+03.010298 Aardvark H idle
+03.010460 Aardvark K slurping Anthill 2
+03.010488 Aardvark H slurping Anthill 0
+03.020208 Aardvark G swallowing
+03.020215 Aardvark C swallowing
+04.000691 Aardvark B idle
+04.000715 Aardvark J idle
+04.000738 Aardvark J slurping Anthill 1
+04.000712 Aardvark E idle
+04.000751 Aardvark E slurping Anthill 1
+04.000718 Aardvark B slurping Anthill 0
+04.000721 Aardvark D idle
+04.000770 Aardvark D slurping Anthill 2
+04.000723 Aardvark F idle
+04.000784 Aardvark F slurping Anthill 0
+04.000726 Aardvark I idle
+04.000796 Aardvark I slurping Anthill 1
+04.000705 Aardvark A idle
+04.000807 Aardvark A slurping Anthill 2
+04.010536 Aardvark K swallowing
+04.010558 Aardvark H swallowing
+04.020283 Aardvark G idle
+04.020298 Aardvark C idle
+04.020462 Aardvark G slurping Anthill 2
+04.020489 Aardvark C slurping Anthill 0
+05.000827 Aardvark J swallowing
+05.000850 Aardvark E swallowing
+05.000860 Aardvark F swallowing
+05.000871 Aardvark D swallowing
+05.000874 Aardvark A swallowing
+05.000879 Aardvark I swallowing
+05.000842 Aardvark B swallowing
+05.010608 Aardvark K idle
+05.010629 Aardvark H idle
+05.010719 Aardvark H slurping Anthill 0
+05.010739 Aardvark K slurping Anthill 1
+05.020531 Aardvark G swallowing
+05.020559 Aardvark C swallowing
+06.000949 Aardvark J idle
+06.000977 Aardvark J slurping Anthill 2
+06.000952 Aardvark F idle
+06.001004 Aardvark F slurping Anthill 0
+06.000959 Aardvark E idle
+06.001016 Aardvark E slurping Anthill 1
+06.000961 Aardvark D idle
+06.001029 Aardvark D slurping Anthill 2
+06.000964 Aardvark I idle
+06.001043 Aardvark I slurping Anthill 0
+06.000970 Aardvark A idle
+06.001057 Aardvark A slurping Anthill 1
+06.000973 Aardvark B idle
+06.001065 Aardvark B slurping Anthill 2
+06.010791 Aardvark H swallowing
+06.010815 Aardvark K swallowing
+06.020600 Aardvark G idle
+06.020630 Aardvark C idle
+06.020720 Aardvark G slurping Anthill 0
+06.020740 Aardvark C slurping Anthill 1
+07.001064 Aardvark J swallowing
+07.001088 Aardvark A swallowing
+07.001107 Aardvark B swallowing
+07.001115 Aardvark I swallowing
+07.001082 Aardvark F swallowing
+07.001085 Aardvark D swallowing
+07.001076 Aardvark E swallowing
+07.010861 Aardvark H idle
+07.010890 Aardvark K idle
+07.010978 Aardvark H slurping Anthill 2
+07.011005 Aardvark K slurping Anthill 0
+07.020788 Aardvark G swallowing
+07.020810 Aardvark C swallowing
+08.001185 Aardvark J idle
+08.001209 Aardvark I idle
+08.001225 Aardvark F idle
+08.001230 Aardvark F slurping Anthill 1
+08.001233 Aardvark E idle
+08.001251 Aardvark E slurping Anthill 2
+08.001216 Aardvark D idle
+08.001268 Aardvark D slurping Anthill 0
+08.001200 Aardvark B idle
+08.001285 Aardvark B slurping Anthill 1
+08.001226 Aardvark I slurping Anthill 1
+08.001206 Aardvark A idle
+08.001310 Aardvark A slurping Anthill 2
+08.001213 Aardvark J slurping Anthill 0
+08.011049 Aardvark H swallowing
+08.011080 Aardvark K swallowing
+08.020856 Aardvark G idle
+08.020885 Aardvark C idle
+08.020979 Aardvark G slurping Anthill 2
+08.021005 Aardvark C slurping Anthill 0
+09.001313 Aardvark F swallowing
+09.001334 Aardvark E swallowing
+09.001363 Aardvark I swallowing
+09.001328 Aardvark D swallowing
+09.001372 Aardvark J swallowing
+09.001379 Aardvark A swallowing
+09.001348 Aardvark B swallowing
+09.011158 Aardvark K idle
+09.011199 Aardvark H idle
+09.011215 Aardvark K slurping Anthill 0
+09.011243 Aardvark H slurping Anthill 1
+09.021075 Aardvark C swallowing
+09.021095 Aardvark G swallowing
+10.001438 Aardvark I idle
+10.001462 Aardvark E idle
+10.001486 Aardvark E slurping Anthill 0
+10.001450 Aardvark D idle
+10.001498 Aardvark D slurping Anthill 1
+10.001453 Aardvark A idle
+10.001505 Aardvark A slurping Anthill 2
+10.001455 Aardvark B idle
+10.001517 Aardvark B slurping Anthill 0
+10.001467 Aardvark I slurping Anthill 2
+10.001442 Aardvark F idle
+10.001537 Aardvark F slurping Anthill 1
+10.001474 Aardvark J idle
+10.001545 Aardvark J slurping Anthill 2
+10.011287 Aardvark K swallowing
+10.011322 Aardvark H swallowing
+10.021143 Aardvark C idle
+10.021215 Aardvark C slurping Anthill 0
+10.021226 Aardvark G idle
+10.021244 Aardvark G slurping Anthill 1
+11.001574 Aardvark A swallowing
+11.001597 Aardvark J swallowing
+11.001580 Aardvark E swallowing
+11.001588 Aardvark F swallowing
+11.001595 Aardvark I swallowing
+11.001607 Aardvark D swallowing
+11.001586 Aardvark B swallowing
+11.011358 Aardvark K idle
+11.011391 Aardvark H idle
+11.011468 Aardvark H slurping Anthill 2
+11.011486 Aardvark K slurping Anthill 0
+11.021291 Aardvark C swallowing
+11.021314 Aardvark G swallowing
+12.001699 Aardvark A idle
+12.001726 Aardvark A slurping Anthill 0
+12.001701 Aardvark I idle
+12.001753 Aardvark I slurping Anthill 1
+12.001708 Aardvark F idle
+12.001770 Aardvark F slurping Anthill 1
+12.001710 Aardvark J idle
+12.001784 Aardvark J slurping Anthill 2
+12.001713 Aardvark D idle
+12.001797 Aardvark D slurping Anthill 0
+12.001716 Aardvark E idle
+12.001810 Aardvark E slurping Anthill 1
+12.001722 Aardvark B idle
+12.001821 Aardvark B slurping Anthill 2
+12.011539 Aardvark H swallowing
+12.011579 Aardvark K swallowing
+12.021372 Aardvark C idle
+12.021384 Aardvark G idle
+12.021468 Aardvark G slurping Anthill 2
+12.021487 Aardvark C slurping Anthill 0
+13.001825 Aardvark D swallowing
+13.001851 Aardvark A swallowing
+13.001834 Aardvark I swallowing
+13.001890 Aardvark B swallowing
+13.001843 Aardvark E swallowing
+13.001846 Aardvark F swallowing
+13.001840 Aardvark J swallowing
+13.011617 Aardvark H idle
+13.011667 Aardvark K idle
+13.011727 Aardvark K slurping Anthill 0
+13.011754 Aardvark H slurping Anthill 1
+13.021538 Aardvark G swallowing
+13.021560 Aardvark C swallowing
+14.001934 Aardvark D idle
+14.001958 Aardvark E idle
+14.001975 Aardvark F idle
+14.001981 Aardvark E slurping Anthill 0
+14.001973 Aardvark B idle
+14.001997 Aardvark B slurping Anthill 2
+14.002000 Aardvark J idle
+14.002004 Aardvark J slurping Anthill 0
+14.001970 Aardvark I idle
+14.002023 Aardvark I slurping Anthill 1
+14.001960 Aardvark D slurping Anthill 2
+14.001994 Aardvark A idle
+14.002053 Aardvark A slurping Anthill 2
+14.001982 Aardvark F slurping Anthill 1
+14.011806 Aardvark K swallowing
+14.011828 Aardvark H swallowing
+14.021613 Aardvark G idle
+14.021640 Aardvark C idle
+14.021728 Aardvark G slurping Anthill 0
+14.021757 Aardvark C slurping Anthill 1
+15.002077 Aardvark E swallowing
+15.002078 Aardvark B swallowing
+15.002084 Aardvark I swallowing
+15.002087 Aardvark A swallowing
+15.002093 Aardvark J swallowing
+15.002096 Aardvark D swallowing
+15.002124 Aardvark F swallowing
+15.011890 Aardvark K idle
+15.011904 Aardvark H idle
+15.011961 Aardvark H slurping Anthill 2
+15.011981 Aardvark K slurping Anthill 0
+15.021798 Aardvark G swallowing
+15.021829 Aardvark C swallowing
+16.002197 Aardvark E idle
+16.002204 Aardvark I idle
+16.002259 Aardvark I slurping Anthill 1
+16.002211 Aardvark B idle
+16.002271 Aardvark B slurping Anthill 1
+16.002217 Aardvark D idle
+16.002286 Aardvark D slurping Anthill 2
+16.002236 Aardvark E slurping Anthill 0
+16.002240 Aardvark J idle
+16.002306 Aardvark J slurping Anthill 0
+16.002243 Aardvark F idle
+16.002320 Aardvark F slurping Anthill 1
+16.002214 Aardvark A idle
+16.002331 Aardvark A slurping Anthill 2
+16.012033 Aardvark H swallowing
+16.012058 Aardvark K swallowing
+16.021869 Aardvark G idle
+16.021905 Aardvark C idle
+16.021961 Aardvark G slurping Anthill 2
+16.021982 Aardvark C slurping Anthill 0
+17.002346 Aardvark I swallowing
+17.002371 Aardvark F swallowing
+17.002359 Aardvark D swallowing
+17.002399 Aardvark A swallowing
+17.002381 Aardvark J swallowing
+17.002366 Aardvark B swallowing
+17.002368 Aardvark E swallowing
+17.012107 Aardvark H idle
+17.012138 Aardvark K idle
+17.012237 Aardvark K slurping Anthill 0
+17.012260 Aardvark H slurping Anthill 1
+17.022029 Aardvark G swallowing
+17.022052 Aardvark C swallowing
+18.002458 Aardvark I idle
+18.002484 Aardvark A idle
+18.002502 Aardvark D idle
+18.002506 Aardvark D slurping Anthill 0
+18.002511 Aardvark F idle
+18.002514 Aardvark F slurping Anthill 2
+18.002517 Aardvark E idle
+18.002521 Aardvark E slurping Anthill 0
+18.002492 Aardvark J idle
+18.002534 Aardvark J slurping Anthill 1
+18.002486 Aardvark I slurping Anthill 2
+18.002494 Aardvark B idle
+18.002545 Aardvark B slurping Anthill 2
+18.002507 Aardvark A slurping Anthill 1
+18.012317 Aardvark K swallowing
+18.012340 Aardvark H swallowing
+18.022105 Aardvark G idle
+18.022122 Aardvark C idle
+18.022238 Aardvark C slurping Anthill 0
+18.022261 Aardvark G slurping Anthill 1
+19.002609 Aardvark F swallowing
+19.002633 Aardvark A swallowing
+19.002613 Aardvark B swallowing
+19.002622 Aardvark E swallowing
+19.002624 Aardvark J swallowing
+19.002627 Aardvark I swallowing
+19.002619 Aardvark D swallowing
+19.012387 Aardvark K idle
+19.012415 Aardvark H idle
+19.012487 Aardvark K slurping Anthill 2
+19.012507 Aardvark H slurping Anthill 0
+19.022309 Aardvark C swallowing
+19.022331 Aardvark G swallowing
+20.002725 Aardvark F idle
+20.002751 Aardvark A idle
+20.002769 Aardvark A slurping Anthill 1
+20.002774 Aardvark B idle
+20.002780 Aardvark B slurping Anthill 1
+20.002782 Aardvark D idle
+20.002788 Aardvark D slurping Anthill 2
+20.002753 Aardvark F slurping Anthill 0
+20.002761 Aardvark E idle
+20.002764 Aardvark I idle
+20.002802 Aardvark I slurping Anthill 1
+20.002797 Aardvark E slurping Anthill 0
+20.002744 Aardvark J idle
+20.002818 Aardvark J slurping Anthill 2
+20.012577 Aardvark K swallowing
+20.012591 Aardvark H swallowing
+20.022381 Aardvark C idle
+20.022438 Aardvark G idle
+20.022488 Aardvark C slurping Anthill 2
+20.022508 Aardvark G slurping Anthill 0
+21.002893 Aardvark I swallowing
+21.002889 Aardvark A swallowing
+21.002899 Aardvark F swallowing
+21.002902 Aardvark D swallowing
+21.002904 Aardvark E swallowing
+21.002910 Aardvark J swallowing
+21.002932 Aardvark B swallowing
+21.012664 Aardvark H idle
+21.012665 Aardvark K idle
+21.012754 Aardvark K slurping Anthill 0
+21.012770 Aardvark H slurping Anthill 1
+21.022558 Aardvark C swallowing
+21.022583 Aardvark G swallowing
+22.003012 Aardvark I idle
+22.003040 Aardvark I slurping Anthill 2
+22.003041 Aardvark A idle
+22.003063 Aardvark B idle
+22.003069 Aardvark D idle
+22.003066 Aardvark A slurping Anthill 0
+22.003078 Aardvark J idle
+22.003070 Aardvark B slurping Anthill 1
+22.003075 Aardvark D slurping Anthill 2
+22.003060 Aardvark E idle
+22.003091 Aardvark E slurping Anthill 1
+22.003094 Aardvark F idle
+22.003099 Aardvark F slurping Anthill 2
+22.003083 Aardvark J slurping Anthill 0
+22.012828 Aardvark K swallowing
+22.012843 Aardvark H swallowing
+22.022632 Aardvark C idle
+22.022660 Aardvark G idle
+22.022755 Aardvark G slurping Anthill 0
+22.022771 Aardvark C slurping Anthill 1
+23.003131 Aardvark I swallowing
+23.003160 Aardvark E swallowing
+23.003178 Aardvark D swallowing
+23.003164 Aardvark B swallowing
+23.003140 Aardvark A swallowing
+23.003172 Aardvark F swallowing
+23.003174 Aardvark J swallowing
+23.012899 Aardvark K idle
+23.012917 Aardvark H idle
+23.013042 Aardvark K slurping Anthill 2
+23.013067 Aardvark H slurping Anthill 0
+23.022831 Aardvark G swallowing
+23.022843 Aardvark C swallowing
+24.003243 Aardvark I idle
+24.003267 Aardvark E idle
+24.003286 Aardvark E slurping Anthill 1
+24.003290 Aardvark J idle
+24.003294 Aardvark J slurping Anthill 1
+24.003301 Aardvark F idle
+24.003261 Aardvark D idle
+24.003310 Aardvark D slurping Anthill 0
+24.003269 Aardvark I slurping Anthill 0
+24.003273 Aardvark B idle
+24.003330 Aardvark B slurping Anthill 1
+24.003307 Aardvark F slurping Anthill 2
+24.003287 Aardvark A idle
+24.003354 Aardvark A slurping Anthill 2
+24.013112 Aardvark K swallowing
+24.013136 Aardvark H swallowing
+24.022903 Aardvark G idle
+24.022915 Aardvark C idle
+24.023041 Aardvark C slurping Anthill 2
+24.023068 Aardvark G slurping Anthill 0
+25.003386 Aardvark J swallowing
+25.003389 Aardvark E swallowing
+25.003396 Aardvark I swallowing
+25.003398 Aardvark F swallowing
+25.003401 Aardvark D swallowing
+25.003407 Aardvark A swallowing
+25.003411 Aardvark B swallowing
+25.013186 Aardvark K idle
+25.013205 Aardvark H idle
+25.013271 Aardvark H slurping Anthill 0
+25.013286 Aardvark K slurping Anthill 1
+25.023113 Aardvark C swallowing
+25.023137 Aardvark G swallowing
+26.003515 Aardvark J idle
+26.003553 Aardvark I idle
+26.003592 Aardvark I slurping Anthill 0
+26.003547 Aardvark F idle
+26.003605 Aardvark F slurping Anthill 1
+26.003550 Aardvark A idle
+26.003614 Aardvark A slurping Anthill 2
+26.003555 Aardvark J slurping Anthill 2
+26.003560 Aardvark B idle
+26.003643 Aardvark B slurping Anthill 0
+26.003562 Aardvark D idle
+26.003654 Aardvark D slurping Anthill 1
+26.003539 Aardvark E idle
+26.003663 Aardvark E slurping Anthill 2
+26.013356 Aardvark H swallowing
+26.013363 Aardvark K swallowing
+26.023185 Aardvark C idle
+26.023210 Aardvark G idle
+26.023273 Aardvark C slurping Anthill 0
+26.023287 Aardvark G slurping Anthill 1
+27.003683 Aardvark B swallowing
+27.003685 Aardvark A swallowing
+27.003691 Aardvark F swallowing
+27.003694 Aardvark D swallowing
+27.003697 Aardvark J swallowing
+27.003703 Aardvark I swallowing
+27.003725 Aardvark E swallowing
+27.013447 Aardvark H idle
+27.013458 Aardvark K idle
+27.013556 Aardvark K slurping Anthill 2
+27.013593 Aardvark H slurping Anthill 0
+27.023352 Aardvark C swallowing
+27.023358 Aardvark G swallowing
+28.003815 Aardvark B idle
+28.003838 Aardvark D idle
+28.003860 Aardvark D slurping Anthill 1
+28.003826 Aardvark F idle
+28.003833 Aardvark A idle
+28.003877 Aardvark A slurping Anthill 2
+28.003841 Aardvark B slurping Anthill 0
+28.003845 Aardvark J idle
+28.003908 Aardvark J slurping Anthill 0
+28.003869 Aardvark E idle
+28.003919 Aardvark E slurping Anthill 1
+28.003872 Aardvark F slurping Anthill 1
+28.003835 Aardvark I idle
+28.003941 Aardvark I slurping Anthill 2
+28.013630 Aardvark K swallowing
+28.013666 Aardvark H swallowing
+28.023429 Aardvark C idle
+28.023429 Aardvark G idle
+28.023557 Aardvark C slurping Anthill 2
+28.023594 Aardvark G slurping Anthill 0
+29.003945 Aardvark D swallowing
+29.003975 Aardvark E swallowing
+29.003996 Aardvark F swallowing
+29.004009 Aardvark I swallowing
+29.003963 Aardvark A swallowing
+29.003965 Aardvark B swallowing
+29.003956 Aardvark J swallowing
+29.013702 Aardvark K idle
+29.013742 Aardvark H idle
+29.013843 Aardvark K slurping Anthill 0
+29.013861 Aardvark H slurping Anthill 1
+29.023627 Aardvark C swallowing
+29.023666 Aardvark G swallowing
+30.004070 Aardvark B idle
+30.004098 Aardvark B slurping Anthill 2
+30.004079 Aardvark I idle
+30.004129 Aardvark I slurping Anthill 0
+30.004082 Aardvark A idle
+30.004145 Aardvark A slurping Anthill 1
+30.004085 Aardvark J idle
+30.004159 Aardvark J slurping Anthill 2
+30.004087 Aardvark F idle
+30.004176 Aardvark F slurping Anthill 0
+30.004093 Aardvark D idle
+30.004189 Aardvark D slurping Anthill 1
+30.004073 Aardvark E idle
+30.004199 Aardvark E slurping Anthill 2
+30.013924 Aardvark K swallowing
+30.013947 Aardvark H swallowing
+30.023718 Aardvark C idle
+30.023746 Aardvark G idle
+30.023846 Aardvark C slurping Anthill 0
+30.023862 Aardvark G slurping Anthill 1
+31.004180 Aardvark B swallowing
+31.004204 Aardvark I swallowing
+31.004198 Aardvark A swallowing
+31.004218 Aardvark J swallowing
+31.004249 Aardvark F swallowing
+31.004253 Aardvark E swallowing
+31.004257 Aardvark D swallowing
+31.014013 Aardvark K idle
+31.014028 Aardvark H idle
+31.014098 Aardvark H slurping Anthill 2
+31.014129 Aardvark K slurping Anthill 0
+31.023917 Aardvark C swallowing
+31.023933 Aardvark G swallowing
+32.004285 Aardvark J idle
+32.004307 Aardvark I idle
+32.004323 Aardvark F idle
+32.004326 Aardvark I slurping Anthill 1
+32.004331 Aardvark A idle
+32.004334 Aardvark A slurping Anthill 2
+32.004300 Aardvark D idle
+32.004314 Aardvark E idle
+32.004346 Aardvark E slurping Anthill 1
+32.004327 Aardvark F slurping Anthill 1
+32.004311 Aardvark J slurping Anthill 0
+32.004342 Aardvark D slurping Anthill 0
+32.004317 Aardvark B idle
+32.004399 Aardvark B slurping Anthill 2
+32.014173 Aardvark H swallowing
+32.014200 Aardvark K swallowing
+32.023989 Aardvark C idle
+32.024007 Aardvark G idle
+32.024099 Aardvark G slurping Anthill 2
+32.024130 Aardvark C slurping Anthill 0
+33.004418 Aardvark A swallowing
+33.004436 Aardvark F swallowing
+33.004424 Aardvark E swallowing
+33.004427 Aardvark J swallowing
+33.004430 Aardvark B swallowing
+33.004420 Aardvark I swallowing
+33.004448 Aardvark D swallowing
+33.014244 Aardvark H idle
+33.014271 Aardvark K idle
+33.014312 Aardvark H slurping Anthill 0
+33.014327 Aardvark K slurping Anthill 1
+33.024169 Aardvark G swallowing
+33.024200 Aardvark C swallowing
+34.004524 Aardvark B idle
+34.004548 Aardvark A idle
+34.004581 Aardvark A slurping Anthill 0
+34.004587 Aardvark D idle
+34.004592 Aardvark D slurping Anthill 1
+34.004542 Aardvark E idle
+34.004609 Aardvark E slurping Anthill 2
+34.004551 Aardvark B slurping Anthill 2
+34.004536 Aardvark J idle
+34.004638 Aardvark J slurping Anthill 0
+34.004539 Aardvark I idle
+34.004655 Aardvark I slurping Anthill 1
+34.004529 Aardvark F idle
+34.004664 Aardvark F slurping Anthill 2
+34.014382 Aardvark H swallowing
+34.014406 Aardvark K swallowing
+34.024239 Aardvark G idle
+34.024274 Aardvark C idle
+34.024313 Aardvark G slurping Anthill 0
+34.024328 Aardvark C slurping Anthill 1
+35.004662 Aardvark A swallowing
+35.004680 Aardvark D swallowing
+35.004692 Aardvark B swallowing
+35.004686 Aardvark J swallowing
+35.004674 Aardvark E swallowing
+35.004700 Aardvark I swallowing
+35.004729 Aardvark F swallowing
+35.014454 Aardvark H idle
+35.014477 Aardvark K idle
+35.014552 Aardvark K slurping Anthill 2
+35.014582 Aardvark H slurping Anthill 0
+35.024395 Aardvark G swallowing
+35.024405 Aardvark C swallowing
+36.004768 Aardvark D idle
+36.004790 Aardvark I idle
+36.004813 Aardvark I slurping Anthill 1
+36.004777 Aardvark B idle
+36.004769 Aardvark A idle
+36.004824 Aardvark B slurping Anthill 1
+36.004782 Aardvark F idle
+36.004832 Aardvark F slurping Anthill 0
+36.004794 Aardvark D slurping Anthill 0
+36.004780 Aardvark E idle
+36.004785 Aardvark J idle
+36.004842 Aardvark E slurping Anthill 1
+36.004826 Aardvark A slurping Anthill 2
+36.004845 Aardvark J slurping Anthill 2
+36.014629 Aardvark K swallowing
+36.014653 Aardvark H swallowing
+36.024470 Aardvark G idle
+36.024483 Aardvark C idle
+36.024553 Aardvark C slurping Anthill 2
+36.024582 Aardvark G slurping Anthill 0
+37.004914 Aardvark F swallowing
+37.004915 Aardvark E swallowing
+37.004920 Aardvark J swallowing
+37.004923 Aardvark I swallowing
+37.004929 Aardvark A swallowing
+37.004932 Aardvark D swallowing
+37.004935 Aardvark B swallowing
+37.014707 Aardvark K idle
+37.014723 Aardvark H idle
+37.014795 Aardvark K slurping Anthill 0
+37.014813 Aardvark H slurping Anthill 1
+37.024624 Aardvark C swallowing
+37.024653 Aardvark G swallowing
+38.005021 Aardvark F idle
+38.005047 Aardvark F slurping Anthill 2
+38.005023 Aardvark J idle
+38.005072 Aardvark J slurping Anthill 0
+38.005038 Aardvark E idle
+38.005083 Aardvark B idle
+38.005089 Aardvark B slurping Anthill 2
+38.005040 Aardvark I idle
+38.005100 Aardvark I slurping Anthill 0
+38.005089 Aardvark A idle
+38.005115 Aardvark A slurping Anthill 1
+38.005043 Aardvark D idle
+38.005143 Aardvark D slurping Anthill 2
+38.005084 Aardvark E slurping Anthill 1
+38.014870 Aardvark K swallowing
+38.014885 Aardvark H swallowing
+38.024701 Aardvark C idle
+38.024729 Aardvark G idle
+38.024796 Aardvark G slurping Anthill 0
+38.024813 Aardvark C slurping Anthill 1
+39.005137 Aardvark F swallowing
+39.005143 Aardvark B swallowing
+39.005149 Aardvark J swallowing
+39.005152 Aardvark A swallowing
+39.005220 Aardvark E swallowing
+39.005158 Aardvark I swallowing
+39.005217 Aardvark D swallowing
+39.014942 Aardvark K idle
+39.014955 Aardvark H idle
+39.015048 Aardvark H slurping Anthill 2
+39.015072 Aardvark K slurping Anthill 0
+39.024865 Aardvark G swallowing
+39.024883 Aardvark C swallowing
+40.005259 Aardvark A idle
+40.005282 Aardvark I idle
+40.005300 Aardvark I slurping Anthill 1
+40.005305 Aardvark D idle
+40.005309 Aardvark D slurping Anthill 1
+40.005272 Aardvark B idle
+40.005317 Aardvark B slurping Anthill 2
+40.005287 Aardvark A slurping Anthill 0
+40.005279 Aardvark E idle
+40.005291 Aardvark F idle
+40.005330 Aardvark F slurping Anthill 1
+40.005303 Aardvark J idle
+40.005347 Aardvark J slurping Anthill 2
+40.005326 Aardvark E slurping Anthill 0
+40.015120 Aardvark H swallowing
+40.015142 Aardvark K swallowing
+40.024938 Aardvark G idle
+40.024952 Aardvark C idle
+40.025049 Aardvark G slurping Anthill 2
+40.025073 Aardvark C slurping Anthill 0
+41.005396 Aardvark E swallowing
+41.005423 Aardvark D swallowing
+41.005411 Aardvark B swallowing
+41.005413 Aardvark J swallowing
+41.005417 Aardvark A swallowing
+41.005404 Aardvark I swallowing
+41.005434 Aardvark F swallowing
+41.015195 Aardvark H idle
+41.015211 Aardvark K idle
+41.015288 Aardvark H slurping Anthill 0
+41.015300 Aardvark K slurping Anthill 1
+41.025122 Aardvark G swallowing
+41.025145 Aardvark C swallowing
+42.005513 Aardvark E idle
+42.005537 Aardvark D idle
+42.005556 Aardvark I idle
+42.005560 Aardvark D slurping Anthill 0
+42.005565 Aardvark A idle
+42.005578 Aardvark A slurping Anthill 2
+42.005585 Aardvark B idle
+42.005538 Aardvark E slurping Anthill 2
+42.005592 Aardvark B slurping Anthill 0
+42.005553 Aardvark J idle
+42.005588 Aardvark F idle
+42.005605 Aardvark F slurping Anthill 2
+42.005600 Aardvark J slurping Anthill 1
+42.005562 Aardvark I slurping Anthill 1
+42.015365 Aardvark H swallowing
+42.015381 Aardvark K swallowing
+42.025198 Aardvark G idle
+42.025230 Aardvark C idle
+42.025288 Aardvark G slurping Anthill 0
+42.025301 Aardvark C slurping Anthill 1
+43.005603 Aardvark A swallowing
+43.005653 Aardvark D swallowing
+43.005669 Aardvark F swallowing
+43.005656 Aardvark B swallowing
+43.005660 Aardvark E swallowing
+43.005663 Aardvark J swallowing
+43.005677 Aardvark I swallowing
+43.015436 Aardvark H idle
+43.015455 Aardvark K idle
+43.015540 Aardvark K slurping Anthill 2
+43.015559 Aardvark H slurping Anthill 0
+43.025358 Aardvark G swallowing
+43.025372 Aardvark C swallowing
+44.005702 Aardvark A idle
+44.005729 Aardvark A slurping Anthill 0
+44.005743 Aardvark D idle
+44.005761 Aardvark D slurping Anthill 1
+44.005749 Aardvark B idle
+44.005711 Aardvark F idle
+44.005770 Aardvark B slurping Anthill 1
+44.005754 Aardvark E idle
+44.005752 Aardvark J idle
+44.005773 Aardvark F slurping Anthill 2
+44.005783 Aardvark J slurping Anthill 1
+44.005780 Aardvark E slurping Anthill 0
+44.005757 Aardvark I idle
+44.005798 Aardvark I slurping Anthill 2
+44.015619 Aardvark K swallowing
+44.015629 Aardvark H swallowing
+44.025426 Aardvark G idle
+44.025447 Aardvark C idle
+44.025542 Aardvark C slurping Anthill 2
+44.025560 Aardvark G slurping Anthill 0
+45.005816 Aardvark J swallowing
+45.005842 Aardvark F swallowing
+45.005838 Aardvark D swallowing
+45.005865 Aardvark I swallowing
+45.005832 Aardvark B swallowing
+45.005862 Aardvark E swallowing
+45.005850 Aardvark A swallowing
+45.015689 Aardvark K idle
+45.015699 Aardvark H idle
+45.015730 Aardvark H slurping Anthill 0
+45.015762 Aardvark K slurping Anthill 1
+45.025617 Aardvark C swallowing
+45.025627 Aardvark G swallowing
+46.005926 Aardvark E idle
+46.005945 Aardvark F idle
+46.005966 Aardvark B idle
+46.005973 Aardvark B slurping Anthill 0
+46.005977 Aardvark F slurping Anthill 1
+46.005958 Aardvark A idle
+46.006012 Aardvark A slurping Anthill 2
+46.005964 Aardvark D idle
+46.006028 Aardvark D slurping Anthill 0
+46.005974 Aardvark I idle
+46.006042 Aardvark I slurping Anthill 1
+46.005951 Aardvark E slurping Anthill 2
+46.005955 Aardvark J idle
+46.006065 Aardvark J slurping Anthill 2
+46.015812 Aardvark H swallowing
+46.015832 Aardvark K swallowing
+46.025693 Aardvark C idle
+46.025705 Aardvark G idle
+46.025732 Aardvark C slurping Anthill 0
+46.025763 Aardvark G slurping Anthill 1
+47.006062 Aardvark B swallowing
+47.006088 Aardvark F swallowing
+47.006105 Aardvark D swallowing
+47.006115 Aardvark E swallowing
+47.006124 Aardvark I swallowing
+47.006130 Aardvark J swallowing
+47.006116 Aardvark A swallowing
+47.015887 Aardvark H idle
+47.015904 Aardvark K idle
+47.015954 Aardvark H slurping Anthill 2
+47.015970 Aardvark K slurping Anthill 0
+47.025812 Aardvark C swallowing
+47.025847 Aardvark G swallowing
+48.006193 Aardvark E idle
+48.006222 Aardvark E slurping Anthill 0
+48.006194 Aardvark F idle
+48.006249 Aardvark F slurping Anthill 1
+48.006201 Aardvark I idle
+48.006268 Aardvark I slurping Anthill 1
+48.006204 Aardvark D idle
+48.006281 Aardvark D slurping Anthill 2
+48.006211 Aardvark J idle
+48.006298 Aardvark J slurping Anthill 0
+48.006213 Aardvark A idle
+48.006310 Aardvark A slurping Anthill 1
+48.006217 Aardvark B idle
+48.006321 Aardvark B slurping Anthill 2
+48.016032 Aardvark H swallowing
+48.016040 Aardvark K swallowing
+48.025889 Aardvark C idle
+48.025938 Aardvark G idle
+48.025955 Aardvark G slurping Anthill 2
+48.025971 Aardvark C slurping Anthill 0
+49.006326 Aardvark E swallowing
+49.006330 Aardvark F swallowing
+49.006338 Aardvark D swallowing
+49.006340 Aardvark A swallowing
+49.006343 Aardvark I swallowing
+49.006375 Aardvark B swallowing
+49.006381 Aardvark J swallowing
+49.016109 Aardvark H idle
+49.016110 Aardvark K idle
+49.016221 Aardvark H slurping Anthill 0
+49.016249 Aardvark K slurping Anthill 1
+49.026026 Aardvark G swallowing
+49.026040 Aardvark C swallowing
+50.006464 Aardvark E idle
+50.006490 Aardvark B idle
+50.006509 Aardvark J idle
+50.006515 Aardvark D idle
+50.006521 Aardvark D slurping Anthill 1
+50.006480 Aardvark F idle
+50.006530 Aardvark F slurping Anthill 2
+50.006506 Aardvark I idle
+50.006510 Aardvark B slurping Anthill 1
+50.006488 Aardvark A idle
+50.006516 Aardvark J slurping Anthill 2
+50.006501 Aardvark E slurping Anthill 2
+50.016290 Aardvark H swallowing
+50.016314 Aardvark K swallowing
+50.026095 Aardvark G idle
+50.026113 Aardvark C idle
+50.026251 Aardvark A slurping Anthill 1
+51.006578 Aardvark D swallowing
+51.006617 Aardvark F swallowing
+51.006624 Aardvark J swallowing
+51.006634 Aardvark B swallowing
+51.006670 Aardvark E swallowing
+51.016363 Aardvark H idle
+51.016381 Aardvark K idle
+51.016503 Aardvark K slurping Anthill 2
+51.016511 Aardvark C slurping Anthill 1
+51.016516 Aardvark H slurping Anthill 2
+51.016523 Aardvark G slurping Anthill 1
+51.016530 Aardvark I slurping Anthill 2
+51.026324 Aardvark A swallowing
+52.006703 Aardvark D idle
+52.006731 Aardvark B idle
+52.006733 Aardvark D slurping Anthill 1
+52.006736 Aardvark J idle
+52.006722 Aardvark F idle
+52.006742 Aardvark E idle
+52.016578 Aardvark K swallowing
+52.016592 Aardvark H swallowing
+52.018171 Aardvark C swallowing
+52.018181 Aardvark G swallowing
+52.018357 Aardvark I swallowing
+52.026405 Aardvark A idle
+52.026504 Aardvark E slurping Anthill 2
+52.026512 Aardvark F slurping Anthill 1
+52.026517 Aardvark J slurping Anthill 2
+52.026523 Aardvark A slurping Anthill 1
+52.026531 Aardvark B slurping Anthill 2
+53.006856 Aardvark D swallowing
+53.016657 Aardvark K idle
+53.016694 Aardvark H idle
+53.016733 Aardvark K slurping Anthill 1
+53.018240 Aardvark C idle
+53.018250 Aardvark G idle
+53.018421 Aardvark I idle
+53.026573 Aardvark E swallowing
+53.026587 Aardvark F swallowing
+53.026599 Aardvark A swallowing
+53.026608 Aardvark B swallowing
+53.026701 Aardvark J swallowing
+53.036504 Aardvark G slurping Anthill 2
+53.036512 Aardvark I slurping Anthill 1
+53.036517 Aardvark C slurping Anthill 2
+53.036525 Aardvark H slurping Anthill 1
+54.006975 Aardvark D idle
+54.007010 Aardvark D slurping Anthill 2
+54.016805 Aardvark K swallowing
+54.026661 Aardvark E idle
+54.026695 Aardvark F idle
+54.026721 Aardvark A idle
+54.026735 Aardvark A slurping Anthill 1
+54.026745 Aardvark B idle
+54.026766 Aardvark J idle
+54.036581 Aardvark I swallowing
+54.036594 Aardvark H swallowing
+54.036627 Aardvark G swallowing
+54.036645 Aardvark C swallowing
+54.046505 Aardvark F slurping Anthill 2
+55.009574 Aardvark D swallowing
+55.017573 Aardvark K idle
+55.034575 Aardvark A swallowing
+55.036694 Aardvark I idle
+55.038574 Aardvark G idle
+55.040573 Aardvark C idle
+55.051573 Aardvark F swallowing
+55.051650 Aardvark H idle
+56.009684 Aardvark D idle
+56.034673 Aardvark A idle
+56.051646 Aardvark F idle
+total elapsed real time is 56.051734 seconds
